@@ -1,0 +1,33 @@
+{
+  "name": "@folio/erm-stripes-containers",
+  "version": "1.0.0",
+  "description": "Component library for Stripes ERM applications",
+  "publishConfig": {
+    "registry": "https://repository.folio.org/repository/npm-folio/"
+  },
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "scripts": {
+    "test": "echo 'No tests implemented.'",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@folio/eslint-config-stripes": "^3.2.1",
+    "@folio/stripes": "^2.0.0",
+    "babel-eslint": "^9.0.0",
+    "eslint": "^5.5.0",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.0",
+    "react-intl": "^2.4.0"
+  },
+  "peerDependencies": {
+    "@folio/stripes": "^2.0.0",
+    "react": "*"
+  },
+  "stripes": {}
+}
