@@ -1,4 +1,8 @@
 {
+  "createOrg.alreadyExists": "An organization with this name already exists!",
+  "createOrg.createNew": "Create new organization",
+  "createOrg.name": "Name",
+
   "orgSelect.selectOrg": "Select an organization",
   "orgSelect.typeToSearch": "Begin typing to search for an organization"
 }
