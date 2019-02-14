@@ -7,7 +7,7 @@ The component assumes the existence of the `/erm/orgs` endpoint.
 ## Redux Form Usage
 
 ```
-import { OrganizationSelection } from '@folio/erm-stripes-components';
+import { OrganizationSelection } from '@folio/stripes-erm-components';
 import { Field } from 'redux-form';
 
 ...
