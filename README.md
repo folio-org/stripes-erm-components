@@ -1,4 +1,4 @@
-# erm-stripes-components
+# stripes-erm-components
 
 Copyright (C) 2017-2018 The Open Library Foundation
 
