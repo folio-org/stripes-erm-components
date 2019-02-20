@@ -2,7 +2,7 @@
 
 A Stripes `<Selection>` component used for selecting an ERM organization. It performs async lookups of the user's query and allows for the selection of one of the organizations returned.
 
-The component assumes the existence of the `/erm/org` endpoint.
+The component defaults to using the `/erm/org` endpoint.
 
 ## Redux Form Usage
 
@@ -14,6 +14,7 @@ import { Field } from 'redux-form';
 <Field
   component={OrganizationSelection}
   name="organization"
+  path="other/orgs/endpoint" // Override the default path of "erm/org"
   ...
 />
 ```
