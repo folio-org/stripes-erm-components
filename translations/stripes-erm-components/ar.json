@@ -1,7 +1,7 @@
 {
-    "createOrg.alreadyExists": "An organization with this name already exists!",
-    "createOrg.createNew": "Create new organization",
-    "createOrg.name": "Name",
-    "orgSelect.selectOrg": "Select an organization",
-    "orgSelect.typeToSearch": "Begin typing to search for an organization"
+    "createOrg.alreadyExists": "توجد مؤسسة بهذا الاسم بالفعل",
+    "createOrg.createNew": "إنشاء مؤسسة جديدة",
+    "createOrg.name": "الاسم",
+    "orgSelect.selectOrg": "اختر مؤسسة",
+    "orgSelect.typeToSearch": "ابدأ الكتابة للبحث عن مؤسسة"
 }
