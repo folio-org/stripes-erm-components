@@ -1,6 +1,6 @@
 {
   "name": "@folio/stripes-erm-components",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Component library for Stripes ERM applications",
   "publishConfig": {
     "registry": "https://repository.folio.org/repository/npm-folio/"
@@ -24,7 +24,8 @@
   "dependencies": {
     "lodash": "^4.17.4",
     "prop-types": "^15.6.0",
-    "react-intl": "^2.4.0"
+    "react-intl": "^2.4.0",
+    "redux-form": "^7.0.3"
   },
   "peerDependencies": {
     "@folio/stripes": "^2.0.0",

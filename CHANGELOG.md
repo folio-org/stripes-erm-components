@@ -8,3 +8,4 @@
 * Changed `CreateOrganizationModal` component to support `path` prop. Avail in 1.0.2.
 * Added `DocumentCard` component. Avail in 1.0.4.
 * Added `Spinner` component. Avail in 1.0.4.
+* Added `DocumentsFieldArray` component. Avail in 1.0.5.
