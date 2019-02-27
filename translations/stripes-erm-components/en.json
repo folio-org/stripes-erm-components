@@ -3,6 +3,12 @@
   "createOrg.createNew": "Create new organization",
   "createOrg.name": "Name",
 
+  "doc.type": "Type",
+  "doc.reference": "Reference",
+  "doc.location": "Physical location",
+  "doc.url": "URL",
+  "doc.note": "Note",
+
   "orgSelect.selectOrg": "Select an organization",
   "orgSelect.typeToSearch": "Begin typing to search for an organization"
 }
