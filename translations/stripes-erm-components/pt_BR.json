@@ -3,5 +3,15 @@
     "createOrg.createNew": "Criar nova organização",
     "createOrg.name": "Nome",
     "orgSelect.selectOrg": "Selecione uma organização",
-    "orgSelect.typeToSearch": "Comece a digitar para procurar uma organização"
+    "orgSelect.typeToSearch": "Comece a digitar para procurar uma organização",
+    "doc.type": "Tipo",
+    "doc.reference": "Referência",
+    "doc.location": "Localização física",
+    "doc.url": "URL",
+    "doc.note": "Nota",
+    "doc.addDoc": "Adicionar documento",
+    "doc.name": "Nome",
+    "doc.noDocs": "Nenhum documento foi adicionado.",
+    "doc.error.docsMustHaveLocationOrURL": "Cada documento deve especificar um local ou URL.",
+    "doc.error.invalidURL": "Por favor insira um URL válido (incluindo \"http\" ou \"https\")."
 }
