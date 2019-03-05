@@ -13,5 +13,12 @@
     "doc.name": "Name",
     "doc.noDocs": "No  documents have been added.",
     "doc.error.docsMustHaveLocationOrURL": "Each document must specify either a location or URL.",
-    "doc.error.invalidURL": "Please enter a valid URL (including \"http\" or \"https\")."
+    "doc.error.invalidURL": "Please enter a valid URL (including \"http\" or \"https\").",
+    "licenseCard.openEnded": "Open ended",
+    "licenseCard.notSet": "Not set",
+    "licenseCard.type": "Type",
+    "licenseCard.status": "Status",
+    "licenseCard.startDate": "Start date",
+    "licenseCard.endDate": "End date",
+    "licenseCard.licensor": "Licensor"
 }
