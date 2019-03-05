@@ -3,6 +3,14 @@
   "createOrg.createNew": "Create new organization",
   "createOrg.name": "Name",
 
+  "licenseCard.openEnded": "Open ended",
+  "licenseCard.notSet": "Not set",
+  "licenseCard.type": "Type",
+  "licenseCard.status": "Status",
+  "licenseCard.startDate": "Start date",
+  "licenseCard.endDate": "End date",
+  "licenseCard.licensor": "Licensor",
+
   "doc.addDoc": "Add  document",
   "doc.location": "Physical location",
   "doc.name": "Name",
