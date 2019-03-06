@@ -10,3 +10,4 @@
 * Added `Spinner` component. Avail in 1.0.4.
 * Added `DocumentsFieldArray` component. Avail in 1.0.5.
 * Added `LicenseCard` component. Avail in 1.0.6.
+* Added `LicenseEndDate` component. Avail in 1.0.7.
