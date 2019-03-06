@@ -13,5 +13,12 @@
     "doc.name": "الاسم",
     "doc.noDocs": "لم تتم إضافة أي وثائق.",
     "doc.error.docsMustHaveLocationOrURL": "يجب على كل وثيقة تحديد إما الموقع أو عنوان URL",
-    "doc.error.invalidURL": "يرجى إدخال عنوان URL صالح (متضمنًا \"http\" أو\"https\") "
+    "doc.error.invalidURL": "يرجى إدخال عنوان URL صالح (متضمنًا \"http\" أو\"https\") ",
+    "licenseCard.openEnded": "Open ended",
+    "licenseCard.notSet": "Not set",
+    "licenseCard.type": "Type",
+    "licenseCard.status": "Status",
+    "licenseCard.startDate": "Start date",
+    "licenseCard.endDate": "End date",
+    "licenseCard.licensor": "Licensor"
 }
