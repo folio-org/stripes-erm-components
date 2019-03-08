@@ -1,6 +1,8 @@
 # Change history for stripes-erm-components
 
-## 1.0.0 (IN-PROGRESS)
+## 1.2.0 (IN PROGRESS)
+
+## 1.1.0 (08-03-2019)
 
 * Added `OrganizationSelection` component.
 * Added `CreateOrganizationModal` component. Avail in 1.0.1.
@@ -11,3 +13,5 @@
 * Added `DocumentsFieldArray` component. Avail in 1.0.5.
 * Added `LicenseCard` component. Avail in 1.0.6.
 * Added `LicenseEndDate` component. Avail in 1.0.7.
+* Changed `getSASParams` to support `qindex`.
+* Changed `getSASParams` to support multiple `match` params.
