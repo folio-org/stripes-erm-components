@@ -14,11 +14,11 @@
     "doc.noDocs": "لم تتم إضافة أي وثائق.",
     "doc.error.docsMustHaveLocationOrURL": "يجب على كل وثيقة تحديد إما الموقع أو عنوان URL",
     "doc.error.invalidURL": "يرجى إدخال عنوان URL صالح (متضمنًا \"http\" أو\"https\") ",
-    "licenseCard.openEnded": "Open ended",
-    "licenseCard.notSet": "Not set",
-    "licenseCard.type": "Type",
-    "licenseCard.status": "Status",
-    "licenseCard.startDate": "Start date",
-    "licenseCard.endDate": "End date",
-    "licenseCard.licensor": "Licensor"
+    "licenseCard.openEnded": "انتهى المفتوح",
+    "licenseCard.notSet": "لم يتم تعيينه",
+    "licenseCard.type": "النوع",
+    "licenseCard.status": "الحالة",
+    "licenseCard.startDate": "تاريخ البدء",
+    "licenseCard.endDate": "تاريخ الانتهاء",
+    "licenseCard.licensor": "المرخص"
 }
