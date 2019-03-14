@@ -2,6 +2,8 @@
 
 ## 1.2.0 (IN PROGRESS)
 
+* Added `LicenseTermsList` component. Avail in 1.1.1.
+
 ## 1.1.0 (08-03-2019)
 
 * Added `OrganizationSelection` component.
@@ -15,4 +17,3 @@
 * Added `LicenseEndDate` component. Avail in 1.0.7.
 * Changed `getSASParams` to support `qindex`.
 * Changed `getSASParams` to support multiple `match` params.
-* Added `LicenseTermsList` component. Avail in 1.0.8.
