@@ -19,3 +19,4 @@
 * Added `LicenseEndDate` component. Avail in 1.0.7.
 * Changed `getSASParams` to support `qindex`.
 * Changed `getSASParams` to support multiple `match` params.
+* Added `LicenseTermsList` component. Avail in 1.0.8.
