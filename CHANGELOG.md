@@ -1,6 +1,7 @@
 # Change history for stripes-erm-components
 
-## 1.2.0 (IN PROGRESS)
+## 1.2.0 (18-03-2019)
+* Updated translation strings.
 
 ## 1.1.0 (08-03-2019)
 
