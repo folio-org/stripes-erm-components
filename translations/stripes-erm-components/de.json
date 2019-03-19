@@ -21,6 +21,5 @@
     "licenseCard.startDate": "Start date",
     "licenseCard.endDate": "End date",
     "licenseCard.licensor": "Licensor",
-    "licenseTermsList.notSet": "Not set",
-    "licenseTermsList.terms": "Terms"
+    "licenseTermsList.notSet": "Not set"
 }
