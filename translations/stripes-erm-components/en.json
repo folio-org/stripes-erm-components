@@ -11,6 +11,8 @@
   "licenseCard.endDate": "End date",
   "licenseCard.licensor": "Licensor",
 
+  "licenseTermsList.notSet": "Not set",
+
   "doc.addDoc": "Add  document",
   "doc.location": "Physical location",
   "doc.name": "Name",
