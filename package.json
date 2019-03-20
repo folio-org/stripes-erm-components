@@ -1,6 +1,6 @@
 {
   "name": "@folio/stripes-erm-components",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Component library for Stripes ERM applications",
   "publishConfig": {
     "registry": "https://repository.folio.org/repository/npm-folio/"

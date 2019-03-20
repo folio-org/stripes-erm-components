@@ -2,8 +2,10 @@
 
 ## 1.3.0 (IN PROGRESS)
 
+* Added `LicenseTermsList` component. Avail in 1.2.1.
 
 ## 1.2.0 (18-03-2019)
+
 * Updated translation strings.
 
 ## 1.1.0 (08-03-2019)
