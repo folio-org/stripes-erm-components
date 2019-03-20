@@ -37,4 +37,4 @@ Indexes:
     "uc_custom_property_definitionpd_name_col" UNIQUE CONSTRAINT, btree (pd_name)
     "td_type_idx" btree (pd_type)
 Referenced by:
-    TABLE "custom_property" CONSTRAINT "FK36grvth72fb7wu5i5xaeqjitw" FOREIGN KEY (definition_id) REFERENCES custom_property_definition(pd_id)``` | jq -r '.[]'` | Yes |
+    TABLE "custom_property" CONSTRAINT "FK36grvth72fb7wu5i5xaeqjitw" FOREIGN KEY (definition_id) REFERENCES custom_property_definition(pd_id)``` | Yes |
