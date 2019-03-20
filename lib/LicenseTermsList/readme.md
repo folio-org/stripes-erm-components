@@ -19,7 +19,7 @@ import { LicenseTermsList } from '@folio/stripes-erm-components';
 | Name | Type | Description | Required | Default |
 --- | --- | --- | --- | --- |
 | `license` | object | [`License`](https://github.com/folio-org/mod-licenses/blob/master/service/grails-app/domain/org/olf/licenses/License.groovy) | Yes |
-| `terms` | array | [Licenses`](https://github.com/folio-org/ui-licenses/blob/master/src/routes/Licenses.js)
+| `terms` | array | [`Licenses`](https://github.com/folio-org/ui-licenses/blob/master/src/routes/Licenses.js)
 ```okapi_modules=# \d custom_property_definition;
 Table "diku_mod_licenses.custom_property_definition"
      Column     |          Type          | Modifiers
