@@ -20,5 +20,6 @@
     "licenseCard.status": "Status",
     "licenseCard.startDate": "Data de início",
     "licenseCard.endDate": "Data de término",
-    "licenseCard.licensor": "Licenciante"
+    "licenseCard.licensor": "Licenciante",
+    "licenseTermsList.notSet": "Não configurado"
 }

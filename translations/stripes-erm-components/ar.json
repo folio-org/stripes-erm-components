@@ -20,5 +20,6 @@
     "licenseCard.status": "الحالة",
     "licenseCard.startDate": "تاريخ البدء",
     "licenseCard.endDate": "تاريخ الانتهاء",
-    "licenseCard.licensor": "المرخص"
+    "licenseCard.licensor": "المرخص",
+    "licenseTermsList.notSet": "لم يتم تعيينه"
 }
