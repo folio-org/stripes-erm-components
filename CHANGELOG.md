@@ -3,6 +3,7 @@
 ## 1.3.0 (IN PROGRESS)
 
 * Added `LicenseTermsList` component. Avail in 1.2.1.
+* Added `withKiwtFieldArray` higher-order component. Avail in 1.3.0.
 
 ## 1.2.0 (18-03-2019)
 
