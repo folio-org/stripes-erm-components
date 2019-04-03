@@ -14,6 +14,7 @@
   "licenseTermsList.notSet": "Not set",
 
   "doc.addDoc": "Add  document",
+  "doc.category": "Category",
   "doc.location": "Physical location",
   "doc.name": "Name",
   "doc.note": "Note",
