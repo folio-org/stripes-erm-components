@@ -7,7 +7,8 @@ export { default as LicenseEndDate } from './lib/LicenseEndDate';
 export { default as LicenseTermsList } from './lib/LicenseTermsList';
 export { default as OrganizationSelection } from './lib/OrganizationSelection';
 export { default as Spinner } from './lib/Spinner';
-
+export { default as withTags } from './lib/Tags/withTags';
+export { default as Tags } from './lib/Tags';
 // HOCs
 export { default as withKiwtFieldArray } from './lib/withKiwtFieldArray/withKiwtFieldArray';
 
