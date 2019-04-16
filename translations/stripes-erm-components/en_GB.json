@@ -1,9 +1,9 @@
 {
-    "createOrg.alreadyExists": "An organization with this name already exists!",
-    "createOrg.createNew": "Create new organization",
+    "createOrg.alreadyExists": "An Organisation with this name already exists!",
+    "createOrg.createNew": "Create new Organisation",
     "createOrg.name": "Name",
-    "orgSelect.selectOrg": "Select an organization",
-    "orgSelect.typeToSearch": "Begin typing to search for an organization",
+    "orgSelect.selectOrg": "Select an Organisation",
+    "orgSelect.typeToSearch": "Begin typing to search for an Organisation",
     "doc.type": "Type",
     "doc.reference": "Reference",
     "doc.location": "Physical location",
