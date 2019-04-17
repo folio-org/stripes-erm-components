@@ -5,6 +5,8 @@
 * Added `LicenseTermsList` component. Avail in 1.2.1.
 * Added `withKiwtFieldArray` higher-order component. Avail in 1.3.0.
 * Added `Tags` component. Avail in 1.3.1.
+* Changed `DocumentsFieldArray` component to support `atType`. Avail in 1.3.2.
+* Changed `DocumentCard` component to support `atType`. Avail in 1.3.2.
 
 ## 1.2.0 (18-03-2019)
 
