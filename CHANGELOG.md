@@ -7,6 +7,7 @@
 * Added `Tags` component. Avail in 1.3.1.
 * Changed `DocumentsFieldArray` component to support `atType`. Avail in 1.3.2.
 * Changed `DocumentCard` component to support `atType`. Avail in 1.3.2.
+* Added `queryGetter` option to `getSASParams`. Avail in 1.3.3.
 
 ## 1.2.0 (18-03-2019)
 
