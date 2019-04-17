@@ -26,5 +26,11 @@
   "doc.error.invalidURL": "Please enter a valid URL (including \"http\" or \"https\").",
 
   "orgSelect.selectOrg": "Select an organization",
-  "orgSelect.typeToSearch": "Begin typing to search for an organization"
+  "orgSelect.typeToSearch": "Begin typing to search for an organization",
+
+  "placeholder.documentCategory": "Enter a category",
+
+  "tags": "Tags",
+  "numberOfTags": "{count, number} {count, plural, one {Tag} other {Tags}}",
+  "newTagCreated": "New tag created"
 }
