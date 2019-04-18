@@ -21,5 +21,10 @@
     "licenseCard.startDate": "تاريخ البدء",
     "licenseCard.endDate": "تاريخ الانتهاء",
     "licenseCard.licensor": "المرخص",
-    "licenseTermsList.notSet": "لم يتم تعيينه"
+    "licenseTermsList.notSet": "لم يتم تعيينه",
+    "tags": "Tags",
+    "numberOfTags": "{count, number} {count, plural, one {Tag} other {Tags}}",
+    "newTagCreated": "New tag created",
+    "doc.category": "Category",
+    "placeholder.documentCategory": "Enter a category"
 }
