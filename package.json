@@ -11,12 +11,16 @@
   },
   "scripts": {
     "test": "echo 'No tests implemented.'",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "bigTest": "stripes test karma"
   },
   "devDependencies": {
+    "@bigtest/interactor": "^0.7.2",
+    "@bigtest/mocha": "^0.5.0",
     "@folio/eslint-config-stripes": "^3.2.1",
     "@folio/stripes": "^2.0.0",
     "babel-eslint": "^9.0.0",
+    "chai": "^4.1.2",
     "eslint": "^5.5.0",
     "react": "^16.6.3",
     "react-dom": "^16.6.3"
