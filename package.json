@@ -10,9 +10,8 @@
     "node": ">=6.0.0"
   },
   "scripts": {
-    "test": "echo 'No tests implemented.'",
+    "test": "stripes test karma",
     "lint": "eslint .",
-    "bigTest": "stripes test karma"
   },
   "devDependencies": {
     "@bigtest/interactor": "^0.7.2",
