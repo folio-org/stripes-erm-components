@@ -11,7 +11,7 @@
   },
   "scripts": {
     "test": "stripes test karma",
-    "lint": "eslint .",
+    "lint": "eslint ."
   },
   "devDependencies": {
     "@bigtest/interactor": "^0.7.2",
