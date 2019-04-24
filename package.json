@@ -39,6 +39,6 @@
     "react": "*"
   },
   "stripes": {
-    "type": "components"
+    "type": ""
   }
 }

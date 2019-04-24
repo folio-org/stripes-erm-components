@@ -1,7 +1,44 @@
 import { beforeEach } from '@bigtest/mocha';
-import setupStripesCore from '@folio/stripes-core/test'
+import setupStripesCore from '@folio/stripes-core/test/bigtest/helpers/setup-application';
 import { withModules, clearModules } from '@folio/stripes-core/test/bigtest/helpers/stripes-config';
 import mirageOptions from './network';
+import React from 'react';
+import ReactDOM from 'react-dom';
+import Harness from './Harness';
+
+function getCleanTestingRoot() {
+  let $root = document.getElementById('root');
+
+  // if a root exists, unmount anything inside and remove it
+  if ($root) {
+    ReactDOM.unmountComponentAtNode($root);
+    $root.parentNode.removeChild($root);
+  }
+
+  // create a brand new root element
+  $root = document.createElement('div');
+  $root.id = 'root';
+
+  document.body.appendChild($root);
+
+  return $root;
+}
+
+export function mount(component) {
+  return new Promise(resolve => {
+    ReactDOM.render(component, getCleanTestingRoot(), resolve);
+  });
+}
+
+export function mountWithContext(component) {
+  return new Promise(resolve => {
+    ReactDOM.render(<Harness>{component}</Harness>, getCleanTestingRoot(), resolve);
+  });
+}
+
+export function selectorFromClassnameString(str) {
+  return str.replace(/\s/, '.');
+}
 
 export function setupApplication({
   scenarios
@@ -31,7 +68,7 @@ export function setupApplication({
 }
 
 // replace the dummy app to mount the component
-export function mount(component) {
+export function dummyMount(component) {
   clearModules();
 
   withModules([{
