@@ -22,9 +22,9 @@
     "licenseCard.endDate": "End date",
     "licenseCard.licensor": "Licensor",
     "licenseTermsList.notSet": "Not set",
-    "tags": "Tags",
-    "numberOfTags": "{count, number} {count, plural, one {Tag} other {Tags}}",
-    "newTagCreated": "New tag created",
-    "doc.category": "Category",
-    "placeholder.documentCategory": "Enter a category"
+    "tags": "Etiquetas",
+    "numberOfTags": "{count, number} {count, plural, one {Tag} other {Tags}}\n",
+    "newTagCreated": "Nueva etiqueta creada",
+    "doc.category": "Categoría",
+    "placeholder.documentCategory": "Introduzca una categoría"
 }
