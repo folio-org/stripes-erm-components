@@ -1,10 +1,10 @@
 import { beforeEach } from '@bigtest/mocha';
 import setupStripesCore from '@folio/stripes-core/test/bigtest/helpers/setup-application';
 import { withModules, clearModules } from '@folio/stripes-core/test/bigtest/helpers/stripes-config';
-import mirageOptions from './network';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Harness from './Harness';
+import mirageOptions from './network';
 
 function getCleanTestingRoot() {
   let $root = document.getElementById('root');
@@ -47,7 +47,6 @@ export function setupApplication({
     mirageOptions,
     scenarios,
 
-    // setup a dummy app for smart components
     modules: [{
       type: 'app',
       name: '@folio/ui-dummy',
