@@ -1,0 +1,39 @@
+@import "@folio/stripes-components/lib/variables.css";
+
+.upload {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+  padding: var(--gutter);
+  border: 1px dashed var(--color-border);
+  border-radius: var(--radius);
+  background-color: var(--color-fill);
+}
+
+.uploadTitle {
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  text-align: center;
+}
+
+.activeUpload {
+  background-color: var(--color-fill-current);
+  color: var(--bg);
+  border-style: dashed;
+}
+
+.activeUploadTitle {
+  font-size: var(--font-size-xx-large);
+}
+
+.errorMessage {
+  margin-bottom: 1rem;
+  color: var(--error);
+}
+
+/* Polyfill for proper work of `hidden` attribute */
+[hidden] {
+  display: none;
+}
