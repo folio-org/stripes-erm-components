@@ -31,6 +31,8 @@
   "dependencies": {
     "@bigtest/convergence": "^1.1.1",
     "@bigtest/mirage": "0.0.1",
+    "@folio/stripes-components": "^5.2.1000775",
+    "@folio/stripes-core": "^3.4.1000549",
     "lodash": "^4.17.4",
     "prop-types": "^15.6.0",
     "react-intl": "^2.4.0",
