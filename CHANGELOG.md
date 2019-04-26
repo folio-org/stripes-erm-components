@@ -8,6 +8,7 @@
 * Changed `DocumentsFieldArray` component to support `atType`. Avail in 1.3.2.
 * Changed `DocumentCard` component to support `atType`. Avail in 1.3.2.
 * Added `queryGetter` option to `getSASParams`. Avail in 1.3.3.
+* Turned off sideEffects to enable tree-shaking for production builds. Refs STRIPES-564 and STRIPES-581.
 
 ## 1.2.0 (18-03-2019)
 
