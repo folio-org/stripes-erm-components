@@ -18,6 +18,7 @@
     "@bigtest/interactor": "^0.7.2",
     "@bigtest/mocha": "^0.5.0",
     "@folio/eslint-config-stripes": "^3.2.1",
+    "@bigtest/react": "^0.1.2",
     "@folio/stripes": "^2.0.0",
     "@folio/stripes-cli": "^1.10.0",
     "babel-eslint": "^9.0.0",
