@@ -21,7 +21,7 @@
     "licenseCard.startDate": "Start date",
     "licenseCard.endDate": "End date",
     "licenseCard.licensor": "Licensor",
-    "licenseTermsList.notSet": "Not set",
+    "licenseTermsList.notSet": "No establecido",
     "tags": "Etiquetas",
     "numberOfTags": "{count, number} {count, plural, one {Tag} other {Tags}}\n",
     "newTagCreated": "Nueva etiqueta creada",
