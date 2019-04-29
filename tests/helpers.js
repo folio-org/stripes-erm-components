@@ -5,6 +5,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import Harness from './Harness';
 import mirageOptions from './network';
+import translations from '../translations/stripes-erm-components/en';
 
 function getCleanTestingRoot() {
   let $root = document.getElementById('root');
@@ -46,7 +47,7 @@ export function setupApplication({
   setupStripesCore({
     mirageOptions,
     scenarios,
-
+    translations: { 'dummy.title': 'Dummy', ...prefixKeys(translations) },
     modules: [{
       type: 'app',
       name: '@folio/ui-dummy',
@@ -55,9 +56,6 @@ export function setupApplication({
       module: null
     }],
 
-    translations: {
-      'dummy.title': 'Dummy'
-    }
   });
 
   // go to the dummy app where smart components are mounted
@@ -66,6 +64,13 @@ export function setupApplication({
   });
 }
 
+function prefixKeys(obj) {
+  const res = {};
+  for (const key of Object.keys(obj)) {
+    res[`stripes-erm-components.${key}`] = obj[key];
+  }
+  return res;
+}
 // replace the dummy app to mount the component
 export function dummyMount(component) {
   clearModules();
