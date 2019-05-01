@@ -36,7 +36,7 @@ export function mountWithContext(component) {
     ReactDOM.render(<Harness>{component}</Harness>, getCleanTestingRoot(), resolve);
   });
 }
-
+         
 export function selectorFromClassnameString(str) {
   return str.replace(/\s/, '.');
 }
