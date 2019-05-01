@@ -40,6 +40,14 @@ export function mountWithContext(component) {
 export function selectorFromClassnameString(str) {
   return str.replace(/\s/, '.');
 }
+   
+function prefixKeys(obj) {
+  const res = {};
+  for (const key of Object.keys(obj)) {
+    res[`stripes-erm-components.${key}`] = obj[key];
+  }
+  return res;
+}
 
 export function setupApplication({
   scenarios
@@ -64,13 +72,6 @@ export function setupApplication({
   });
 }
 
-function prefixKeys(obj) {
-  const res = {};
-  for (const key of Object.keys(obj)) {
-    res[`stripes-erm-components.${key}`] = obj[key];
-  }
-  return res;
-}
 // replace the dummy app to mount the component
 export function dummyMount(component) {
   clearModules();
