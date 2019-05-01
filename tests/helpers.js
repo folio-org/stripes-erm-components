@@ -40,7 +40,7 @@ export function mountWithContext(component) {
 export function selectorFromClassnameString(str) {
   return str.replace(/\s/, '.');
 }
-   
+
 function prefixKeys(obj) {
   const res = {};
   for (const key of Object.keys(obj)) {
