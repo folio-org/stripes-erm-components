@@ -1,8 +1,8 @@
 {
-  "contacts.add": "Add internal contact",
+  "contacts.addContact": "Add internal contact",
   "contacts.clickSearchButton": "Click the 'Search' button to select a user",
   "contacts.name": "Name",
-  "contacts.noContacts": "Agreement has no internal contacts.",
+  "contacts.noContacts": "No contacts have been added.",
   "contacts.remove": "Remove",
   "contacts.role": "Role",
   "contacts.selectRole": "Select a role for this user",

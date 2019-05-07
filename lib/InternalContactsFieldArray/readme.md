@@ -7,6 +7,8 @@ A component intended to be used with redux-form for editing arrays of internal c
 
 As with any redux-form field, it's required to pass in a `name` to the parent `FieldArray`. `InternalContactsFieldArray` also uses the name to construct IDs and form the objects that make up each element in the array.
 
+`addContactBtnLabel` and `isEmptyMessage` can be optionally included to override the default labels.
+
 ```
 import { InternalContactsFieldArray } from '@folio/stripes-erm-components';
 import { FieldArray } from 'redux-form';
@@ -25,6 +27,8 @@ import { FieldArray } from 'redux-form';
 
 | Name | Type | Required |
 --- | --- | --- |
+| `addContactBtnLabel` | string | |
+| `isEmptyMessage` | string | |
 | `name` | string | Yes |
 | `contactRoles` | array | Yes |
 | `contactRoles[].label` | string | Yes |
