@@ -1,6 +1,6 @@
 # Change history for stripes-erm-components
 
-## 1.3.0 (IN PROGRESS)
+## 1.3.x (IN PROGRESS)
 
 * Added `LicenseTermsList` component. Avail in 1.2.1.
 * Added `withKiwtFieldArray` higher-order component. Avail in 1.3.0.
@@ -9,6 +9,7 @@
 * Changed `DocumentCard` component to support `atType`. Avail in 1.3.2.
 * Added `queryGetter` option to `getSASParams`. Avail in 1.3.3.
 * Turned off sideEffects to enable tree-shaking for production builds. Refs STRIPES-564 and STRIPES-581.
+* Added `InternalContactsFieldArray` component. Avail in 1.3.4.
 
 ## 1.2.0 (18-03-2019)
 

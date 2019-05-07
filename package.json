@@ -1,6 +1,6 @@
 {
   "name": "@folio/stripes-erm-components",
-  "version": "1.3.3",
+  "version": "1.3.4",
   "description": "Component library for Stripes ERM applications",
   "sideEffects": [
     "*.css"
