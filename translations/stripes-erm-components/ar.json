@@ -26,5 +26,12 @@
     "numberOfTags": "{count, number} {count, plural, one {وسم} other {وسوم}}",
     "newTagCreated": "تم إنشاء وسم جديد",
     "doc.category": "الفئة",
-    "placeholder.documentCategory": "إدخال فئة"
+    "placeholder.documentCategory": "إدخال فئة",
+    "contacts.addContact": "Add internal contact",
+    "contacts.clickSearchButton": "Click the 'Search' button to select a user",
+    "contacts.name": "Name",
+    "contacts.noContacts": "No contacts have been added.",
+    "contacts.remove": "Remove",
+    "contacts.role": "Role",
+    "contacts.selectRole": "Select a role for this user"
 }
