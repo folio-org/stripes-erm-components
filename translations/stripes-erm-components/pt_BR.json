@@ -26,5 +26,12 @@
     "numberOfTags": "{count, number} {count, plural, one {Tag} other {Tags }}",
     "newTagCreated": "Nova tag criada",
     "doc.category": "Categoria",
-    "placeholder.documentCategory": "Digite uma categoria"
+    "placeholder.documentCategory": "Digite uma categoria",
+    "contacts.addContact": "Adicionar contato interno",
+    "contacts.clickSearchButton": "Clique no botão 'Pesquisar' para selecionar um usuário",
+    "contacts.name": "Nome",
+    "contacts.noContacts": "Nenhum contato foi adicionado.",
+    "contacts.remove": "Remover",
+    "contacts.role": "Função",
+    "contacts.selectRole": "Selecione uma função para este usuário"
 }
