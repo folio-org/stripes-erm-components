@@ -33,5 +33,6 @@
     "contacts.noContacts": "Nenhum contato foi adicionado.",
     "contacts.remove": "Remover",
     "contacts.role": "Função",
-    "contacts.selectRole": "Selecione uma função para este usuário"
+    "contacts.selectRole": "Selecione uma função para este usuário",
+    "contacts.noDuplicates": "Um usuário não pode receber a mesma função duas vezes."
 }

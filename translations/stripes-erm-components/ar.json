@@ -27,11 +27,12 @@
     "newTagCreated": "تم إنشاء وسم جديد",
     "doc.category": "الفئة",
     "placeholder.documentCategory": "إدخال فئة",
-    "contacts.addContact": "Add internal contact",
-    "contacts.clickSearchButton": "Click the 'Search' button to select a user",
-    "contacts.name": "Name",
-    "contacts.noContacts": "No contacts have been added.",
-    "contacts.remove": "Remove",
-    "contacts.role": "Role",
-    "contacts.selectRole": "Select a role for this user"
+    "contacts.addContact": "إضافة جهة اتصال داخلية",
+    "contacts.clickSearchButton": "قم بالنقر على زر 'بحث'  لتحديد مستخدم",
+    "contacts.name": "الاسم",
+    "contacts.noContacts": "لم تتم إضافة أي جهة اتصال",
+    "contacts.remove": "إزالة",
+    "contacts.role": "الدور",
+    "contacts.selectRole": "قم بتحديد دور لهذا المستخدم",
+    "contacts.noDuplicates": "لا يمكن تعيين نفس الدور للمستخدم مرتين."
 }
