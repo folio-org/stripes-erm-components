@@ -26,5 +26,12 @@
     "numberOfTags": "{count, number} {count, plural, one {Tag} other {Tags}}",
     "newTagCreated": "New tag created",
     "doc.category": "Category",
-    "placeholder.documentCategory": "Enter a category"
+    "placeholder.documentCategory": "Enter a category",
+    "contacts.addContact": "Add internal contact",
+    "contacts.clickSearchButton": "Click the 'Search' button to select a user",
+    "contacts.name": "Name",
+    "contacts.noContacts": "No contacts have been added.",
+    "contacts.remove": "Remove",
+    "contacts.role": "Role",
+    "contacts.selectRole": "Select a role for this user"
 }

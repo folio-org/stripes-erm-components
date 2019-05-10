@@ -1,4 +1,13 @@
 {
+  "contacts.addContact": "Add internal contact",
+  "contacts.clickSearchButton": "Click the 'Search' button to select a user",
+  "contacts.name": "Name",
+  "contacts.noContacts": "No contacts have been added.",
+  "contacts.noDuplicates": "A user cannot be assigned the same role twice.",
+  "contacts.remove": "Remove",
+  "contacts.role": "Role",
+  "contacts.selectRole": "Select a role for this user",
+
   "createOrg.alreadyExists": "An organization with this name already exists!",
   "createOrg.createNew": "Create new organization",
   "createOrg.name": "Name",

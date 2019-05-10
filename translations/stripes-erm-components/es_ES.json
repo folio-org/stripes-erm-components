@@ -21,10 +21,17 @@
     "licenseCard.startDate": "Start date",
     "licenseCard.endDate": "End date",
     "licenseCard.licensor": "Licensor",
-    "licenseTermsList.notSet": "Not set",
+    "licenseTermsList.notSet": "No establecido",
     "tags": "Etiquetas",
     "numberOfTags": "{count, number} {count, plural, one {Tag} other {Tags}}\n",
     "newTagCreated": "Nueva etiqueta creada",
     "doc.category": "Categoría",
-    "placeholder.documentCategory": "Introduzca una categoría"
+    "placeholder.documentCategory": "Introduzca una categoría",
+    "contacts.addContact": "Add internal contact",
+    "contacts.clickSearchButton": "Click the 'Search' button to select a user",
+    "contacts.name": "Name",
+    "contacts.noContacts": "No contacts have been added.",
+    "contacts.remove": "Remove",
+    "contacts.role": "Role",
+    "contacts.selectRole": "Select a role for this user"
 }
