@@ -22,6 +22,14 @@
 
   "licenseTermsList.notSet": "Not set",
 
+  "organizations.noDuplicates": "An organization cannot be assigned the same role twice.",
+  "organizations.clickSearchButton": "Click the 'Search' button to select an organization",
+  "organizations.selectRole": "Select a role for this organization",
+  "organizations.name": "Name",
+  "organizations.role": "Role",
+  "organizations.addOrganization": "Add organization",
+  "organizations.noOrganizations": "No organizations have been added.",
+
   "doc.addDoc": "Add  document",
   "doc.category": "Category",
   "doc.location": "Physical location",
