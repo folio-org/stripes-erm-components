@@ -1,4 +1,5 @@
 // Components
+export { default as Card } from './lib/Card';
 export { default as CreateOrganizationModal } from './lib/CreateOrganizationModal';
 export { default as DocumentCard } from './lib/DocumentCard';
 export { default as DocumentsFieldArray } from './lib/DocumentsFieldArray';

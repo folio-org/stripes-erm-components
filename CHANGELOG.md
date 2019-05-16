@@ -11,6 +11,7 @@
 * Turned off sideEffects to enable tree-shaking for production builds. Refs STRIPES-564 and STRIPES-581.
 * Added `InternalContactsFieldArray` component. Avail in 1.3.4.
 * Changed `LicenseTermsList` component to render `note`. Avail in 1.3.5.
+* Added `Card` component. Avail in 1.3.5.
 
 ## 1.2.0 (18-03-2019)
 
