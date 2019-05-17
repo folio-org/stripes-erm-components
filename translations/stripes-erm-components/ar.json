@@ -34,5 +34,12 @@
     "contacts.remove": "إزالة",
     "contacts.role": "الدور",
     "contacts.selectRole": "قم بتحديد دور لهذا المستخدم",
-    "contacts.noDuplicates": "لا يمكن تعيين نفس الدور للمستخدم مرتين."
+    "contacts.noDuplicates": "لا يمكن تعيين نفس الدور للمستخدم مرتين.",
+    "organizations.noDuplicates": "لا يمكن تعيين مؤسسة لنفس الدور مرتين",
+    "organizations.clickSearchButton": "قم بالنقر على زر 'بحث'  لتحديد مؤسسة",
+    "organizations.selectRole": "قم بتحديد دور لهذه المؤسسة",
+    "organizations.name": "الاسم",
+    "organizations.role": "الدور",
+    "organizations.addOrganization": "إضافة مؤسسة",
+    "organizations.noOrganizations": "لم تتم إضافة أي مؤسسات."
 }
