@@ -34,5 +34,12 @@
     "contacts.remove": "Remover",
     "contacts.role": "Função",
     "contacts.selectRole": "Selecione uma função para este usuário",
-    "contacts.noDuplicates": "Um usuário não pode receber a mesma função duas vezes."
+    "contacts.noDuplicates": "Um usuário não pode receber a mesma função duas vezes.",
+    "organizations.noDuplicates": "Uma organização não pode ser atribuída a mesma função duas vezes.",
+    "organizations.clickSearchButton": "Clique no botão 'Pesquisar' para selecionar uma organização",
+    "organizations.selectRole": "Selecione uma função para esta organização",
+    "organizations.name": "Nome",
+    "organizations.role": "Função",
+    "organizations.addOrganization": "Adicionar organização",
+    "organizations.noOrganizations": "Nenhuma organização foi adicionada."
 }
