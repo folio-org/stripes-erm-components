@@ -30,6 +30,7 @@
   "organizations.addOrganization": "Add organization",
   "organizations.noOrganizations": "No organizations have been added.",
 
+  "doc.title": "Document {number}",
   "doc.addDoc": "Add  document",
   "doc.category": "Category",
   "doc.location": "Physical location",
