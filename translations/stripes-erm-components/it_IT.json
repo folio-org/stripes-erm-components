@@ -33,5 +33,13 @@
     "contacts.noContacts": "No contacts have been added.",
     "contacts.remove": "Remove",
     "contacts.role": "Role",
-    "contacts.selectRole": "Select a role for this user"
+    "contacts.selectRole": "Select a role for this user",
+    "contacts.noDuplicates": "A user cannot be assigned the same role twice.",
+    "organizations.noDuplicates": "An organization cannot be assigned the same role twice.",
+    "organizations.clickSearchButton": "Click the 'Search' button to select an organization",
+    "organizations.selectRole": "Select a role for this organization",
+    "organizations.name": "Name",
+    "organizations.role": "Role",
+    "organizations.addOrganization": "Add organization",
+    "organizations.noOrganizations": "No organizations have been added."
 }
