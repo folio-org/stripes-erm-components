@@ -39,7 +39,7 @@
   "dependencies": {
     "lodash": "^4.17.4",
     "prop-types": "^15.6.0",
-    "react-dropzone": "^7.0.1",
+    "react-dropzone": "^10.0.0",
     "react-intl": "^2.4.0",
     "redux-form": "^7.0.3"
   },
