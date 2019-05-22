@@ -40,7 +40,7 @@
 }
 
 .errorMessage {
-  margin-bottom: 1rem;
+  margin: var(--gutter);
   color: var(--error);
 }
 
