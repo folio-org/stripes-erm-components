@@ -23,10 +23,7 @@ The component itself only sets up the styling of the card and the contents are c
 
 | Name | Type | Required | Note |
 --- | --- | --- | --- |
-| `bodyClass` | string | |
-| `cardClass` | string | |
 | `children` | node | Yes |
 | `header` | node | Yes |
-| `headerClass` | string | |
 | _rest_ | | | Other props will be applied to the top-level card `div`. |
 
