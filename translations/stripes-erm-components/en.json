@@ -47,6 +47,9 @@
 
   "placeholder.documentCategory": "Enter a category",
 
+  "term.value": "Value",
+  "term.note": "Note",
+
   "tags": "Tags",
   "numberOfTags": "{count, number} {count, plural, one {Tag} other {Tags}}",
   "newTagCreated": "New tag created"
