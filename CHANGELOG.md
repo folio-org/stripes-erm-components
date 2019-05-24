@@ -12,6 +12,7 @@
 * Added `InternalContactsFieldArray` component. Avail in 1.3.4.
 * Changed `LicenseTermsList` component to render `note`. Avail in 1.3.5.
 * Added `Card` component. Avail in 1.3.5.
+* Changed `DocumentsFieldArray` to support attaching files. Avail in 1.3.6.
 
 ## 1.2.0 (18-03-2019)
 

@@ -9,6 +9,11 @@ As with any redux-form field, it's required to pass in a `name` to the parent `F
 
 `addDocBtnLabel` and `isEmptyMessage` can be optionally included to override the default labels.
 
+`onDeleteFile`, `onDownloadFile`, `onUploadFile` should either all be set or all undefined. If defined, they show the file uploader field for each doc to allow users to upload files for attaching to the document.
+
+### onUploadFile
+
+
 ```
 import { DocumentsFieldArray } from '@folio/stripes-erm-components';
 import { FieldArray } from 'redux-form';
@@ -27,5 +32,9 @@ import { FieldArray } from 'redux-form';
 | Name | Type | Required |
 --- | --- | --- |
 | `addDocBtnLabel` | string | |
-| `name` | string | Yes |
 | `isEmptyMessage` | string | |
+| `name` | string | Yes |
+| `onDeleteFile` | function: (file) => Promise | |
+| `onDownloadFile` | function: (file) => {} | |
+| `onUploadFile` | function: (file) => Promise | |
+
