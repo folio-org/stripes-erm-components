@@ -41,5 +41,14 @@
     "organizations.name": "Name",
     "organizations.role": "Role",
     "organizations.addOrganization": "Add organization",
-    "organizations.noOrganizations": "No organizations have been added."
+    "organizations.noOrganizations": "No organizations have been added.",
+    "term.value": "Value",
+    "term.note": "Note",
+    "fuf.filename": "File name",
+    "fuf.removeUploaded": "Remove uploaded file",
+    "fuf.subtitle": "or click to choose file",
+    "fuf.title": "Drag & drop to upload",
+    "fuf.uploaded": "Uploaded",
+    "doc.title": "Document {number}",
+    "doc.file": "File"
 }
