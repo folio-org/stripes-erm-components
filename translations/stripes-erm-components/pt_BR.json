@@ -12,7 +12,7 @@
     "doc.addDoc": "Adicionar documento",
     "doc.name": "Nome",
     "doc.noDocs": "Nenhum documento foi adicionado.",
-    "doc.error.docsMustHaveLocationOrURL": "Cada documento deve especificar um local ou URL.",
+    "doc.error.docsMustHaveLocationOrURL": "Cada documento deve especificar um arquivo, local ou URL.",
     "doc.error.invalidURL": "Por favor insira um URL válido (incluindo \"http\" ou \"https\").",
     "licenseCard.openEnded": "Acabou de abrir",
     "licenseCard.notSet": "Não configurado",
@@ -41,5 +41,14 @@
     "organizations.name": "Nome",
     "organizations.role": "Função",
     "organizations.addOrganization": "Adicionar organização",
-    "organizations.noOrganizations": "Nenhuma organização foi adicionada."
+    "organizations.noOrganizations": "Nenhuma organização foi adicionada.",
+    "term.value": "Valor",
+    "term.note": "Nota",
+    "fuf.filename": "Nome do arquivo",
+    "fuf.removeUploaded": "Remover arquivo carregado",
+    "fuf.subtitle": "ou clique para escolher o arquivo",
+    "fuf.title": "Arraste e solte para fazer o upload",
+    "fuf.uploaded": "Carregado",
+    "doc.title": "Documento {number}",
+    "doc.file": "Arquivo"
 }

@@ -41,5 +41,14 @@
     "organizations.name": "الاسم",
     "organizations.role": "الدور",
     "organizations.addOrganization": "إضافة مؤسسة",
-    "organizations.noOrganizations": "لم تتم إضافة أي مؤسسات."
+    "organizations.noOrganizations": "لم تتم إضافة أي مؤسسات.",
+    "term.value": "القيمة",
+    "term.note": "ملاحظة",
+    "fuf.filename": "اسم الملف",
+    "fuf.removeUploaded": "إزالة الملف المرفوع",
+    "fuf.subtitle": "أو انقر لاختيار ملف",
+    "fuf.title": "قم بالسحب والإفلات للتحميل",
+    "fuf.uploaded": "مرفوع",
+    "doc.title": "الوثيقة {number}",
+    "doc.file": "الملف"
 }
