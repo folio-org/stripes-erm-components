@@ -41,7 +41,7 @@
     "organizations.name": "Name",
     "organizations.role": "Role",
     "organizations.addOrganization": "Add organization",
-    "organizations.noOrganizations": "No organizations have been added.",
+    "organizations.noOrganizations": "No se han añadido organizaciones.",
     "term.value": "Valor",
     "term.note": "Nota",
     "fuf.filename": "Nombre del archivo",
