@@ -1,8 +1,11 @@
 # Change history for stripes-erm-components
 
-## 1.3.x (IN PROGRESS)
+## 1.5.0 (IN PROGRESS)
 
-* Added `LicenseTermsList` component. Avail in 1.2.1.
+*
+
+## 1.4.0 (11-06-2019)
+
 * Added `withKiwtFieldArray` higher-order component. Avail in 1.3.0.
 * Added `Tags` component. Avail in 1.3.1.
 * Changed `DocumentsFieldArray` component to support `atType`. Avail in 1.3.2.
@@ -13,6 +16,10 @@
 * Changed `LicenseTermsList` component to render `note`. Avail in 1.3.5.
 * Added `Card` component. Avail in 1.3.5.
 * Changed `DocumentsFieldArray` to support attaching files. Avail in 1.3.6.
+
+## 1.3.0
+
+* Added `LicenseTermsList` component. Avail in 1.2.1.
 
 ## 1.2.0 (18-03-2019)
 
