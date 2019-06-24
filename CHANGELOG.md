@@ -2,7 +2,7 @@
 
 ## 1.5.0 (IN PROGRESS)
 
-*
+* `getSASParams` passes props received from stripes-connect into the `queryGetter` callback. Available from v1.4.1.
 
 ## 1.4.0 (11-06-2019)
 
