@@ -3,6 +3,7 @@ export { default as Card } from './lib/Card';
 export { default as CreateOrganizationModal } from './lib/CreateOrganizationModal';
 export { default as DocumentCard } from './lib/DocumentCard';
 export { default as DocumentsFieldArray } from './lib/DocumentsFieldArray';
+export { default as EditCard } from './lib/EditCard';
 export { default as InternalContactsFieldArray } from './lib/InternalContactsFieldArray';
 export { default as OrganizationsFieldArray } from './lib/OrganizationsFieldArray';
 export { default as LicenseCard } from './lib/LicenseCard';
