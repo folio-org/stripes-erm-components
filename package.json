@@ -1,6 +1,6 @@
 {
   "name": "@folio/stripes-erm-components",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Component library for Stripes ERM applications",
   "sideEffects": [
     "*.css"
@@ -38,6 +38,7 @@
     "redux": "^3.6.0"
   },
   "dependencies": {
+    "@folio/stripes-connect": "^5.2.3",
     "lodash": "^4.17.4",
     "prop-types": "^15.6.0",
     "react-dropzone": "^10.0.0",
