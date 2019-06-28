@@ -39,6 +39,7 @@
   "organizations.addOrganizationToStart": "Add an organization to get started",
   "organizations.addOrganizationToAgreement": "Add organization to agreement",
   "organizations.unlinkOrganization": "Unlink organization",
+  
   "doc.title": "Document {number}",
   "doc.addDoc": "Add  document",
   "doc.category": "Category",

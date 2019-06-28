@@ -11,8 +11,6 @@ export { default as LicenseEndDate } from './lib/LicenseEndDate';
 export { default as LicenseTermsList } from './lib/LicenseTermsList';
 export { default as OrganizationSelection } from './lib/OrganizationSelection';
 export { default as Spinner } from './lib/Spinner';
-export { default as OrganizationCard } from './lib/OrganizationCard';
-
 export { default as Tags } from './lib/Tags';
 
 // HOCs
