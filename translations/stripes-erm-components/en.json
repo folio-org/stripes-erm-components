@@ -41,7 +41,7 @@
   "organizations.name": "Name",
   "organizations.role": "Role",
   "organizations.addOrganization": "Add organization",
-  "organizations.noOrgError": "Add an Organization to continue",
+  "organizations.noOrgError": "Add an organization to continue",
   "organizations.noOrganizations": "No organizations have been added.",
   "organizations.noOrganization": "No organizations added",
   "organizations.addOrganizationToStart": "Add an organization to get started",
