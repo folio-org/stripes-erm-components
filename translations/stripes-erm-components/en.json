@@ -18,6 +18,13 @@
   "fuf.title": "Drag & drop to upload",
   "fuf.uploaded": "Uploaded",
 
+  "interface.name": "Interface name",
+  "interface.username": "Username",
+  "interface.password": "Password",
+  "interface.type": "Interface type",
+  "interface.notes": "Notes",
+  "interface.notFound": "No interfaces found",
+
   "licenseCard.openEnded": "Open ended",
   "licenseCard.notSet": "Not set",
   "licenseCard.type": "Type",
@@ -34,10 +41,10 @@
   "organizations.name": "Name",
   "organizations.role": "Role",
   "organizations.addOrganization": "Add organization",
+  "organizations.noOrgError": "Add an Organization to continue",
   "organizations.noOrganizations": "No organizations have been added.",
   "organizations.noOrganization": "No organizations added",
   "organizations.addOrganizationToStart": "Add an organization to get started",
-  "organizations.addOrganizationToAgreement": "Add organization to agreement",
   "organizations.unlinkOrganization": "Unlink organization",
   
   "doc.title": "Document {number}",
@@ -62,6 +69,7 @@
   "term.value": "Value",
   "term.note": "Note",
 
+  "organization": "Organization",
   "tags": "Tags",
   "numberOfTags": "{count, number} {count, plural, one {Tag} other {Tags}}",
   "newTagCreated": "New tag created"
