@@ -17,6 +17,7 @@
   "fuf.subtitle": "or click to choose file",
   "fuf.title": "Drag & drop to upload",
   "fuf.uploaded": "Uploaded",
+  "fuf.uploading": "Please wait for the file to be uploaded",
 
   "interface.name": "Interface name",
   "interface.username": "Username",
