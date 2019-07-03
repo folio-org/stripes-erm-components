@@ -50,5 +50,16 @@
     "fuf.title": "قم بالسحب والإفلات للتحميل",
     "fuf.uploaded": "مرفوع",
     "doc.title": "الوثيقة {number}",
-    "doc.file": "الملف"
+    "doc.file": "الملف",
+    "interface.name": "اسم الواجهة",
+    "interface.username": "اسم المستخدم",
+    "interface.password": "كلمة المرور",
+    "interface.type": "نوع الواجهة",
+    "interface.notes": "ملاحظات",
+    "interface.notFound": "لم يتم العثور على واجهات",
+    "organizations.noOrgError": "إضافة مؤسسة للمتابعة",
+    "organizations.noOrganization": "لم تتم إضافة أي مؤسسات.",
+    "organizations.addOrganizationToStart": "إضافة مؤسسة للبدء",
+    "organizations.unlinkOrganization": "الغاء ربط المؤسسة",
+    "organization": "المؤسسة"
 }
