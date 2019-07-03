@@ -50,5 +50,16 @@
     "fuf.title": "Arraste e solte para fazer o upload",
     "fuf.uploaded": "Carregado",
     "doc.title": "Documento {number}",
-    "doc.file": "Arquivo"
+    "doc.file": "Arquivo",
+    "interface.name": "Nome da interface",
+    "interface.username": "Nome de usuário",
+    "interface.password": "Senha",
+    "interface.type": "Tipo de interface",
+    "interface.notes": "Notas",
+    "interface.notFound": "Nenhuma interface encontrada",
+    "organizations.noOrgError": "Adicione uma organização para continuar",
+    "organizations.noOrganization": "Nenhuma organização adicionada",
+    "organizations.addOrganizationToStart": "Adicione uma organização para começar",
+    "organizations.unlinkOrganization": "Desvincular organização",
+    "organization": "Organização"
 }
