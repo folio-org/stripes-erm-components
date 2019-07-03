@@ -50,5 +50,16 @@
     "fuf.title": "Arrastrar y soltar para subir",
     "fuf.uploaded": "Subido",
     "doc.title": "Documento {number}",
-    "doc.file": "Archivo"
+    "doc.file": "Archivo",
+    "interface.name": "Interface name",
+    "interface.username": "Username",
+    "interface.password": "Password",
+    "interface.type": "Interface type",
+    "interface.notes": "Notes",
+    "interface.notFound": "No interfaces found",
+    "organizations.noOrgError": "Add an organization to continue",
+    "organizations.noOrganization": "No organizations added",
+    "organizations.addOrganizationToStart": "Add an organization to get started",
+    "organizations.unlinkOrganization": "Unlink organization",
+    "organization": "Organization"
 }
