@@ -61,5 +61,6 @@
     "organizations.noOrganization": "لم تتم إضافة أي مؤسسات.",
     "organizations.addOrganizationToStart": "إضافة مؤسسة للبدء",
     "organizations.unlinkOrganization": "الغاء ربط المؤسسة",
-    "organization": "المؤسسة"
+    "organization": "المؤسسة",
+    "fuf.uploading": "يرجى الانتظار حتى يتم رفع الملف"
 }
