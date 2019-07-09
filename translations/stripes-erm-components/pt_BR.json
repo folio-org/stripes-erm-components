@@ -61,5 +61,6 @@
     "organizations.noOrganization": "Nenhuma organização adicionada",
     "organizations.addOrganizationToStart": "Adicione uma organização para começar",
     "organizations.unlinkOrganization": "Desvincular organização",
-    "organization": "Organização"
+    "organization": "Organização",
+    "fuf.uploading": "Por favor, aguarde até que o arquivo seja carregado"
 }
