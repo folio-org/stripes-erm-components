@@ -62,6 +62,8 @@
   "doc.error.docsMustHaveLocationOrURL": "Each document must specify a file, location, or URL.",
   "doc.error.invalidURL": "Please enter a valid URL (including \"http\" or \"https\").",
 
+  "errors.uploadError": "Error encountered when uploading",
+
   "orgSelect.selectOrg": "Select an organization",
   "orgSelect.typeToSearch": "Begin typing to search for an organization",
 
