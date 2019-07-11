@@ -62,5 +62,6 @@
     "organizations.addOrganizationToStart": "Adicione uma organização para começar",
     "organizations.unlinkOrganization": "Desvincular organização",
     "organization": "Organização",
-    "fuf.uploading": "Por favor, aguarde até que o arquivo seja carregado"
+    "fuf.uploading": "Por favor, aguarde até que o arquivo seja carregado",
+    "errors.uploadError": "Erro encontrado ao fazer o upload"
 }
