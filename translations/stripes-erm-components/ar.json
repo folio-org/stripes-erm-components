@@ -62,5 +62,6 @@
     "organizations.addOrganizationToStart": "إضافة مؤسسة للبدء",
     "organizations.unlinkOrganization": "الغاء ربط المؤسسة",
     "organization": "المؤسسة",
-    "fuf.uploading": "يرجى الانتظار حتى يتم رفع الملف"
+    "fuf.uploading": "يرجى الانتظار حتى يتم رفع الملف",
+    "errors.uploadError": "حدث خطأ أثناء التحميل"
 }

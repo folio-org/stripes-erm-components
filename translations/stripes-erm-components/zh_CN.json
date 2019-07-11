@@ -62,5 +62,6 @@
     "organizations.addOrganizationToStart": "Add an organization to get started",
     "organizations.unlinkOrganization": "Unlink organization",
     "organization": "Organization",
-    "fuf.uploading": "Please wait for the file to be uploaded"
+    "fuf.uploading": "Please wait for the file to be uploaded",
+    "errors.uploadError": "Error encountered when uploading"
 }
