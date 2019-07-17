@@ -1,6 +1,0 @@
-@import "@folio/stripes-components/lib/variables.css";
-
-.docCard {
-  border-bottom: 1px solid var(--color-border);
-  padding-bottom: 1rem;
-}
