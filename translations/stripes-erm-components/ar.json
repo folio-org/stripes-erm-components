@@ -63,5 +63,6 @@
     "organizations.unlinkOrganization": "الغاء ربط المؤسسة",
     "organization": "المؤسسة",
     "fuf.uploading": "يرجى الانتظار حتى يتم رفع الملف",
-    "errors.uploadError": "حدث خطأ أثناء التحميل"
+    "errors.uploadError": "حدث خطأ أثناء التحميل",
+    "fuf.maxFileSize": "Maximum upload file size: 10 MB"
 }

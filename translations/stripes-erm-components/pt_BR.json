@@ -63,5 +63,6 @@
     "organizations.unlinkOrganization": "Desvincular organização",
     "organization": "Organização",
     "fuf.uploading": "Por favor, aguarde até que o arquivo seja carregado",
-    "errors.uploadError": "Erro encontrado ao fazer o upload"
+    "errors.uploadError": "Erro encontrado ao fazer o upload",
+    "fuf.maxFileSize": "Tamanho máximo do arquivo de upload: 10 MB"
 }
