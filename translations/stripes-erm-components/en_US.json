@@ -46,7 +46,7 @@
     "term.note": "Note",
     "fuf.filename": "File name",
     "fuf.removeUploaded": "Remove uploaded file",
-    "fuf.subtitle": "or click to choose file",
+    "fuf.subtitle": "or choose file",
     "fuf.title": "Drag & drop to upload",
     "fuf.uploaded": "Uploaded",
     "doc.title": "Document {number}",
@@ -64,5 +64,5 @@
     "organization": "Organization",
     "fuf.uploading": "Please wait for the file to be uploaded",
     "errors.uploadError": "Error encountered when uploading",
-    "fuf.maxFileSize": "Maximum upload file size: 10 MB"
+    "fuf.maxFileSize": "Maximum file size: 10 MB"
 }
