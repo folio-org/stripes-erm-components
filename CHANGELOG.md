@@ -1,10 +1,17 @@
 # Change history for stripes-erm-components
 
-## 1.5.0 (IN PROGRESS)
+## 1.5.0 2019-07-22
 
+* `FileUploaderField` now shows maximum file size. ERM-312
+* `LicenseCard` links to the license record. ERM-319
+* `ViewOrganizationCard` interface links open in a new tab. ERM-320
+* `DocumentCard` is rendered using a `Card`. ERM-304
+* `OrganizationSelection` renders the list of organizations alphabetically. ERM-323
+* `FileUploader` renders a `Spinner` when file upload is in progress. ERM-278
+* `OrganizationsFieldArray` uses a new `Card`-based layout. ERM-281, ERM-282
 * `getSASParams` passes props received from stripes-connect into the `queryGetter` callback. Available from v1.4.1.
 
-## 1.4.0 (11-06-2019)
+## 1.4.0 2019-06-11
 
 * Added `withKiwtFieldArray` higher-order component. Avail in 1.3.0.
 * Added `Tags` component. Avail in 1.3.1.
@@ -17,15 +24,15 @@
 * Added `Card` component. Avail in 1.3.5.
 * Changed `DocumentsFieldArray` to support attaching files. Avail in 1.3.6.
 
-## 1.3.0
+## 1.3.0 2019-03-21
 
 * Added `LicenseTermsList` component. Avail in 1.2.1.
 
-## 1.2.0 (18-03-2019)
+## 1.2.0 2019-03-18
 
 * Updated translation strings.
 
-## 1.1.0 (08-03-2019)
+## 1.1.0 2019-03-08
 
 * Added `OrganizationSelection` component.
 * Added `CreateOrganizationModal` component. Avail in 1.0.1.
