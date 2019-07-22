@@ -8,7 +8,7 @@
 * `DocumentCard` is rendered using a `Card`. ERM-304
 * `OrganizationSelection` renders the list of organizations alphabetically. ERM-323
 * `FileUploader` renders a `Spinner` when file upload is in progress. ERM-278
-* `OrganizationsFieldArray` uses a new `Card`-based layout. ERM-281 ERM-282
+* `OrganizationsFieldArray` uses a new `Card`-based layout. ERM-281, ERM-282
 * `getSASParams` passes props received from stripes-connect into the `queryGetter` callback. Available from v1.4.1.
 
 ## 1.4.0 2019-06-11
