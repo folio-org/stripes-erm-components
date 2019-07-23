@@ -1,5 +1,11 @@
 # Change history for stripes-erm-components
 
+## 1.5.2 2019-07-23
+* `OrganizationsFieldArray` supports `uniqueRole` prop. ERM-344
+
+## 1.5.1 2019-07-23
+* `LicenseEndDate` no longer converts the timezone.
+
 ## 1.5.0 2019-07-22
 
 * `FileUploaderField` now shows maximum file size. ERM-312
