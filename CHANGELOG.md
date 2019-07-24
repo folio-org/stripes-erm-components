@@ -1,5 +1,8 @@
 # Change history for stripes-erm-components
 
+## 1.5.4 2019-07-24
+* Removed `devDependencies` on stripes-components and stripes-core.
+
 ## 1.5.3 2019-07-24
 * `LicenseCard` no longer converts the timezone of the start date.
 
