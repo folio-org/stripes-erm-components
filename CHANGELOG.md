@@ -1,5 +1,8 @@
 # Change history for stripes-erm-components
 
+## 1.5.3 2019-07-24
+* `LicenseCard` no longer converts the timezone of the start date.
+
 ## 1.5.2 2019-07-23
 * `OrganizationsFieldArray` supports `uniqueRole` prop. ERM-344
 
