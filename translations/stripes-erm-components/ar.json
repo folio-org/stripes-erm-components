@@ -33,11 +33,9 @@
     "contacts.noContacts": "لم تتم إضافة أي جهة اتصال",
     "contacts.remove": "إزالة",
     "contacts.role": "الدور",
-    "contacts.selectRole": "قم بتحديد دور لهذا المستخدم",
     "contacts.noDuplicates": "لا يمكن تعيين نفس الدور للمستخدم مرتين.",
     "organizations.noDuplicates": "لا يمكن تعيين مؤسسة لنفس الدور مرتين",
     "organizations.clickSearchButton": "قم بالنقر على زر 'بحث'  لتحديد مؤسسة",
-    "organizations.selectRole": "قم بتحديد دور لهذه المؤسسة",
     "organizations.name": "الاسم",
     "organizations.role": "الدور",
     "organizations.addOrganization": "إضافة مؤسسة",
@@ -64,5 +62,7 @@
     "organization": "المؤسسة",
     "fuf.uploading": "يرجى الانتظار حتى يتم رفع الملف",
     "errors.uploadError": "حدث خطأ أثناء التحميل",
-    "fuf.maxFileSize": "Maximum upload file size: 10 MB"
+    "fuf.maxFileSize": "الحد الأقصى لحجم الملف: 10 ميغابايت",
+    "fuf.buttonAriaLabel": "قم باختيار ملف للتحميل. الحد الأقصى لحجم الملف هو 10 ميغابايت",
+    "organizations.multipleUniqueRoles": "يمكن تعيين هذا الدور لمؤسسة واحدة فقط."
 }

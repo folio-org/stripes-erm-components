@@ -33,11 +33,9 @@
     "contacts.noContacts": "Nenhum contato foi adicionado.",
     "contacts.remove": "Remover",
     "contacts.role": "Função",
-    "contacts.selectRole": "Selecione uma função para este usuário",
     "contacts.noDuplicates": "Um usuário não pode receber a mesma função duas vezes.",
     "organizations.noDuplicates": "Uma organização não pode ser atribuída a mesma função duas vezes.",
     "organizations.clickSearchButton": "Clique no botão 'Pesquisar' para selecionar uma organização",
-    "organizations.selectRole": "Selecione uma função para esta organização",
     "organizations.name": "Nome",
     "organizations.role": "Função",
     "organizations.addOrganization": "Adicionar organização",
@@ -46,7 +44,7 @@
     "term.note": "Nota",
     "fuf.filename": "Nome do arquivo",
     "fuf.removeUploaded": "Remover arquivo carregado",
-    "fuf.subtitle": "ou clique para escolher o arquivo",
+    "fuf.subtitle": "ou escolha o arquivo",
     "fuf.title": "Arraste e solte para fazer o upload",
     "fuf.uploaded": "Carregado",
     "doc.title": "Documento {number}",
@@ -64,5 +62,7 @@
     "organization": "Organização",
     "fuf.uploading": "Por favor, aguarde até que o arquivo seja carregado",
     "errors.uploadError": "Erro encontrado ao fazer o upload",
-    "fuf.maxFileSize": "Tamanho máximo do arquivo de upload: 10 MB"
+    "fuf.maxFileSize": "Tamanho máximo do arquivo: 10 MB",
+    "fuf.buttonAriaLabel": "Escolha o arquivo para upload. O tamanho máximo do arquivo é de 10 megabytes",
+    "organizations.multipleUniqueRoles": "Apenas uma organização pode ter essa função."
 }
