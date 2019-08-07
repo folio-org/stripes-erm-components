@@ -41,7 +41,6 @@
     "organizations.addOrganization": "Add organization",
     "organizations.noOrganizations": "No organizations have been added.",
     "term.value": "Value",
-    "term.note": "Note",
     "fuf.filename": "File name",
     "fuf.removeUploaded": "Remove uploaded file",
     "fuf.subtitle": "or choose file",
@@ -64,5 +63,10 @@
     "errors.uploadError": "Error encountered when uploading",
     "fuf.maxFileSize": "Maximum file size: 10 MB",
     "fuf.buttonAriaLabel": "Choose file to upload. Maximum file size is 10 megabytes",
-    "organizations.multipleUniqueRoles": "Only one organization may have this role."
+    "organizations.multipleUniqueRoles": "Only one organization may have this role.",
+    "term.internalNote": "Internal note",
+    "term.publicNote": "Public note",
+    "term.visibility": "Visibility",
+    "term.internalTrue": "Internal",
+    "term.internalFalse": "Public"
 }

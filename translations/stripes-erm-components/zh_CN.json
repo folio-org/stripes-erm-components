@@ -41,7 +41,6 @@
     "organizations.addOrganization": "添加组织",
     "organizations.noOrganizations": "未添加组织。",
     "term.value": "取值",
-    "term.note": "附注",
     "fuf.filename": "文件名",
     "fuf.removeUploaded": "移除已上传文件",
     "fuf.subtitle": "或选择文件",
@@ -64,5 +63,10 @@
     "errors.uploadError": "上传时遇到错误",
     "fuf.maxFileSize": "最大文件大小：10 MB",
     "fuf.buttonAriaLabel": "选择要上传的文件。最大文件大小为10兆字节",
-    "organizations.multipleUniqueRoles": "Only one organization may have this role."
+    "organizations.multipleUniqueRoles": "Only one organization may have this role.",
+    "term.internalNote": "Internal note",
+    "term.publicNote": "Public note",
+    "term.visibility": "Visibility",
+    "term.internalTrue": "Internal",
+    "term.internalFalse": "Public"
 }
