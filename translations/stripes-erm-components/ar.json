@@ -41,7 +41,6 @@
     "organizations.addOrganization": "إضافة مؤسسة",
     "organizations.noOrganizations": "لم تتم إضافة أي مؤسسات.",
     "term.value": "القيمة",
-    "term.note": "ملاحظة",
     "fuf.filename": "اسم الملف",
     "fuf.removeUploaded": "إزالة الملف المرفوع",
     "fuf.subtitle": "أو انقر لاختيار ملف",
@@ -64,5 +63,10 @@
     "errors.uploadError": "حدث خطأ أثناء التحميل",
     "fuf.maxFileSize": "الحد الأقصى لحجم الملف: 10 ميغابايت",
     "fuf.buttonAriaLabel": "قم باختيار ملف للتحميل. الحد الأقصى لحجم الملف هو 10 ميغابايت",
-    "organizations.multipleUniqueRoles": "يمكن تعيين هذا الدور لمؤسسة واحدة فقط."
+    "organizations.multipleUniqueRoles": "يمكن تعيين هذا الدور لمؤسسة واحدة فقط.",
+    "term.internalNote": "ملاحظة داخلية",
+    "term.publicNote": "ملاحظة عامة",
+    "term.visibility": "الرؤية",
+    "term.internalTrue": "داخلية",
+    "term.internalFalse": "عامة"
 }
