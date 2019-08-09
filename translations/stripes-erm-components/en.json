@@ -71,7 +71,11 @@
   "placeholder.documentCategory": "Enter a category",
 
   "term.value": "Value",
-  "term.note": "Note",
+  "term.internalNote": "Internal note",
+  "term.publicNote": "Public note",
+  "term.visibility": "Visibility",
+  "term.internalTrue": "Internal",
+  "term.internalFalse": "Public",
 
   "organization": "Organization",
   "tags": "Tags",
