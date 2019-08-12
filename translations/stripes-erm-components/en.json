@@ -1,11 +1,16 @@
 {
   "contacts.addContact": "Add internal contact",
+  "contacts.addUser": "Add user",
+  "contacts.addUserToStart": "Add a user to get started",
   "contacts.clickSearchButton": "Click the 'Search' button to select a user",
-  "contacts.name": "Name",
+  "contacts.contactIndex": "Internal contact {index}",
   "contacts.noContacts": "No contacts have been added.",
   "contacts.noDuplicates": "A user cannot be assigned the same role twice.",
-  "contacts.remove": "Remove",
+  "contacts.noUserAdded": "No user added",
+  "contacts.noUserPlugin": "No \"find-user\" plugin is installed",
   "contacts.role": "Role",
+  "contacts.unlinkUser": "Unlink user",
+  "contacts.user": "User",
 
   "createOrg.alreadyExists": "An organization with this name already exists!",
   "createOrg.createNew": "Create new organization",
