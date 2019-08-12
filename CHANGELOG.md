@@ -1,5 +1,8 @@
 # Change history for stripes-erm-components
 
+## 1.5.5 2019-08-09
+* Moved `FileUploaderField` into its own component. ERM-337
+
 ## 1.5.4 2019-07-24
 * Removed `devDependencies` on stripes-components and stripes-core.
 

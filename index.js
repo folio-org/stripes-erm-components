@@ -4,6 +4,8 @@ export { default as CreateOrganizationModal } from './lib/CreateOrganizationModa
 export { default as DocumentCard } from './lib/DocumentCard';
 export { default as DocumentsFieldArray } from './lib/DocumentsFieldArray';
 export { default as EditCard } from './lib/EditCard';
+export { default as FileUploader } from './lib/FileUploader';
+export { default as FileUploaderField } from './lib/FileUploaderField';
 export { default as InternalContactsFieldArray } from './lib/InternalContactsFieldArray';
 export { default as OrganizationsFieldArray } from './lib/OrganizationsFieldArray';
 export { default as ViewOrganizationCard } from './lib/ViewOrganizationCard';
