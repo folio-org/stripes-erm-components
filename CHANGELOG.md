@@ -1,5 +1,10 @@
 # Change history for stripes-erm-components
 
+## 1.6.0 IN PROGRESS
+* `InternalContactsFieldArray` renders users as a card. ERM-309
+* Bumped `eslint-config-stripes` dependency to 4.2.0
+* Added
+
 ## 1.5.5 2019-08-09
 * Moved `FileUploaderField` into its own component. ERM-337
 
