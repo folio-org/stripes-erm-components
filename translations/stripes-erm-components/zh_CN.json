@@ -31,7 +31,6 @@
     "contacts.clickSearchButton": "单击“搜索”按钮以选择用户",
     "contacts.name": "名称",
     "contacts.noContacts": "未添加联系人。",
-    "contacts.remove": "移除",
     "contacts.role": "角色",
     "contacts.noDuplicates": "无法为用户分配两次相同的角色。",
     "organizations.noDuplicates": "无法为组织分配两次相同的角色。",
@@ -68,5 +67,14 @@
     "term.publicNote": "Public note",
     "term.visibility": "Visibility",
     "term.internalTrue": "Internal",
-    "term.internalFalse": "Public"
+    "term.internalFalse": "Public",
+    "contacts.addUser": "添加用户",
+    "contacts.addUserToStart": "添加用户以开始使用",
+    "contacts.contactIndex": "Internal contact {index}",
+    "contacts.email": "电子邮件",
+    "contacts.noUserAdded": "未添加用户",
+    "contacts.noUserPlugin": "No \"find-user\" plugin is installed",
+    "contacts.phone": "电话",
+    "contacts.unlinkUser": "Unlink user",
+    "contacts.user": "用户"
 }

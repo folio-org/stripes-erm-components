@@ -31,7 +31,6 @@
     "contacts.clickSearchButton": "قم بالنقر على زر 'بحث'  لتحديد مستخدم",
     "contacts.name": "الاسم",
     "contacts.noContacts": "لم تتم إضافة أي جهة اتصال",
-    "contacts.remove": "إزالة",
     "contacts.role": "الدور",
     "contacts.noDuplicates": "لا يمكن تعيين نفس الدور للمستخدم مرتين.",
     "organizations.noDuplicates": "لا يمكن تعيين مؤسسة لنفس الدور مرتين",
@@ -68,5 +67,14 @@
     "term.publicNote": "ملاحظة عامة",
     "term.visibility": "الرؤية",
     "term.internalTrue": "داخلية",
-    "term.internalFalse": "عامة"
+    "term.internalFalse": "عامة",
+    "contacts.addUser": "إضافة مستخدم",
+    "contacts.addUserToStart": "أضف مستخدم للبدء",
+    "contacts.contactIndex": "جهة اتصال داخلية {index}",
+    "contacts.email": "عنوان البريد الإلكتروني",
+    "contacts.noUserAdded": "لم تتم إضافة مستخدم",
+    "contacts.noUserPlugin": "لم يتم تثبيت برنامج \"بحث المستخدم\" المساعد",
+    "contacts.phone": "الهاتف",
+    "contacts.unlinkUser": "إلغاء ربط المستخدم",
+    "contacts.user": "المستخدم"
 }
