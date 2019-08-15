@@ -31,7 +31,6 @@
     "contacts.clickSearchButton": "Clique no botão 'Pesquisar' para selecionar um usuário",
     "contacts.name": "Nome",
     "contacts.noContacts": "Nenhum contato foi adicionado.",
-    "contacts.remove": "Remover",
     "contacts.role": "Função",
     "contacts.noDuplicates": "Um usuário não pode receber a mesma função duas vezes.",
     "organizations.noDuplicates": "Uma organização não pode ser atribuída a mesma função duas vezes.",
@@ -68,5 +67,14 @@
     "term.publicNote": "Nota pública",
     "term.visibility": "Visibilidade",
     "term.internalTrue": "Interno",
-    "term.internalFalse": "Público"
+    "term.internalFalse": "Público",
+    "contacts.addUser": "Adicionar usuário",
+    "contacts.addUserToStart": "Adicione um usuário para começar",
+    "contacts.contactIndex": "Contato interno {index}",
+    "contacts.email": "Endereço de e-mail",
+    "contacts.noUserAdded": "Nenhum usuário adicionado",
+    "contacts.noUserPlugin": "Nenhum plugin \"find-user\" está instalado",
+    "contacts.phone": "Telefone",
+    "contacts.unlinkUser": "Desvincular usuário",
+    "contacts.user": "Usuário"
 }
