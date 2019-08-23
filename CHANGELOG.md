@@ -1,5 +1,8 @@
 # Change history for stripes-erm-components
 
+## 1.7.0 IN PROGRESS
+* Fixed `DocumentsFieldArray` uploader dropzone resizing behaviour. ERM-295
+
 ## 1.6.0 2019-08-20
 * `InternalContactsFieldArray` renders users as a card. ERM-309
 * Bumped `eslint-config-stripes` dependency to 4.2.0
