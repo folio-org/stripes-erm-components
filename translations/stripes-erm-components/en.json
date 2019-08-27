@@ -34,6 +34,8 @@
   "interface.type": "Interface type",
   "interface.notes": "Notes",
   "interface.notFound": "No interfaces found",
+  "interface.showCreds": "Show credentials",
+  "interface.hideCreds": "Hide credentials",
 
   "licenseCard.openEnded": "Open ended",
   "licenseCard.notSet": "Not set",
