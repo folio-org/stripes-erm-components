@@ -1,6 +1,6 @@
 # withKiwtFieldArray
 
-A higher-order component to simplify the interface between redux-form `<FieldArray>` and arrays in a backend module that uses the [K-Int Web Toolkit](https://github.com/k-int/web-toolkit-ce/) to manage its arrays via the [ExtendedWebDataBinder](https://github.com/k-int/web-toolkit-ce/blob/master/src/main/groovy/com/k_int/web/toolkit/databinding/ExtendedWebDataBinder.groovy).
+A higher-order component to simplify the interface between `<FieldArray>`s provided by `react-final-form` and `RF/RFF`, and arrays in a backend module that uses the [K-Int Web Toolkit](https://github.com/k-int/web-toolkit-ce/) to manage its arrays via the [ExtendedWebDataBinder](https://github.com/k-int/web-toolkit-ce/blob/master/src/main/groovy/com/k_int/web/toolkit/databinding/ExtendedWebDataBinder.groovy).
 
 The key difference for UI code talking to those modules instead of classical FOLIO RMB modules, is that when PUTing an updated record with arrays of objects, only the objects that have changed need to sent to minimise payload size.
 
@@ -58,12 +58,12 @@ export default withKiwtFieldArray(UsersFieldArray)
 | name | type | description |
 | ---- | ---- | ----------- |
 | items | array | Array of items to be rendered and not marked for deletion |
-| name | string | The `name` provided by a parent component when hooking your component to a redux-form `FieldArray`. Provided here for convenience rather than `fields.name`. |
+| name | string | The `name` provided by a parent component when hooking your component to a redux-form (RF) or react-final-form (RFF) `FieldArray`. Provided here for convenience rather than `fields.name`. |
 | onAddField | function (defaultObject = {}) => {} | Should be called when you want to add a new item to the end of the array. Optionally pass in an object with default values for any keys. **Note** that if you pass this to a click-handler without a wrapper function, the click-handler will pass the `event` as the default object. So you should probably always be calling this function yourself rather than passing it somewhere and letting some other code call it. |
 | onDeleteField | function (index, objectToBeDeleted) => {} | Should be called when deleting an object from the array. **Both parameters are required.** |
 | onMarkForDeletion | function (objectToBeMarkedForDeletion) => {} | Should be called when attempting to mark an object in the array to be deleted (for example: when you mark the item for deletion and update the form, but not actually delete the field from the UI immediately like the onDeleteField). |
 | onPrependField | function (defaultObject = {}) => {} | Should be called when you want to add a new item to the start of the array. Optionally pass in an object with default values for any keys. **Note** that if you pass this to a click-handler without a wrapper function, the click-handler will pass the `event` as the default object. So you should probably always be calling this function yourself rather than passing it somewhere and letting some other code call it. |
 | onReplaceField | function (index, objectToBeInserted) => {} | Should be called when attempting to replace an object in the array with another object. Generally not used since you usually have separate form components that target specific keys within an object, but this can be useful when completely swapping out entries or setting keys in bulk. **Both parameters are required.** |
-| fields | object | The redux-form `fields` prop is passed down as-is, in case you need anything from it. Naturally, this requires that you've connected your component to a redux-form `FieldArray`. |
-| meta | object | The redux-form `meta` prop is passed down as-is, in case you need anything from it. Naturally, this requires that you've connected your component to a redux-form `FieldArray`. |
+| fields | object | The RF/RFF `fields` prop is passed down as-is, in case you need anything from it. Naturally, this requires that you've connected your component to a RF/RFF `FieldArray`. |
+| meta | object | The RF/RFF `meta` prop is passed down as-is, in case you need anything from it. Naturally, this requires that you've connected your component to a RF/RFF `FieldArray`. |
 | *other* | - | All other props are also passed down. |
