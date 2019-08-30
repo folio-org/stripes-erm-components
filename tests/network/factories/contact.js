@@ -1,7 +1,9 @@
-import { Factory, faker, trait } from '@bigtest/mirage';
+import { Factory, faker } from '@bigtest/mirage';
 
 export default Factory.extend({
-  role: faker.random.word(),
+  role: {
+    label: faker.name.title,
+  },
 
   afterCreate(contact, server) {
     const user = server.create('user');

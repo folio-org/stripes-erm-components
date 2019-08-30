@@ -11,8 +11,6 @@ export default ApplicationSerializer.extend({
       if (contact.user) contacts[index].user = contact.user.id;
     });
 
-    console.log('contacts', JSON.stringify(contacts, null, ' '));
-
     return {
       totalRecords: contacts.length,
       results: contacts,
