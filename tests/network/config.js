@@ -17,4 +17,12 @@ export default function config() {
     const body = JSON.parse(request.requestBody);
     return this.create('organization', body);
   });
+
+  this.get('/erm/contacts', ({ contacts }) => {
+    return contacts.all();
+  });
+
+  this.get('/users', ({ users }) => {
+    return users.all();
+  });
 }

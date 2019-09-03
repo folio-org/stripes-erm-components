@@ -15,6 +15,9 @@
   "contacts.unlinkUser": "Unlink user",
   "contacts.user": "User",
 
+  "contactSelect.selectContact": "Select an internal contact",
+  "contactSelect.typeToSearch": "Begin typing to search for a contact",
+
   "createOrg.alreadyExists": "An organization with this name already exists!",
   "createOrg.createNew": "Create new organization",
   "createOrg.name": "Name",
