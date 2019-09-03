@@ -4,7 +4,8 @@
 * Fixed `DocumentsFieldArray` uploader dropzone resizing behaviour. ERM-295
 * Fixed `withKiwtFieldArray` not handling delete-then-append flows correctly. ERM-420
 * Fixed `LicenseCard` not maintaining query params when linking within Licenses app. ERM-353
-* Added `InternalContactSelection` component. ERM-421s
+* Added `InternalContactSelection` component. ERM-421
+* Fixed `FileUploaderField` to force line-breaks for long filenames. ERM-432
 
 ## 1.6.0 2019-08-20
 * `InternalContactsFieldArray` renders users as a card. ERM-309
