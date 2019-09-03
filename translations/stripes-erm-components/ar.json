@@ -76,5 +76,7 @@
     "contacts.noUserPlugin": "لم يتم تثبيت برنامج \"بحث المستخدم\" المساعد",
     "contacts.phone": "الهاتف",
     "contacts.unlinkUser": "إلغاء ربط المستخدم",
-    "contacts.user": "المستخدم"
+    "contacts.user": "المستخدم",
+    "interface.showCredentials": "عرض البيانات",
+    "interface.hideCredentials": "إخفاء البيانات"
 }
