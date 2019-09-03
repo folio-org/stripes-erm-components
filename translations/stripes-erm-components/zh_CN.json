@@ -76,5 +76,7 @@
     "contacts.noUserPlugin": "No \"find-user\" plugin is installed",
     "contacts.phone": "电话",
     "contacts.unlinkUser": "Unlink user",
-    "contacts.user": "用户"
+    "contacts.user": "用户",
+    "interface.showCredentials": "Show credentials",
+    "interface.hideCredentials": "Hide credentials"
 }

@@ -76,5 +76,7 @@
     "contacts.noUserPlugin": "Nenhum plugin \"find-user\" está instalado",
     "contacts.phone": "Telefone",
     "contacts.unlinkUser": "Desvincular usuário",
-    "contacts.user": "Usuário"
+    "contacts.user": "Usuário",
+    "interface.showCredentials": "Mostrar credenciais",
+    "interface.hideCredentials": "Ocultar credenciais"
 }
