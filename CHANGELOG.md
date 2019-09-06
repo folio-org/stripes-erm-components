@@ -1,11 +1,12 @@
 # Change history for stripes-erm-components
 
-## 1.7.0 IN PROGRESS
+## 1.7.0 2019-09-06
 * Fixed `DocumentsFieldArray` uploader dropzone resizing behaviour. ERM-295
 * Fixed `withKiwtFieldArray` not handling delete-then-append flows correctly. ERM-420
 * Fixed `LicenseCard` not maintaining query params when linking within Licenses app. ERM-353
 * Added `InternalContactSelection` component. ERM-421
 * Fixed `FileUploaderField` to force line-breaks for long filenames. ERM-432
+* Updated `ViewOrganizationCard` to show interface username/password.
 
 ## 1.6.0 2019-08-20
 * `InternalContactsFieldArray` renders users as a card. ERM-309
