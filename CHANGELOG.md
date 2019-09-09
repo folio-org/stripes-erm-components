@@ -1,5 +1,8 @@
 # Change history for stripes-erm-components
 
+## 1.7.1 2019-09-09
+* Fixed `UserField` to show error messages.
+
 ## 1.7.0 2019-09-06
 * Fixed `DocumentsFieldArray` uploader dropzone resizing behaviour. ERM-295
 * Fixed `withKiwtFieldArray` not handling delete-then-append flows correctly. ERM-420
