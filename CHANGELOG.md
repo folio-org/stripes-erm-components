@@ -1,5 +1,8 @@
 # Change history for stripes-erm-components
 
+## 1.7.2 2019-09-10
+* Fixed console errors for prop-types and lack of keys.
+
 ## 1.7.1 2019-09-09
 * Fixed `UserField` to show error messages.
 
