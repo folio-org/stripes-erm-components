@@ -78,5 +78,7 @@
     "contacts.unlinkUser": "إلغاء ربط المستخدم",
     "contacts.user": "المستخدم",
     "interface.showCredentials": "عرض البيانات",
-    "interface.hideCredentials": "إخفاء البيانات"
+    "interface.hideCredentials": "إخفاء البيانات",
+    "contactSelect.selectContact": "حدد جهة اتصال داخلية",
+    "contactSelect.typeToSearch": "ابدأ الكتابة للبحث عن جهة اتصال"
 }

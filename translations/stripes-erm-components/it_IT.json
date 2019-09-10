@@ -78,5 +78,7 @@
     "contacts.unlinkUser": "Unlink user",
     "contacts.user": "User",
     "interface.showCredentials": "Show credentials",
-    "interface.hideCredentials": "Hide credentials"
+    "interface.hideCredentials": "Hide credentials",
+    "contactSelect.selectContact": "Select an internal contact",
+    "contactSelect.typeToSearch": "Begin typing to search for a contact"
 }
