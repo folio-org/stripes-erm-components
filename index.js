@@ -14,6 +14,7 @@ export { default as ViewOrganizationCard } from './lib/ViewOrganizationCard';
 export { default as LicenseCard } from './lib/LicenseCard';
 export { default as LicenseEndDate } from './lib/LicenseEndDate';
 export { default as LicenseTermsList } from './lib/LicenseTermsList';
+export { default as LoadingPane } from './lib/LoadingPane';
 export { default as OrganizationSelection } from './lib/OrganizationSelection';
 export { default as Spinner } from './lib/Spinner';
 export { default as Tags } from './lib/Tags';
