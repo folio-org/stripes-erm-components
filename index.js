@@ -23,3 +23,7 @@ export { default as withKiwtFieldArray } from './lib/withKiwtFieldArray/withKiwt
 
 // Functions, utilities, and misc.
 export { default as getSASParams } from './lib/getSASParams';
+export {
+  composeValidators,
+  required as requiredValidator,
+} from './lib/validators';
