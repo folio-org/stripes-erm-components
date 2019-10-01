@@ -40,13 +40,15 @@
   "interface.showCredentials": "Show credentials",
   "interface.hideCredentials": "Hide credentials",
 
-  "licenseCard.openEnded": "Open ended",
-  "licenseCard.notSet": "Not set",
-  "licenseCard.type": "Type",
-  "licenseCard.status": "Status",
-  "licenseCard.startDate": "Start date",
   "licenseCard.endDate": "End date",
+  "licenseCard.license": "License",
   "licenseCard.licensor": "Licensor",
+  "licenseCard.notSet": "Not set",
+  "licenseCard.openEnded": "Open ended",
+  "licenseCard.startDate": "Start date",
+  "licenseCard.status": "Status",
+  "licenseCard.type": "Type",
+  "licenseCard.unknownLicense": "Unknown License",
 
   "licenseTermsList.notSet": "Not set",
 
