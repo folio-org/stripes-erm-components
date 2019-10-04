@@ -1,5 +1,12 @@
 # Change history for stripes-erm-components
 
+## 2.0.0 IN PROGRESS
+* Changed `DocumentsFieldArray` to use React Final Form instead of Redux Form.
+* Changed `InternalContactsFieldArray` to use React Final Form instead of Redux Form.
+* Changed `EditOrganizationCard` to use React Final Form instead of Redux Form.
+* Added `composeValidators` function to exports for use with React Final Form.
+* Added `LoadingPane` component.
+
 ## 1.7.2 2019-09-10
 * Fixed console errors for prop-types and lack of keys.
 
