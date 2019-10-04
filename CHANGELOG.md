@@ -1,6 +1,6 @@
 # Change history for stripes-erm-components
 
-## 2.0.0 IN PROGRESS
+## 2.0.0 2019-10-04
 * Changed `DocumentsFieldArray` to use React Final Form instead of Redux Form.
 * Changed `InternalContactsFieldArray` to use React Final Form instead of Redux Form.
 * Changed `EditOrganizationCard` to use React Final Form instead of Redux Form.

@@ -58,7 +58,7 @@ export default withKiwtFieldArray(UsersFieldArray)
 | name | type | description |
 | ---- | ---- | ----------- |
 | items | array | Array of items to be rendered and not marked for deletion |
-| name | string | The `name` provided by a parent component when hooking your component to a redux-form (RF) or react-final-form (RFF) `FieldArray`. Provided here for convenience rather than `fields.name`. |
+| name | string | The `name` provided by a parent component when hooking your component to a react-final-form (RFF) `FieldArray`. Provided here for convenience rather than `fields.name`. |
 | onAddField | function (defaultObject = {_false: true}) => {} | Should be called when you want to add a new item to the end of the array. Optionally pass in an object with default values for any keys. **Note** that if you pass this to a click-handler without a wrapper function, the click-handler will pass the `event` as the default object. So you should probably always be calling this function yourself rather than passing it somewhere and letting some other code call it. |
 | onDeleteField | function (index, objectToBeDeleted) => {} | Should be called when deleting an object from the array. **Both parameters are required.** |
 | onMarkForDeletion | function (objectToBeMarkedForDeletion) => {} | Should be called when attempting to mark an object in the array to be deleted (for example: when you mark the item for deletion and update the form, but not actually delete the field from the UI immediately like the onDeleteField). |
