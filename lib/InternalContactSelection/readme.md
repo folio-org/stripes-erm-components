@@ -8,7 +8,7 @@ The component defaults to using the `/erm/org` endpoint.
 
 ```
 import { InternalContactSelection } from '@folio/stripes-erm-components';
-import { Field } from 'redux-form';
+import { Field } from 'react-final-form';
 
 ...
 <Field
