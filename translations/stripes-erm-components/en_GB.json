@@ -80,5 +80,7 @@
     "interface.showCredentials": "Show credentials",
     "interface.hideCredentials": "Hide credentials",
     "contactSelect.selectContact": "Select an internal contact",
-    "contactSelect.typeToSearch": "Begin typing to search for a contact"
+    "contactSelect.typeToSearch": "Begin typing to search for a contact",
+    "licenseCard.license": "License",
+    "licenseCard.unknownLicense": "Unknown License"
 }

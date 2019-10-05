@@ -80,5 +80,7 @@
     "interface.showCredentials": "عرض البيانات",
     "interface.hideCredentials": "إخفاء البيانات",
     "contactSelect.selectContact": "حدد جهة اتصال داخلية",
-    "contactSelect.typeToSearch": "ابدأ الكتابة للبحث عن جهة اتصال"
+    "contactSelect.typeToSearch": "ابدأ الكتابة للبحث عن جهة اتصال",
+    "licenseCard.license": "الرخصة",
+    "licenseCard.unknownLicense": "رخصة غير معروفة"
 }
