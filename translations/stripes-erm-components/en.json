@@ -11,6 +11,7 @@
   "contacts.noUserAdded": "No user added",
   "contacts.noUserPlugin": "No \"find-user\" plugin is installed",
   "contacts.phone": "Phone",
+  "contacts.removeContact": "Remove internal contact",
   "contacts.role": "Role",
   "contacts.unlinkUser": "Unlink user",
   "contacts.user": "User",
