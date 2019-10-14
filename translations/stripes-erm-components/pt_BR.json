@@ -81,6 +81,6 @@
     "interface.hideCredentials": "Ocultar credenciais",
     "contactSelect.selectContact": "Selecione um contato interno",
     "contactSelect.typeToSearch": "Comece a digitar para procurar um contato",
-    "licenseCard.license": "License",
-    "licenseCard.unknownLicense": "Unknown License"
+    "licenseCard.license": "Licença",
+    "licenseCard.unknownLicense": "Licença desconhecida"
 }
