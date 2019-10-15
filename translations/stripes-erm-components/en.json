@@ -63,6 +63,7 @@
   "organizations.noOrgError": "Add an organization to continue",
   "organizations.noOrganizations": "No organizations have been added.",
   "organizations.noOrganization": "No organizations added",
+  "organizations.organizationIndex": "Organization {index}",
   "organizations.addOrganizationToStart": "Add an organization to get started",
   "organizations.unlinkOrganization": "Unlink organization",
 
