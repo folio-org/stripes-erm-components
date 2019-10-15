@@ -58,6 +58,7 @@
   "organizations.name": "Name",
   "organizations.role": "Role",
   "organizations.addOrganization": "Add organization",
+  "organizations.removeOrganization": "Remove organization",
   "organizations.multipleUniqueRoles": "Only one organization may have this role.",
   "organizations.noOrgError": "Add an organization to continue",
   "organizations.noOrganizations": "No organizations have been added.",
