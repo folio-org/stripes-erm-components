@@ -1,5 +1,8 @@
 # Change history for stripes-erm-components
 
+## 2.1.0 2019-10-16
+* Added `Tooltip`s for all the delete trash icons. ERM-310, ERM-509
+
 ## 2.0.0 2019-10-04
 * Changed `DocumentsFieldArray` to use React Final Form instead of Redux Form.
 * Changed `InternalContactsFieldArray` to use React Final Form instead of Redux Form.
