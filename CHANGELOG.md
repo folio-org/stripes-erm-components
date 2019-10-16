@@ -1,6 +1,6 @@
 # Change history for stripes-erm-components
 
-## 2.1.0 2019-10-16
+## 2.1.0 IN PROGRESS
 * Added `Tooltip`s for all the delete trash icons. ERM-310, ERM-509
 
 ## 2.0.0 2019-10-04
