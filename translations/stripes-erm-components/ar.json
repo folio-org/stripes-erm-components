@@ -82,5 +82,8 @@
     "contactSelect.selectContact": "حدد جهة اتصال داخلية",
     "contactSelect.typeToSearch": "ابدأ الكتابة للبحث عن جهة اتصال",
     "licenseCard.license": "الرخصة",
-    "licenseCard.unknownLicense": "رخصة غير معروفة"
+    "licenseCard.unknownLicense": "رخصة غير معروفة",
+    "contacts.removeContact": "إزالة جهة اتصال داخلية",
+    "organizations.removeOrganization": "إزالة مؤسسة",
+    "organizations.organizationIndex": "المؤسسة {index}"
 }

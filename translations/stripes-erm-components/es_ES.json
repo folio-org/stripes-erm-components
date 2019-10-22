@@ -82,5 +82,8 @@
     "contactSelect.selectContact": "Seleccione un contacto interno",
     "contactSelect.typeToSearch": "Comience a escribir para buscar un contacto",
     "licenseCard.license": "License",
-    "licenseCard.unknownLicense": "Unknown License"
+    "licenseCard.unknownLicense": "Unknown License",
+    "contacts.removeContact": "Remove internal contact",
+    "organizations.removeOrganization": "Remove organization",
+    "organizations.organizationIndex": "Organization {index}"
 }

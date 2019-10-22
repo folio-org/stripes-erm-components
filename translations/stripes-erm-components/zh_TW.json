@@ -82,5 +82,8 @@
     "contactSelect.selectContact": "选择内部联系人",
     "contactSelect.typeToSearch": "开始输入以搜索联系人",
     "licenseCard.license": "License",
-    "licenseCard.unknownLicense": "Unknown License"
+    "licenseCard.unknownLicense": "Unknown License",
+    "contacts.removeContact": "Remove internal contact",
+    "organizations.removeOrganization": "Remove organization",
+    "organizations.organizationIndex": "Organization {index}"
 }
