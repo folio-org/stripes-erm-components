@@ -81,6 +81,9 @@
     "interface.hideCredentials": "隐藏凭证",
     "contactSelect.selectContact": "选择内部联系人",
     "contactSelect.typeToSearch": "开始输入以搜索联系人",
-    "licenseCard.license": "License",
-    "licenseCard.unknownLicense": "Unknown License"
+    "licenseCard.license": "许可证",
+    "licenseCard.unknownLicense": "未知许可证",
+    "contacts.removeContact": "移除内部联系人",
+    "organizations.removeOrganization": "移除组织",
+    "organizations.organizationIndex": "组织{index}"
 }
