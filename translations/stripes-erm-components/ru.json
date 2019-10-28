@@ -85,5 +85,6 @@
     "licenseCard.unknownLicense": "Неизвестная лицензия",
     "contacts.removeContact": "Remove internal contact",
     "organizations.removeOrganization": "Remove organization",
-    "organizations.organizationIndex": "Organization {index}"
+    "organizations.organizationIndex": "Organization {index}",
+    "loading": "Loading..."
 }
