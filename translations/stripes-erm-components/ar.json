@@ -85,5 +85,6 @@
     "licenseCard.unknownLicense": "رخصة غير معروفة",
     "contacts.removeContact": "إزالة جهة اتصال داخلية",
     "organizations.removeOrganization": "إزالة مؤسسة",
-    "organizations.organizationIndex": "المؤسسة {index}"
+    "organizations.organizationIndex": "المؤسسة {index}",
+    "loading": "Loading..."
 }
