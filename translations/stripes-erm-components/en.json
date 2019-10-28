@@ -1,4 +1,6 @@
 {
+  "loading": "Loading...",
+
   "contacts.addContact": "Add internal contact",
   "contacts.addUser": "Add user",
   "contacts.addUserToStart": "Add a user to get started",
