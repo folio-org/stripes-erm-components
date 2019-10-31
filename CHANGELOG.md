@@ -2,7 +2,10 @@
 
 ## 2.1.0 IN PROGRESS
 * Added `Tooltip`s for all the delete trash icons. ERM-310, ERM-509
-* Addded `savedProps` param to `onDeleteField` and `onMarkForDeletion`.
+* Updated `withKiwtFieldArray` with new `onUpdateField` function.
+* Deprecation warning for `withKiwtFieldArray` usage with redux-form.
+* Updated `InternalContactsFieldArray` with new "link" and "replace" verbiage. ERM-451 452 453
+* Updated `OrganizationsFieldArray` with new "link" and "replace" verbiage. ERM-451 452 453
 
 ## 2.0.0 2019-10-04
 * Changed `DocumentsFieldArray` to use React Final Form instead of Redux Form.
