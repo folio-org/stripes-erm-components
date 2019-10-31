@@ -54,7 +54,7 @@
     "interface.notes": "Notes",
     "interface.notFound": "No interfaces found",
     "organizations.noOrgError": "Add an organization to continue",
-    "organizations.noOrganization": "No organizations added",
+    "organizations.noOrganization": "No organization linked",
     "organizations.addOrganizationToStart": "Add an organization to get started",
     "organizations.unlinkOrganization": "Unlink organization",
     "organization": "Organization",
