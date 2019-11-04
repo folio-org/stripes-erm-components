@@ -80,11 +80,11 @@
     "organizations.removeOrganization": "إزالة مؤسسة",
     "organizations.organizationIndex": "المؤسسة {index}",
     "loading": "جاري التحميل...",
-    "contacts.linkUser": "Link user",
-    "contacts.linkUserToStart": "Link a user to get started",
-    "contacts.noUserLinked": "No user linked",
-    "contacts.replaceUser": "Replace user",
-    "organizations.linkOrganization": "Link organization",
-    "organizations.linkOrganizationToStart": "Link an organization to get started",
-    "organizations.replaceOrganization": "Replace organization"
+    "contacts.linkUser": "ربط مستخدم",
+    "contacts.linkUserToStart": "قم بربط مستخدم للبدء",
+    "contacts.noUserLinked": "لم يتم ربط مستخدم",
+    "contacts.replaceUser": "استبدال مستخدم",
+    "organizations.linkOrganization": "ربط مؤسسة",
+    "organizations.linkOrganizationToStart": "قم بربط مؤسسة للبدء",
+    "organizations.replaceOrganization": "استبدال مؤسسة"
 }
