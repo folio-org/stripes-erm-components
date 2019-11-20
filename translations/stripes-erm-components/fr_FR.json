@@ -52,7 +52,7 @@
     "interface.type": "Interface type",
     "interface.notes": "Notes",
     "interface.notFound": "Aucune interface trouvée",
-    "organizations.noOrgError": "Link an organization to continue",
+    "organizations.noOrgError": "Lier une organisation pour continuer",
     "organizations.noOrganization": "No organization linked",
     "organization": "Organization",
     "fuf.uploading": "Please wait for the file to be uploaded",
