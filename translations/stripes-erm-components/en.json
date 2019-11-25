@@ -41,6 +41,7 @@
   "interface.notFound": "No interfaces found",
   "interface.showCredentials": "Show credentials",
   "interface.hideCredentials": "Hide credentials",
+  "interface.noCredentialsPermission": "You do not have the correct permissions to view platform credentials",
 
   "licenseCard.endDate": "End date",
   "licenseCard.license": "License",
