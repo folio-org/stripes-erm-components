@@ -86,5 +86,6 @@
     "contacts.replaceUser": "Substituir usuário",
     "organizations.linkOrganization": "Vincular organização",
     "organizations.linkOrganizationToStart": "Vincule uma organização para começar",
-    "organizations.replaceOrganization": "Substituir organização"
+    "organizations.replaceOrganization": "Substituir organização",
+    "interface.noCredentialsPermission": "Você não tem as permissões corretas para visualizar as credenciais da plataforma"
 }

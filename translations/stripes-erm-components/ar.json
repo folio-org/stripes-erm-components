@@ -86,5 +86,6 @@
     "contacts.replaceUser": "استبدال مستخدم",
     "organizations.linkOrganization": "ربط مؤسسة",
     "organizations.linkOrganizationToStart": "قم بربط مؤسسة للبدء",
-    "organizations.replaceOrganization": "استبدال مؤسسة"
+    "organizations.replaceOrganization": "استبدال مؤسسة",
+    "interface.noCredentialsPermission": "You do not have the correct permissions to view platform credentials"
 }

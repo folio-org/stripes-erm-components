@@ -8,7 +8,7 @@
     "doc.reference": "Référence",
     "doc.location": "Emplacement physique",
     "doc.url": "URL",
-    "doc.note": "Remarque",
+    "doc.note": "Commentaire",
     "doc.addDoc": "Ajouter un document",
     "doc.name": "Nom",
     "doc.noDocs": "Aucun document n'a été ajouté.",
@@ -50,7 +50,7 @@
     "interface.username": "Nom d'utilisateur",
     "interface.password": "Mot de passe",
     "interface.type": "Type d'interface",
-    "interface.notes": "Remarques",
+    "interface.notes": "Commentaires",
     "interface.notFound": "Aucune interface trouvée",
     "organizations.noOrgError": "Lier une organisation pour continuer",
     "organizations.noOrganization": "Aucune organisation liée",
@@ -86,5 +86,6 @@
     "contacts.replaceUser": "Remplacer l'utilisateur",
     "organizations.linkOrganization": "Lier une organisation",
     "organizations.linkOrganizationToStart": "Lier une organisation pour commencer",
-    "organizations.replaceOrganization": "Remplacer l'organisation"
+    "organizations.replaceOrganization": "Remplacer l'organisation",
+    "interface.noCredentialsPermission": "You do not have the correct permissions to view platform credentials"
 }
