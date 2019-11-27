@@ -69,7 +69,7 @@
     "contacts.email": "Adresse e-mail",
     "contacts.noUserPlugin": "Aucun plugin \"find-user\" n'est installé",
     "contacts.phone": "Téléphone",
-    "contacts.user": "Utilisateur",
+    "contacts.user": "Adhérent",
     "interface.showCredentials": "Afficher les informations d'identification",
     "interface.hideCredentials": "Masquer les informations d'identification",
     "contactSelect.selectContact": "Sélectionner un contact interne",

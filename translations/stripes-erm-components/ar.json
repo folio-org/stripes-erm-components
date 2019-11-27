@@ -87,5 +87,5 @@
     "organizations.linkOrganization": "ربط مؤسسة",
     "organizations.linkOrganizationToStart": "قم بربط مؤسسة للبدء",
     "organizations.replaceOrganization": "استبدال مؤسسة",
-    "interface.noCredentialsPermission": "You do not have the correct permissions to view platform credentials"
+    "interface.noCredentialsPermission": "ليس لديك الصلاحيات الصحيحة لعرض بيانات المنصة"
 }
