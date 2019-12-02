@@ -24,7 +24,7 @@
   "createOrg.createNew": "Create new organization",
   "createOrg.name": "Name",
 
-  "fuf.buttonAriaLabel": "Choose file to upload. Maximum file size is 10 megabytes",
+  "fuf.buttonAriaLabel": "Choose file to upload. Maximum file size is 100 megabytes",
   "fuf.filename": "File name",
   "fuf.maxFileSize": "Maximum file size: 100 MB",
   "fuf.removeUploaded": "Remove uploaded file",
