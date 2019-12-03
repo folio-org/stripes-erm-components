@@ -87,5 +87,5 @@
     "organizations.linkOrganization": "Lier une organisation",
     "organizations.linkOrganizationToStart": "Lier une organisation pour commencer",
     "organizations.replaceOrganization": "Remplacer l'organisation",
-    "interface.noCredentialsPermission": "You do not have the correct permissions to view platform credentials"
+    "interface.noCredentialsPermission": "Vous ne disposez pas des autorisations appropriées pour afficher les informations d'identification de la plateforme."
 }
