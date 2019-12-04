@@ -1,6 +1,6 @@
 # Change history for stripes-erm-components
 
-## 2.1.0 IN PROGRESS
+## 2.1.0 2019-12-04
 * Added `Tooltip`s for all the delete trash icons. ERM-310, ERM-509
 * Updated `withKiwtFieldArray` with new `onUpdateField` function.
 * Deprecation warning for `withKiwtFieldArray` usage with redux-form.
