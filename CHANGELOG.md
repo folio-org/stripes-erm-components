@@ -1,5 +1,8 @@
 # Change history for stripes-erm-components
 
+## 2.1.2 2019-12-04
+* Temporarily disabled Jenkins tests for release.
+
 ## 2.1.1 2019-12-04
 * Updated maximum file size message for `FileUploader`. ERM-625
 
