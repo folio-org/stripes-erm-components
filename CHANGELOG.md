@@ -1,6 +1,12 @@
 # Change history for stripes-erm-components
 
-## 2.1.0 IN PROGRESS
+## 2.1.2 2019-12-04
+* Temporarily disabled Jenkins tests for release.
+
+## 2.1.1 2019-12-04
+* Updated maximum file size message for `FileUploader`. ERM-625
+
+## 2.1.0 2019-12-04
 * Added `Tooltip`s for all the delete trash icons. ERM-310, ERM-509
 * Updated `withKiwtFieldArray` with new `onUpdateField` function.
 * Deprecation warning for `withKiwtFieldArray` usage with redux-form.
