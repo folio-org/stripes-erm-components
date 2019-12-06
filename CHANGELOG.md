@@ -1,5 +1,8 @@
 # Change history for stripes-erm-components
 
+## 2.3.0 IN PROGRESS
+* Deprecated `<Spinner>` in preparation for removal in 3.0.0. ERM-636
+
 ## 2.1.2 2019-12-04
 * Temporarily disabled Jenkins tests for release.
 
