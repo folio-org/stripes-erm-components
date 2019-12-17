@@ -66,6 +66,7 @@
   "organizations.noDuplicates": "An organization cannot be assigned the same role twice.",
   "organizations.noOrganization": "No organization linked",
   "organizations.noOrganizations": "No organizations have been added.",
+  "organizations.noOrgPlugin": "No \"find-organization\" plugin is installed",
   "organizations.noOrgError": "Link an organization to continue",
   "organizations.organizationIndex": "Organization {index}",
   "organizations.removeOrganization": "Remove organization",
