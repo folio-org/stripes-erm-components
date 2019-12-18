@@ -87,5 +87,7 @@
     "organizations.linkOrganization": "ربط مؤسسة",
     "organizations.linkOrganizationToStart": "قم بربط مؤسسة للبدء",
     "organizations.replaceOrganization": "استبدال مؤسسة",
-    "interface.noCredentialsPermission": "ليس لديك الصلاحيات الصحيحة لعرض بيانات المنصة"
+    "interface.noCredentialsPermission": "ليس لديك الصلاحيات الصحيحة لعرض بيانات المنصة",
+    "viewOrg.name": "الاسم",
+    "organizations.noOrgPlugin": "لم يتم تثبيت برنامج \"باحث المؤسسة\" المساعد"
 }

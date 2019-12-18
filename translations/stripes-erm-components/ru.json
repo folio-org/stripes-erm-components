@@ -15,13 +15,13 @@
     "doc.error.docsMustHaveLocationOrURL": "Each document must specify a file, location, or URL.",
     "doc.error.invalidURL": "Please enter a valid URL (including \"http\" or \"https\").",
     "licenseCard.openEnded": "Open ended",
-    "licenseCard.notSet": "Not set",
+    "licenseCard.notSet": "Не установлено",
     "licenseCard.type": "Тип",
     "licenseCard.status": "Status",
     "licenseCard.startDate": "Дата начала",
     "licenseCard.endDate": "Дата окончания",
     "licenseCard.licensor": "Licensor",
-    "licenseTermsList.notSet": "Not set",
+    "licenseTermsList.notSet": "Не установлено",
     "tags": "Теги",
     "numberOfTags": "{count, number} {count, plural, one {Tag} other {Tags}}",
     "newTagCreated": "New tag created",
@@ -58,7 +58,7 @@
     "fuf.uploading": "Please wait for the file to be uploaded",
     "errors.uploadError": "Error encountered when uploading",
     "fuf.maxFileSize": "Максимальный размер файла: 10 МБ",
-    "fuf.buttonAriaLabel": "Choose file to upload. Maximum file size is 200 megabytes",
+    "fuf.buttonAriaLabel": "Выберите файл для загрузки. Максимальный размер файла 200 мегабайт",
     "organizations.multipleUniqueRoles": "Only one organization may have this role.",
     "term.internalNote": "Internal note",
     "term.publicNote": "Public note",
@@ -87,5 +87,7 @@
     "organizations.linkOrganization": "Link organization",
     "organizations.linkOrganizationToStart": "Link an organization to get started",
     "organizations.replaceOrganization": "Заменить организацию",
-    "interface.noCredentialsPermission": "You do not have the correct permissions to view platform credentials"
+    "interface.noCredentialsPermission": "You do not have the correct permissions to view platform credentials",
+    "viewOrg.name": "Name",
+    "organizations.noOrgPlugin": "No \"find-organization\" plugin is installed"
 }
