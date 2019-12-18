@@ -87,5 +87,6 @@
     "organizations.linkOrganization": "链接组织",
     "organizations.linkOrganizationToStart": "链接组织以开始",
     "organizations.replaceOrganization": "替换组织",
-    "interface.noCredentialsPermission": "您没有查看平台凭据的正确权限"
+    "interface.noCredentialsPermission": "您没有查看平台凭据的正确权限",
+    "viewOrg.name": "Name"
 }
