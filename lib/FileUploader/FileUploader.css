@@ -45,6 +45,10 @@
   color: var(--error);
 }
 
+.breakAll {
+  word-break: break-all;
+}
+
 /* Polyfill for proper work of `hidden` attribute */
 [hidden] {
   display: none;

@@ -88,6 +88,9 @@
   "doc.error.invalidURL": "Please enter a valid URL (including \"http\" or \"https\").",
 
   "errors.uploadError": "Error encountered when uploading",
+  "errors.uploadError.1": "<strong>Error:</strong> The file was not uploaded because the connection was dropped.",
+  "errors.uploadError.2": "Please check the filesize is <strong>{number}MB or less</strong> and try again.",
+  "errors.uploadError.3": "If the problem persists contact your system administrator.",
 
   "orgSelect.selectOrg": "Select an organization",
   "orgSelect.typeToSearch": "Begin typing to search for an organization",
