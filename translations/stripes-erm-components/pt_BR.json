@@ -88,5 +88,6 @@
     "organizations.linkOrganizationToStart": "Vincule uma organização para começar",
     "organizations.replaceOrganization": "Substituir organização",
     "interface.noCredentialsPermission": "Você não tem as permissões corretas para visualizar as credenciais da plataforma",
-    "viewOrg.name": "Nome"
+    "viewOrg.name": "Nome",
+    "organizations.noOrgPlugin": "No \"find-organization\" plugin is installed"
 }
