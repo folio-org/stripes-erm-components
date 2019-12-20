@@ -88,6 +88,9 @@
     "organizations.linkOrganizationToStart": "Collega un'organizzazione per iniziare",
     "organizations.replaceOrganization": "Sostituisci organizzazione",
     "interface.noCredentialsPermission": "Non disponi dei permessi per vedere le credenziali della piattaforma ",
-    "viewOrg.name": "Name",
-    "organizations.noOrgPlugin": "No \"find-organization\" plugin is installed"
+    "viewOrg.name": "Nome",
+    "organizations.noOrgPlugin": "Nessun plug-in \"troova-organizzazione\" installato",
+    "errors.uploadError.1": "<strong>Errore:</strong> Il file non è stato caricato perchè la connessione è stata interrotta.",
+    "errors.uploadError.2": "Verifica che la dimensione del file sia <strong>{number}MB o meno</strong> e riprova.",
+    "errors.uploadError.3": "Se il problema persiste, contattare l'amministratore di sistema."
 }

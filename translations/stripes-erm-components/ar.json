@@ -89,5 +89,8 @@
     "organizations.replaceOrganization": "استبدال مؤسسة",
     "interface.noCredentialsPermission": "ليس لديك الصلاحيات الصحيحة لعرض بيانات المنصة",
     "viewOrg.name": "الاسم",
-    "organizations.noOrgPlugin": "لم يتم تثبيت برنامج \"باحث المؤسسة\" المساعد"
+    "organizations.noOrgPlugin": "لم يتم تثبيت برنامج \"باحث المؤسسة\" المساعد",
+    "errors.uploadError.1": "<strong>خطأ:</strong> لم يتم تحميل الملف بسبب انقطاع الاتصال",
+    "errors.uploadError.2": "يرجى التحقق من أن حجم الملف <strong>{number} ميجابايت أو أقل</strong> وأعد المحاولة مرة أخرى.",
+    "errors.uploadError.3": "إذا استمرت المشكلة، اتصل بمسؤول النظام."
 }

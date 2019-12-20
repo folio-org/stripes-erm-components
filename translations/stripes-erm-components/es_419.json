@@ -89,5 +89,8 @@
     "organizations.replaceOrganization": "Replace organization",
     "interface.noCredentialsPermission": "You do not have the correct permissions to view platform credentials",
     "viewOrg.name": "Name",
-    "organizations.noOrgPlugin": "No \"find-organization\" plugin is installed"
+    "organizations.noOrgPlugin": "No \"find-organization\" plugin is installed",
+    "errors.uploadError.1": "<strong>Error:</strong> El archivo no fue cargado por que se cayó la conexión.",
+    "errors.uploadError.2": "Por favor, verifique que el tamaño del archivo sea  <strong>{number}MB o menos </strong> e intente nuevamente.",
+    "errors.uploadError.3": "Si el problema continúa, contacta tu administrador del sistema."
 }

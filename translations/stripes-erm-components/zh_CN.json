@@ -89,5 +89,8 @@
     "organizations.replaceOrganization": "替换组织",
     "interface.noCredentialsPermission": "您没有查看平台凭据的正确权限",
     "viewOrg.name": "Name",
-    "organizations.noOrgPlugin": "No \"find-organization\" plugin is installed"
+    "organizations.noOrgPlugin": "No \"find-organization\" plugin is installed",
+    "errors.uploadError.1": "<strong>Error:</strong> The file was not uploaded because the connection was dropped.",
+    "errors.uploadError.2": "Please check the filesize is <strong>{number}MB or less</strong> and try again.",
+    "errors.uploadError.3": "If the problem persists contact your system administrator."
 }
