@@ -90,7 +90,7 @@
     "interface.noCredentialsPermission": "No tiene los permisos correctos para ver las credenciales de la plataforma",
     "viewOrg.name": "Nombre",
     "organizations.noOrgPlugin": "No hay ningún plugin de \"búsqueda-organización\" instalado",
-    "errors.uploadError.1": "<strong>Error:</strong> The file was not uploaded because the connection was dropped.",
-    "errors.uploadError.2": "Please check the filesize is <strong>{number}MB or less</strong> and try again.",
-    "errors.uploadError.3": "If the problem persists contact your system administrator."
+    "errors.uploadError.1": "<strong> Error: </strong> el archivo no se cargó porque se cortó la conexión.",
+    "errors.uploadError.2": "Por favor, compruebe el tamaño del archivo es <strong>{número}MB o menos</strong> y vuelva a intentarlo.",
+    "errors.uploadError.3": "Si el problema persiste, póngase en contacto con el administrador del sistema."
 }
