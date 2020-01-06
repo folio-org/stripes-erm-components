@@ -77,7 +77,7 @@
     "licenseCard.license": "License",
     "licenseCard.unknownLicense": "Unknown License",
     "contacts.removeContact": "Remove internal contact",
-    "organizations.removeOrganization": "Remove organization",
+    "organizations.removeOrganization": "Remove organization {index}",
     "organizations.organizationIndex": "Organization {index}",
     "loading": "Loading...",
     "contacts.linkUser": "Link user",
