@@ -14,6 +14,7 @@
   "contacts.phone": "Phone",
   "contacts.removeContact": "Remove internal contact {index}",
   "contacts.replaceUser": "Replace user",
+  "contacts.replaceUserSpecific": "Replace user {user}",
   "contacts.role": "Role",
   "contacts.user": "User",
 
