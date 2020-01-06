@@ -68,7 +68,7 @@
   "organizations.noOrganizations": "No organizations have been added.",
   "organizations.noOrgError": "Link an organization to continue",
   "organizations.organizationIndex": "Organization {index}",
-  "organizations.removeOrganization": "Remove organization",
+  "organizations.removeOrganization": "Remove organization {index}",
   "organizations.replaceOrganization": "Replace organization",
   "organizations.role": "Role",
 
