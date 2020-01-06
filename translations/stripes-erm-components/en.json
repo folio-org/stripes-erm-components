@@ -12,7 +12,7 @@
   "contacts.noUserLinked": "No user linked",
   "contacts.noUserPlugin": "No \"find-user\" plugin is installed",
   "contacts.phone": "Phone",
-  "contacts.removeContact": "Remove internal contact",
+  "contacts.removeContact": "Remove internal contact {index}",
   "contacts.replaceUser": "Replace user",
   "contacts.role": "Role",
   "contacts.user": "User",
