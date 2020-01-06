@@ -67,6 +67,7 @@
   "organizations.noDuplicates": "An organization cannot be assigned the same role twice.",
   "organizations.noOrganization": "No organization linked",
   "organizations.noOrganizations": "No organizations have been added.",
+  "organizations.noOrgPlugin": "No \"find-organization\" plugin is installed",
   "organizations.noOrgError": "Link an organization to continue",
   "organizations.organizationIndex": "Organization {index}",
   "organizations.removeOrganization": "Remove organization {index}",
@@ -88,6 +89,9 @@
   "doc.error.invalidURL": "Please enter a valid URL (including \"http\" or \"https\").",
 
   "errors.uploadError": "Error encountered when uploading",
+  "errors.uploadError.1": "<strong>Error:</strong> The file was not uploaded because the connection was dropped.",
+  "errors.uploadError.2": "Please check the filesize is <strong>{number}MB or less</strong> and try again.",
+  "errors.uploadError.3": "If the problem persists contact your system administrator.",
 
   "orgSelect.selectOrg": "Select an organization",
   "orgSelect.typeToSearch": "Begin typing to search for an organization",

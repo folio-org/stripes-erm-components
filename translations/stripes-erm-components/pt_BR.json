@@ -87,5 +87,10 @@
     "organizations.linkOrganization": "Vincular organização",
     "organizations.linkOrganizationToStart": "Vincule uma organização para começar",
     "organizations.replaceOrganization": "Substituir organização",
-    "interface.noCredentialsPermission": "Você não tem as permissões corretas para visualizar as credenciais da plataforma"
+    "interface.noCredentialsPermission": "Você não tem as permissões corretas para visualizar as credenciais da plataforma",
+    "viewOrg.name": "Nome",
+    "organizations.noOrgPlugin": "Nenhum plugin \"find-organization\" está instalado",
+    "errors.uploadError.1": "<strong>Erro:</strong> O arquivo não foi carregado porque a conexão caiu.",
+    "errors.uploadError.2": "Verifique se o tamanho do arquivo é de <strong>{number} MB ou menos</strong> e tente novamente.",
+    "errors.uploadError.3": "Se o problema persistir, entre em contato com o administrador do sistema."
 }

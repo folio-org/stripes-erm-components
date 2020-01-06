@@ -2,6 +2,8 @@
 
 ## 2.3.0 IN PROGRESS
 * Deprecated `<Spinner>` in preparation for removal in 3.0.0. ERM-636
+* Added @folio/react-intl-safe-html to dependencies. ERM-352
+* Changed `FileUploader` to show a message banner at file upload errors. ERM-352
 * Keyboard navigation and focus improvements. ERM-416 593 613 620 622 624 628
 
 ## 2.1.2 2019-12-04
