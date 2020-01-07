@@ -76,7 +76,7 @@
     "contactSelect.typeToSearch": "Begin typing to search for a contact",
     "licenseCard.license": "License",
     "licenseCard.unknownLicense": "Unknown License",
-    "contacts.removeContact": "Remove internal contact",
+    "contacts.removeContact": "Remove internal contact {index}",
     "organizations.removeOrganization": "Remove organization {index}",
     "organizations.organizationIndex": "Organization {index}",
     "loading": "Loading...",
