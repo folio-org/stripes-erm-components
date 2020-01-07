@@ -24,6 +24,7 @@ export { default as withKiwtFieldArray } from './lib/withKiwtFieldArray/withKiwt
 
 // Functions, utilities, and misc.
 export { default as getSASParams } from './lib/getSASParams';
+export { default as renderUserName } from './lib/renderUserName';
 export {
   composeValidators,
   required as requiredValidator,
