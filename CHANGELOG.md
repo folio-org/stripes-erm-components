@@ -5,6 +5,7 @@
 * Added @folio/react-intl-safe-html to dependencies. ERM-352
 * Changed `FileUploader` to show a message banner at file upload errors. ERM-352
 * Keyboard navigation and focus improvements. ERM-416 593 613 620 622 624 628
+* Added `renderUserName` helper function to exports.
 
 ## 2.1.2 2019-12-04
 * Temporarily disabled Jenkins tests for release.

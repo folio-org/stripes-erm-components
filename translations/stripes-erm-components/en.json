@@ -12,8 +12,9 @@
   "contacts.noUserLinked": "No user linked",
   "contacts.noUserPlugin": "No \"find-user\" plugin is installed",
   "contacts.phone": "Phone",
-  "contacts.removeContact": "Remove internal contact",
+  "contacts.removeContact": "Remove internal contact {index}",
   "contacts.replaceUser": "Replace user",
+  "contacts.replaceUserSpecific": "Replace user {user}",
   "contacts.role": "Role",
   "contacts.user": "User",
 
@@ -69,8 +70,9 @@
   "organizations.noOrgPlugin": "No \"find-organization\" plugin is installed",
   "organizations.noOrgError": "Link an organization to continue",
   "organizations.organizationIndex": "Organization {index}",
-  "organizations.removeOrganization": "Remove organization",
+  "organizations.removeOrganization": "Remove organization {index}",
   "organizations.replaceOrganization": "Replace organization",
+  "organizations.replaceOrganizationSpecific": "Replace organization {orgName}",
   "organizations.role": "Role",
 
   "doc.title": "Document {number}",
