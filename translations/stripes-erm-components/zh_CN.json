@@ -57,8 +57,8 @@
     "organization": "组织",
     "fuf.uploading": "请等待文件上传完成",
     "errors.uploadError": "上传时遇到错误",
-    "fuf.maxFileSize": "最大文件大小：10 MB",
-    "fuf.buttonAriaLabel": "选择要上传的文件。文件最大10兆字节",
+    "fuf.maxFileSize": "最大文件大小：200 MB",
+    "fuf.buttonAriaLabel": "选择要上传的文件。文件最大200兆字节",
     "organizations.multipleUniqueRoles": "只有一个组织能有此角色。",
     "term.internalNote": "内部附注",
     "term.publicNote": "公开附注",
@@ -88,9 +88,11 @@
     "organizations.linkOrganizationToStart": "链接组织以开始",
     "organizations.replaceOrganization": "替换组织",
     "interface.noCredentialsPermission": "您没有查看平台凭据的正确权限",
-    "viewOrg.name": "Name",
-    "organizations.noOrgPlugin": "No \"find-organization\" plugin is installed",
-    "errors.uploadError.1": "<strong>Error:</strong> The file was not uploaded because the connection was dropped.",
-    "errors.uploadError.2": "Please check the filesize is <strong>{number}MB or less</strong> and try again.",
-    "errors.uploadError.3": "If the problem persists contact your system administrator."
+    "viewOrg.name": "名称",
+    "organizations.noOrgPlugin": "未安装“查找组织”插件",
+    "errors.uploadError.1": "<strong>错误： </strong> 由于连接断开，文件未上传。",
+    "errors.uploadError.2": "请检查文件当<strong>小于{number} MB</strong>，然后重试。",
+    "errors.uploadError.3": "如果问题仍然存在，请与系统管理员联系。",
+    "contacts.replaceUserSpecific": "Replace user {user}",
+    "organizations.replaceOrganizationSpecific": "Replace organization {orgName}"
 }
