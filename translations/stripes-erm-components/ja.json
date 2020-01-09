@@ -76,8 +76,8 @@
     "contactSelect.typeToSearch": "Begin typing to search for a contact",
     "licenseCard.license": "License",
     "licenseCard.unknownLicense": "Unknown License",
-    "contacts.removeContact": "Remove internal contact",
-    "organizations.removeOrganization": "Remove organization",
+    "contacts.removeContact": "Remove internal contact {index}",
+    "organizations.removeOrganization": "Remove organization {index}",
     "organizations.organizationIndex": "Organization {index}",
     "loading": "読み込み中...",
     "contacts.linkUser": "Link user",
@@ -92,5 +92,7 @@
     "organizations.noOrgPlugin": "No \"find-organization\" plugin is installed",
     "errors.uploadError.1": "<strong>Error:</strong> The file was not uploaded because the connection was dropped.",
     "errors.uploadError.2": "Please check the filesize is <strong>{number}MB or less</strong> and try again.",
-    "errors.uploadError.3": "If the problem persists contact your system administrator."
+    "errors.uploadError.3": "If the problem persists contact your system administrator.",
+    "contacts.replaceUserSpecific": "Replace user {user}",
+    "organizations.replaceOrganizationSpecific": "Replace organization {orgName}"
 }

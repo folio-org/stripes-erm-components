@@ -92,5 +92,7 @@
     "organizations.noOrgPlugin": "Nenhum plugin \"find-organization\" está instalado",
     "errors.uploadError.1": "<strong>Erro:</strong> O arquivo não foi carregado porque a conexão caiu.",
     "errors.uploadError.2": "Verifique se o tamanho do arquivo é de <strong>{number} MB ou menos</strong> e tente novamente.",
-    "errors.uploadError.3": "Se o problema persistir, entre em contato com o administrador do sistema."
+    "errors.uploadError.3": "Se o problema persistir, entre em contato com o administrador do sistema.",
+    "contacts.replaceUserSpecific": "Substituir usuário {user}",
+    "organizations.replaceOrganizationSpecific": "Substituir organização {orgName}"
 }

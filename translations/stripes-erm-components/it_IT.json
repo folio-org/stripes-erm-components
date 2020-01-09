@@ -57,8 +57,8 @@
     "organization": "Organizzazione",
     "fuf.uploading": "Per favore attendi che il file sia caricato",
     "errors.uploadError": "Si è verificato un errore durante il caricamento",
-    "fuf.maxFileSize": "Dimensione massima del file: 10 MB",
-    "fuf.buttonAriaLabel": "Scegli un file da caricare. La dimensione massima consentita per un file è 10 MB",
+    "fuf.maxFileSize": "Dimensione massima del file: 200 MB",
+    "fuf.buttonAriaLabel": "Scegli un file da caricare. La dimensione massima consentita per un file è 200 MB",
     "organizations.multipleUniqueRoles": "Only one organization may have this role.",
     "term.internalNote": "Nota interna",
     "term.publicNote": "Nota pubblica",
@@ -92,5 +92,7 @@
     "organizations.noOrgPlugin": "Nessun plug-in \"troova-organizzazione\" installato",
     "errors.uploadError.1": "<strong>Errore:</strong> Il file non è stato caricato perchè la connessione è stata interrotta.",
     "errors.uploadError.2": "Verifica che la dimensione del file sia <strong>{number}MB o meno</strong> e riprova.",
-    "errors.uploadError.3": "Se il problema persiste, contattare l'amministratore di sistema."
+    "errors.uploadError.3": "Se il problema persiste, contattare l'amministratore di sistema.",
+    "contacts.replaceUserSpecific": "Sostituisci utente {user}",
+    "organizations.replaceOrganizationSpecific": "Sostituisci organizzazione {orgName}"
 }
