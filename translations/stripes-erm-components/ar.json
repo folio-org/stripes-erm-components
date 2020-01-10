@@ -93,6 +93,6 @@
     "errors.uploadError.1": "<strong>خطأ:</strong> لم يتم تحميل الملف بسبب انقطاع الاتصال",
     "errors.uploadError.2": "يرجى التحقق من أن حجم الملف <strong>{number} ميجابايت أو أقل</strong> وأعد المحاولة مرة أخرى.",
     "errors.uploadError.3": "إذا استمرت المشكلة، اتصل بمسؤول النظام.",
-    "contacts.replaceUserSpecific": "Replace user {user}",
-    "organizations.replaceOrganizationSpecific": "Replace organization {orgName}"
+    "contacts.replaceUserSpecific": "استبدال المستخدم {user}",
+    "organizations.replaceOrganizationSpecific": "استبدال مؤسسة {orgName}"
 }
