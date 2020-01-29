@@ -56,7 +56,7 @@
   "licenseCard.type": "Type",
   "licenseCard.unknownLicense": "Unknown License",
 
-  "licenseTermsList.notSet": "Not set",
+  "customPropertiesList.notSet": "Not set",
 
   "organizations.addOrganization": "Add organization",
   "organizations.clickSearchButton": "Click the 'Search' button to select an organization",
