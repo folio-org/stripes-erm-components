@@ -29,4 +29,5 @@ export { default as renderUserName } from './lib/renderUserName';
 export {
   composeValidators,
   required as requiredValidator,
+  requiredObject as requiredObjectValidator,
 } from './lib/validators';
