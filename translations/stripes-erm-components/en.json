@@ -25,6 +25,9 @@
   "createOrg.createNew": "Create new organization",
   "createOrg.name": "Name",
 
+  "errors.termNoteWithoutValue": "A value must be set for this term in order to save a note",
+  "errors.termValueNotInRange" : "Please enter a whole number in the range {min} to {max} to continue",
+
   "viewOrg.name": "Name",
 
   "fuf.buttonAriaLabel": "Choose file to upload. Maximum file size is 200 megabytes",
@@ -35,6 +38,8 @@
   "fuf.title": "Drag & drop to upload",
   "fuf.uploaded": "Uploaded",
   "fuf.uploading": "Please wait for the file to be uploaded",
+
+  "formTerms.notSet": "Not set",
 
   "interface.name": "Interface name",
   "interface.username": "Username",
@@ -75,6 +80,10 @@
   "organizations.replaceOrganizationSpecific": "Replace organization {orgName}",
   "organizations.role": "Role",
 
+  "prop.termName": "Name",
+  "prop.termValue": "Value",
+  "prop.termVisibility": "Visibility",
+
   "doc.title": "Document {number}",
   "doc.addDoc": "Add  document",
   "doc.category": "Category",
@@ -99,12 +108,15 @@
 
   "placeholder.documentCategory": "Enter a category",
 
-  "term.value": "Value",
-  "term.internalNote": "Internal note",
-  "term.publicNote": "Public note",
-  "term.visibility": "Visibility",
-  "term.internalTrue": "Internal",
   "term.internalFalse": "Public",
+  "term.internalNote": "Internal note",
+  "term.internalTrue": "Internal",
+  "term.publicNote": "Public note",
+  "term.title": "Term {number}",
+  "term.value": "Value",
+  "term.visibility": "Visibility",
+
+  "terms.add": "Add term",
 
   "organization": "Organization",
   "tags": "Tags",

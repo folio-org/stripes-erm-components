@@ -19,7 +19,6 @@ export { default as LoadingPane } from './lib/LoadingPane';
 export { default as OrganizationSelection } from './lib/OrganizationSelection';
 export { default as Spinner } from './lib/Spinner';
 export { default as Tags } from './lib/Tags';
-export { default as TermsListField } from './lib/TermsListField';
 
 // HOCs
 export { default as withKiwtFieldArray } from './lib/withKiwtFieldArray/withKiwtFieldArray';
