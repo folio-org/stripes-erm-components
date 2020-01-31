@@ -23,6 +23,7 @@ export { default as Tags } from './lib/Tags';
 export { default as withKiwtFieldArray } from './lib/withKiwtFieldArray/withKiwtFieldArray';
 
 // Functions, utilities, and misc.
+export { default as generateQueryParams } from './lib/generateQueryParams';
 export { default as getSASParams } from './lib/getSASParams';
 export { default as renderUserName } from './lib/renderUserName';
 export {
