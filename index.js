@@ -7,7 +7,7 @@ export { default as DocumentsFieldArray } from './lib/DocumentsFieldArray';
 export { default as EditCard } from './lib/EditCard';
 export { default as FileUploader } from './lib/FileUploader';
 export { default as FileUploaderField } from './lib/FileUploaderField';
-export { default as FormTerms } from './lib/FormTerms';
+export { default as FormCustomProperties } from './lib/FormCustomProperties';
 export { default as InternalContactCard } from './lib/InternalContactCard';
 export { default as InternalContactSelection } from './lib/InternalContactSelection';
 export { default as InternalContactsFieldArray } from './lib/InternalContactsFieldArray';
@@ -19,7 +19,7 @@ export { default as LoadingPane } from './lib/LoadingPane';
 export { default as OrganizationSelection } from './lib/OrganizationSelection';
 export { default as Spinner } from './lib/Spinner';
 export { default as Tags } from './lib/Tags';
-export { default as TermsConfigForm } from './lib/TermsConfig';
+export { default as CustomPropertiesConfigForm } from './lib/CustomPropertiesConfig';
 
 // HOCs
 export { default as withKiwtFieldArray } from './lib/withKiwtFieldArray/withKiwtFieldArray';
