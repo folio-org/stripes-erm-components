@@ -59,7 +59,7 @@
     "errors.uploadError": "Si è verificato un errore durante il caricamento",
     "fuf.maxFileSize": "Dimensione massima del file: 200 MB",
     "fuf.buttonAriaLabel": "Scegli un file da caricare. La dimensione massima consentita per un file è 200 MB",
-    "organizations.multipleUniqueRoles": "Only one organization may have this role.",
+    "organizations.multipleUniqueRoles": "Solo un'organizzazione può avere questo ruolo.",
     "term.internalNote": "Nota interna",
     "term.publicNote": "Nota pubblica",
     "term.visibility": "Visibilità",
