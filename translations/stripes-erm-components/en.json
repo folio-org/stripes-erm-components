@@ -25,6 +25,44 @@
   "createOrg.createNew": "Create new organization",
   "createOrg.name": "Name",
 
+  "customProperty.internalFalse": "Public",
+  "customProperty.internalNote": "Internal note",
+  "customProperty.internalTrue": "Internal",
+  "customProperty.publicNote": "Public note",
+  "customProperty.remove": "Remove {type, select, term {Term} supplementaryProperty {supplementary property}}",
+  "customProperty.supplementaryPropertyTitle": "Property {number}",
+  "customProperty.termTitle": "Term {number}",
+  "customProperty.value": "Value",
+  "customProperty.visibility": "Visibility",
+
+  "customProperties.defaultVisibility": "Default visibility",
+  "customProperties.description": "Description",
+  "customProperties.label": "Label",
+  "customProperties.name": "Name",
+  "customProperties.orderWeight": "Order weight",
+  "customProperties.pickList": "Pick list",
+  "customProperties.supplementaryProperty.add": "Add property",
+  "customProperties.supplementaryProperty.edit": "Edit supplementary property",
+  "customProperties.supplementaryProperty.new": "New supplementary property",
+  "customProperties.supplementaryProperty.primary": "Primary property",
+  "customProperties.supplementaryProperty": "Supplementary property",
+  "customProperties.term": "Term",
+  "customProperties.type": "Type",
+  "customProperties.term.add": "Add term",
+  "customProperties.term.edit": "Edit license term",
+  "customProperties.term.new": "New license term",
+  "customProperties.term.primary": "Primary term",
+  "customProperties.type.decimal": "Decimal",
+  "customProperties.type.integer": "Integer",
+  "customProperties.type.pickList": "Pick list",
+  "customProperties.type.refdata": "Pick list",
+  "customProperties.type.text": "Text",
+
+  "customPropertiesList.notSet": "Not set",
+
+  "errors.customPropertyNoteWithoutValue": "A value must be set in order to save a note",
+  "errors.customPropertyValueNotInRange" : "Please enter a whole number in the range {min} to {max} to continue",
+
   "viewOrg.name": "Name",
 
   "fuf.buttonAriaLabel": "Choose file to upload. Maximum file size is 200 megabytes",
@@ -35,6 +73,8 @@
   "fuf.title": "Drag & drop to upload",
   "fuf.uploaded": "Uploaded",
   "fuf.uploading": "Please wait for the file to be uploaded",
+
+  "formCustomProperties.notSet": "Not set",
 
   "interface.name": "Interface name",
   "interface.username": "Username",
@@ -56,8 +96,6 @@
   "licenseCard.type": "Type",
   "licenseCard.unknownLicense": "Unknown License",
 
-  "licenseTermsList.notSet": "Not set",
-
   "organizations.addOrganization": "Add organization",
   "organizations.clickSearchButton": "Click the 'Search' button to select an organization",
   "organizations.linkOrganization": "Link organization",
@@ -74,6 +112,10 @@
   "organizations.replaceOrganization": "Replace organization",
   "organizations.replaceOrganizationSpecific": "Replace organization {orgName}",
   "organizations.role": "Role",
+
+  "prop.customPropertyName": "Name",
+  "prop.customPropertyValue": "Value",
+  "prop.customPropertyVisibility": "Visibility",
 
   "doc.title": "Document {number}",
   "doc.addDoc": "Add  document",
@@ -93,21 +135,24 @@
   "errors.uploadError.1": "<strong>Error:</strong> The file was not uploaded because the connection was dropped.",
   "errors.uploadError.2": "Please check the filesize is <strong>{number}MB or less</strong> and try again.",
   "errors.uploadError.3": "If the problem persists contact your system administrator.",
+  "errors.hasNonAlphaName": "The name can only contain Latin alphabetical characters (a-z) and non-leading numeric characters.",
 
   "orgSelect.selectOrg": "Select an organization",
   "orgSelect.typeToSearch": "Begin typing to search for an organization",
 
   "placeholder.documentCategory": "Enter a category",
 
-  "term.value": "Value",
-  "term.internalNote": "Internal note",
-  "term.publicNote": "Public note",
-  "term.visibility": "Visibility",
-  "term.internalTrue": "Internal",
-  "term.internalFalse": "Public",
+  "supplementaryProperty.help.label": "An agreement term 'label' is used when displaying the supplementary property to users within Folio and in any other systems that display agreement's supplementary properties to users. It should be a short text string that clearly communicates what information is recorded in the supplementary property. The Description should be used where further explanation of the supplementary property is required for display to users.",
+  "supplementaryProperty.help.name": "An agreement term 'name' is used when outputting the supplementary property data in a machine readable format. It is not intended to be displayed to users (staff or patrons). It should be a short Latin alphabet string that can be used by any external systems or programs that access the agreement supplementary property data. Use of camelCase is suggested but not required. Changes to the agreement supplementary property name would affect any external systems using agreement supplementary property data and changes should not be made without consulting those responsible for relevant external systems and software.",
+
+  "term.help.label": "A license term 'label' is used when displaying the term to users within Folio and in any other systems that display license terms to users. It should be a short text string that clearly communicates what information is recorded in the term. The Description should be used where further explanation of the term is required for display to users.",
+  "term.help.name": "A license term 'name' is used when outputting the term data in a machine readable format. It is not intended to be displayed to users (staff or patrons). It should be a short Latin alphabet string that can be used by any external systems or programs that access the license term data. Use of camelCase is suggested but not required. Changes to the license term name would affect any external systems using license term data and changes should not be made without consulting those responsible for relevant external systems and software.",
 
   "organization": "Organization",
   "tags": "Tags",
   "numberOfTags": "{count, number} {count, plural, one {Tag} other {Tags}}",
-  "newTagCreated": "New tag created"
+  "newTagCreated": "New tag created",
+
+  "no": "No",
+  "yes": "Yes"
 }
