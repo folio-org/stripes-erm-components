@@ -1,6 +1,8 @@
 # Change history for stripes-erm-components
 
 ## 2.3.0 IN PROGRESS
+* Added `CustomPropertiesConfigListFieldArray` and `FormCustomProperties` components. ERM-683
+* Changed `LicenseTermsList` component to `CustomPropertiesList`. ERM-683
 * Deprecated `<Spinner>` in preparation for removal in 3.0.0. ERM-636
 * Added @folio/react-intl-safe-html to dependencies. ERM-352
 * Changed `FileUploader` to show a message banner at file upload errors. ERM-352
