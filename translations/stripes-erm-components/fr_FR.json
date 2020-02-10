@@ -121,7 +121,7 @@
     "customProperties.type.text": "Texte",
     "customPropertiesList.notSet": "Non encore défini",
     "errors.customPropertyNoteWithoutValue": "Une valeur doit être définie pour enregistrer une note",
-    "errors.customPropertyValueNotInRange": "Please enter a whole number in the range {min} to {max} to continue",
+    "errors.customPropertyValueNotInRange": "Veuillez saisir un nombre entier compris entre {min} et {max} pour continuer",
     "formCustomProperties.notSet": "Non encore défini",
     "prop.customPropertyName": "Nom",
     "prop.customPropertyValue": "Valeur",
