@@ -2,7 +2,8 @@
   "parser": "babel-eslint",
   "extends": "@folio/eslint-config-stripes",
   "rules":{
-    "react/jsx-curly-newline": "off"
+    "react/jsx-curly-newline": "off",
+    "react/state-in-constructor": "off"
   },
   "overrides": [
     {
