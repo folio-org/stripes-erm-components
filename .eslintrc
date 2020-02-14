@@ -1,6 +1,9 @@
 {
   "parser": "babel-eslint",
   "extends": "@folio/eslint-config-stripes",
+  "rules":{
+    "react/jsx-curly-newline": "off"
+  },
   "overrides": [
     {
       "files": ["lib/**/tests/*", "tests/**"],
@@ -8,6 +11,7 @@
         "import/no-extraneous-dependencies": "off",
         "import/prefer-default-export": "off",
         "func-names": "off",
+        "max-classes-per-file": "off",
         "no-unused-expressions": "off"
       }
     }
