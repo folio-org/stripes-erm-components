@@ -99,7 +99,7 @@
     "customProperty.visibility": "Visibilité",
     "customProperties.defaultVisibility": "Visibilité par défaut",
     "customProperties.description": "Description",
-    "customProperties.label": "Étiquette",
+    "customProperties.label": "Intitulé",
     "customProperties.name": "Nom",
     "customProperties.orderWeight": "Poids de la commande",
     "customProperties.pickList": "Liste de sélection",
@@ -132,5 +132,7 @@
     "term.help.label": "A license term 'label' is used when displaying the term to users within Folio and in any other systems that display license terms to users. It should be a short text string that clearly communicates what information is recorded in the term. The Description should be used where further explanation of the term is required for display to users.",
     "term.help.name": "A license term 'name' is used when outputting the term data in a machine readable format. It is not intended to be displayed to users (staff or patrons). It should be a short Latin alphabet string that can be used by any external systems or programs that access the license term data. Use of camelCase is suggested but not required. Changes to the license term name would affect any external systems using license term data and changes should not be made without consulting those responsible for relevant external systems and software.",
     "no": "Non",
-    "yes": "Oui"
+    "yes": "Oui",
+    "errors.customPropertyDecimalValueNotInRange": "Veuillez saisir un nombre compris entre {min} et {max} pour continuer",
+    "errors.customPropertyMaxTwoDecimals": "Veuillez saisir un nombre avec un maximum de 2 décimales"
 }

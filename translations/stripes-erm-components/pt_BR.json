@@ -132,5 +132,7 @@
     "term.help.label": "Um termo de licença 'rotulo' é usado ao exibir o termo para usuários dentro do Folio e em quaisquer outros sistemas que exibam termos de licença para os usuários. Deve ser uma seqüência de texto curta que comunica claramente quais informações são registradas no termo. A Descrição deve ser usada onde uma explicação adicional do termo é necessária para exibição aos usuários.",
     "term.help.name": "Um termo de licença 'nome' é usado ao gerar o termo dados em um formato legível por máquina. Não se destina a ser exibido para usuários (funcionários ou usuários). Deve ser uma pequena cadeia de caracteres do alfabeto latino que pode ser usada por qualquer sistema ou programa externo que acesse os dados de termos da licença. O uso de camelCase é sugerido, mas não é obrigatório. Alterações no nome do termo de licença afetariam quaisquer sistemas externos que utilizassem dados de termo de licença e as alterações não deveriam ser feitas sem consultar os responsáveis por sistemas externos e softwares relevantes.",
     "no": "Não",
-    "yes": "Sim"
+    "yes": "Sim",
+    "errors.customPropertyDecimalValueNotInRange": "Digite um número no intervalo de {min} a {max} para continuar",
+    "errors.customPropertyMaxTwoDecimals": "Digite um número com no máximo 2 casas decimais"
 }
