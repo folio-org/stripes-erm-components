@@ -69,7 +69,7 @@
     "contactSelect.typeToSearch": "ابدأ الكتابة للبحث عن جهة اتصال",
     "licenseCard.license": "الرخصة",
     "licenseCard.unknownLicense": "رخصة غير معروفة",
-    "contacts.removeContact": "إزالة جهة اتصال داخلية",
+    "contacts.removeContact": "إزالة جهة الاتصال الداخلية {index}",
     "organizations.removeOrganization": "إزالة مؤسسة",
     "organizations.organizationIndex": "المؤسسة {index}",
     "loading": "جاري التحميل...",
