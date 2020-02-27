@@ -25,7 +25,8 @@
   "createOrg.createNew": "Create new organization",
   "createOrg.name": "Name",
 
-  "customProperty": "Custom Property",
+  "customProperty": "Custom property",
+  "customProperty.lowercase": "custom property",
 
   "customProperty.internalFalse": "Public",
   "customProperty.internalNote": "Internal note",
@@ -48,7 +49,9 @@
   "customProperties.supplementaryProperty.new": "New supplementary property",
   "customProperties.supplementaryProperty.primary": "Primary property",
   "customProperties.supplementaryProperty": "Supplementary property",
+  "customProperties.supplementaryProperty.lowercase": "supplementary property",
   "customProperties.term": "Term",
+  "customProperties.term.lowercase": "term",
   "customProperties.type": "Type",
   "customProperties.term.add": "Add term",
   "customProperties.term.edit": "Edit license term",
@@ -62,8 +65,8 @@
 
   "customPropertiesList.notSet": "Not set",
 
-  "customProperties.delete.confirmLabel": "Confirm Label 1",
-  "customProperties.delete.confirmHeading": "Confirm Label 2",
+  "customProperties.delete.confirmLabel": "Delete",
+  "customProperties.delete.confirmHeading": "Delete {custprop}",
   "customProperties.delete.confirmMessage": "{custProp} <strong>{name}</strong> will be <strong>deleted</strong>.",
 
 
