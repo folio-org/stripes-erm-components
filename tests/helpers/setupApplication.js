@@ -5,6 +5,7 @@ import translations from '../../translations/stripes-erm-components/en';
 
 function prefixKeys(obj) {
   const res = {};
+  // eslint-disable-next-line no-unused-vars
   for (const key of Object.keys(obj)) {
     res[`stripes-erm-components.${key}`] = obj[key];
   }
