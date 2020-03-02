@@ -134,5 +134,12 @@
     "no": "No",
     "yes": "Yes",
     "errors.customPropertyDecimalValueNotInRange": "Please enter a number in the range {min} to {max} to continue",
-    "errors.customPropertyMaxTwoDecimals": "Please enter a number with a maximum of 2 decimals places"
+    "errors.customPropertyMaxTwoDecimals": "Please enter a number with a maximum of 2 decimals places",
+    "customProperty": "Custom property",
+    "customProperty.lowercase": "custom property",
+    "customProperties.supplementaryProperty.lowercase": "supplementary property",
+    "customProperties.term.lowercase": "term",
+    "customProperties.delete.confirmLabel": "Delete",
+    "customProperties.delete.confirmHeading": "Delete {custProp}",
+    "customProperties.delete.confirmMessage": "{custProp} <strong>{name}</strong> will be <strong>deleted</strong>."
 }
