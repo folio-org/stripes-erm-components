@@ -134,5 +134,12 @@
     "no": "Não",
     "yes": "Sim",
     "errors.customPropertyDecimalValueNotInRange": "Digite um número no intervalo de {min} a {max} para continuar",
-    "errors.customPropertyMaxTwoDecimals": "Digite um número com no máximo 2 casas decimais"
+    "errors.customPropertyMaxTwoDecimals": "Digite um número com no máximo 2 casas decimais",
+    "customProperty": "Propriedade personalizada",
+    "customProperty.lowercase": "propriedade personalizada",
+    "customProperties.supplementaryProperty.lowercase": "propriedade suplementar",
+    "customProperties.term.lowercase": "termo",
+    "customProperties.delete.confirmLabel": "Excluir",
+    "customProperties.delete.confirmHeading": "Excluir {custProp}",
+    "customProperties.delete.confirmMessage": "{custProp} <strong>{name}</strong> será <strong>excluído</strong>."
 }
