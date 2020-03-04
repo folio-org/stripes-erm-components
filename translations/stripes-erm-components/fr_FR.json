@@ -84,7 +84,7 @@
     "viewOrg.name": "Nom",
     "organizations.noOrgPlugin": "No \"find-organization\" plugin is installed",
     "errors.uploadError.1": "<strong> Erreur: </strong> le fichier n'a pas été téléchargé car la connexion a été interrompue.",
-    "errors.uploadError.2": "Please check the filesize is <strong>{number}MB or less</strong> and try again.",
+    "errors.uploadError.2": "Veuillez vérifier que la taille du fichier soit inférieure ou égale à <strong> {number} Mo </strong> et réessayer.",
     "errors.uploadError.3": "Si le problème persiste, contactez votre administrateur système.",
     "contacts.replaceUserSpecific": "Remplacer l'adhérent/l'utilisateur {user}",
     "organizations.replaceOrganizationSpecific": "Remplacer l'organisation {orgName}",
@@ -126,7 +126,7 @@
     "prop.customPropertyName": "Nom",
     "prop.customPropertyValue": "Valeur",
     "prop.customPropertyVisibility": "Visibilité",
-    "errors.hasNonAlphaName": "Le nom ne peut contenir que des caractères alphabétiques latins (az) et des caractères numériques non principaux.",
+    "errors.hasNonAlphaName": "Le nom ne peut contenir que des caractères alphabétiques latins (a-z) et des caractères numériques non principaux.",
     "supplementaryProperty.help.label": "An agreement term 'label' is used when displaying the supplementary property to users within Folio and in any other systems that display agreement's supplementary properties to users. It should be a short text string that clearly communicates what information is recorded in the supplementary property. The Description should be used where further explanation of the supplementary property is required for display to users.",
     "supplementaryProperty.help.name": "An agreement term 'name' is used when outputting the supplementary property data in a machine readable format. It is not intended to be displayed to users (staff or patrons). It should be a short Latin alphabet string that can be used by any external systems or programs that access the agreement supplementary property data. Use of camelCase is suggested but not required. Changes to the agreement supplementary property name would affect any external systems using agreement supplementary property data and changes should not be made without consulting those responsible for relevant external systems and software.",
     "term.help.label": "A license term 'label' is used when displaying the term to users within Folio and in any other systems that display license terms to users. It should be a short text string that clearly communicates what information is recorded in the term. The Description should be used where further explanation of the term is required for display to users.",
@@ -134,5 +134,12 @@
     "no": "Non",
     "yes": "Oui",
     "errors.customPropertyDecimalValueNotInRange": "Veuillez saisir un nombre compris entre {min} et {max} pour continuer",
-    "errors.customPropertyMaxTwoDecimals": "Veuillez saisir un nombre avec un maximum de 2 décimales"
+    "errors.customPropertyMaxTwoDecimals": "Veuillez saisir un nombre avec un maximum de 2 décimales",
+    "customProperty": "Propriété personnalisée",
+    "customProperty.lowercase": "propriété personnalisée",
+    "customProperties.supplementaryProperty.lowercase": "propriété supplémentaire",
+    "customProperties.term.lowercase": "terme",
+    "customProperties.delete.confirmLabel": "Supprimer",
+    "customProperties.delete.confirmHeading": "Supprimer {custProp}",
+    "customProperties.delete.confirmMessage": "{custProp} <strong>{name}</strong> sera <strong>supprimé(e)</strong>."
 }

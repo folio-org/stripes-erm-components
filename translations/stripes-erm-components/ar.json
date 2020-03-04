@@ -134,5 +134,12 @@
     "no": "لا",
     "yes": "نعم",
     "errors.customPropertyDecimalValueNotInRange": "يرجى إدخال رقم في النطاق من {min} إلى {max} للمتابعة",
-    "errors.customPropertyMaxTwoDecimals": "يرجى إدخال عدد برقمين عشريين فقط كحد أقصى"
+    "errors.customPropertyMaxTwoDecimals": "يرجى إدخال عدد برقمين عشريين فقط كحد أقصى",
+    "customProperty": "خاصية مخصصة",
+    "customProperty.lowercase": "خاصية مخصصة",
+    "customProperties.supplementaryProperty.lowercase": "خاصية تكميلية",
+    "customProperties.term.lowercase": "مصطلح",
+    "customProperties.delete.confirmLabel": "حذف",
+    "customProperties.delete.confirmHeading": "حذف {custProp}",
+    "customProperties.delete.confirmMessage": "سيتم <strong>حذف</strong> {custProp} <strong>{name}</strong>"
 }
