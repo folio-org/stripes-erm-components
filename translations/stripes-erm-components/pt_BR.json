@@ -72,7 +72,7 @@
     "contacts.removeContact": "Remover contato interno {index}",
     "organizations.removeOrganization": "Remover organização {index}",
     "organizations.organizationIndex": "Organização {index}",
-    "loading": "Carregando...",
+    "loading": "Carregando…",
     "contacts.linkUser": "Vincular usuário",
     "contacts.linkUserToStart": "Vincule um usuário para começar",
     "contacts.noUserLinked": "Nenhum usuário vinculado",
