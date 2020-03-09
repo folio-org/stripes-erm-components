@@ -18,8 +18,8 @@ export default class TestForm extends React.Component {
   render() {
     return (
       <Form
-        onSubmit={() => {}}
         mutators={arrayMutators}
+        onSubmit={() => {}}
       >
         {props => (
           <form onSubmit={props.onSubmit}>

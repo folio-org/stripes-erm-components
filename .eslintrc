@@ -3,6 +3,7 @@
   "extends": "@folio/eslint-config-stripes",
   "rules":{
     "react/jsx-curly-newline": "off",
+    "react/jsx-sort-props": "error",
     "react/state-in-constructor": "off"
   },
   "overrides": [
