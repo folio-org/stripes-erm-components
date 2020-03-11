@@ -1,6 +1,6 @@
 # Change history for stripes-erm-components
 
-## 2.3.0 IN PROGRESS
+## 2.3.0 2019-03-11
 * Added `CustomPropertiesConfigListFieldArray` and `FormCustomProperties` components. ERM-683
 * Changed `LicenseTermsList` component to `CustomPropertiesList`. ERM-683
 * Deprecated `<Spinner>` in preparation for removal in 3.0.0. ERM-636
@@ -8,6 +8,10 @@
 * Changed `FileUploader` to show a message banner at file upload errors. ERM-352
 * Keyboard navigation and focus improvements. ERM-416 593 613 620 622 624 628
 * Added `renderUserName` helper function to exports.
+* Upgraded to Stripes 3.0
+* Added confirmation prompt when deleting custom properties. ERM-730
+* i18n fixes for numbers. ERM-719 747
+* Added `generateQueryParam` function to supersede `getSASParams`. ERM-684
 
 ## 2.1.2 2019-12-04
 * Temporarily disabled Jenkins tests for release.
