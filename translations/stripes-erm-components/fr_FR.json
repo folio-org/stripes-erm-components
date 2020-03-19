@@ -141,5 +141,7 @@
     "customProperties.term.lowercase": "terme",
     "customProperties.delete.confirmLabel": "Supprimer",
     "customProperties.delete.confirmHeading": "Supprimer {custProp}",
-    "customProperties.delete.confirmMessage": "{custProp} <strong>{name}</strong> sera <strong>supprimé(e)</strong>."
+    "customProperties.delete.confirmMessage": "{custProp} <strong>{name}</strong> sera <strong>supprimé(e)</strong>.",
+    "errors.customPropertyNoteInvalidNumber": "Un numéro valide doit être entré pour enregistrer une note",
+    "errors.customPropertyInvalidNumber": "Veuillez entrer un nombre valide pour continuer"
 }

@@ -141,5 +141,7 @@
     "customProperties.term.lowercase": "termo",
     "customProperties.delete.confirmLabel": "Excluir",
     "customProperties.delete.confirmHeading": "Excluir {custProp}",
-    "customProperties.delete.confirmMessage": "{custProp} <strong>{name}</strong> será <strong>excluído</strong>."
+    "customProperties.delete.confirmMessage": "{custProp} <strong>{name}</strong> será <strong>excluído</strong>.",
+    "errors.customPropertyNoteInvalidNumber": "Um número válido deve ser inserido para salvar uma nota",
+    "errors.customPropertyInvalidNumber": "Digite um número válido para continuar"
 }
