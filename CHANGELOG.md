@@ -1,6 +1,9 @@
 # Change history for stripes-erm-components
 
-## 2.3.0 2019-03-11
+## 2.4.0 IN PROGRESS
+* Added `invalidNumberValidator`.
+
+## 2.3.0 2020-03-11
 * Added `CustomPropertiesConfigListFieldArray` and `FormCustomProperties` components. ERM-683
 * Changed `LicenseTermsList` component to `CustomPropertiesList`. ERM-683
 * Deprecated `<Spinner>` in preparation for removal in 3.0.0. ERM-636

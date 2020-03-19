@@ -31,6 +31,7 @@ export { default as getSASParams } from './lib/getSASParams';
 export { default as renderUserName } from './lib/renderUserName';
 export {
   composeValidators,
+  invalidNumber as invalidNumberValidator,
   required as requiredValidator,
   requiredObject as requiredObjectValidator,
 } from './lib/validators';
