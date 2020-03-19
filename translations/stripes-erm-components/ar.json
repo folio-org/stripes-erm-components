@@ -141,5 +141,7 @@
     "customProperties.term.lowercase": "مصطلح",
     "customProperties.delete.confirmLabel": "حذف",
     "customProperties.delete.confirmHeading": "حذف {custProp}",
-    "customProperties.delete.confirmMessage": "سيتم <strong>حذف</strong> {custProp} <strong>{name}</strong>"
+    "customProperties.delete.confirmMessage": "سيتم <strong>حذف</strong> {custProp} <strong>{name}</strong>",
+    "errors.customPropertyNoteInvalidNumber": "يجب إدخال رقم صالح لحفظ الملاحظة",
+    "errors.customPropertyInvalidNumber": "يرجى إدخال رقم صالح للمتابعة"
 }
