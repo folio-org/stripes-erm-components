@@ -1,7 +1,11 @@
 # Change history for stripes-erm-components
 
 ## 2.4.0 IN PROGRESS
+* Disallow whitespace-only strings in `requiredValidator`. ERM-553
+
+## 2.3.1 2020-03-27
 * Added `invalidNumberValidator`.
+* Fixed validation of numbers formatted with European comma and period separators. ERM-768
 
 ## 2.3.0 2020-03-11
 * Added `CustomPropertiesConfigListFieldArray` and `FormCustomProperties` components. ERM-683
