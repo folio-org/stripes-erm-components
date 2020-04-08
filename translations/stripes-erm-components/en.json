@@ -71,11 +71,6 @@
   "customProperties.delete.confirmHeading": "Delete {custProp}",
   "customProperties.delete.confirmMessage": "{custProp} <strong>{name}</strong> will be <strong>deleted</strong>.",
 
-  "duplicateModal.duplicate": "Duplicate {type}",
-  "duplicateModal.message": "Please select which sections of the {type} to duplicate",
-  "duplicateModal.error": "Error: the {type} was not duplicated",
-  "duplicateModal.errors.cloneEndpointError": "Unable to duplicate the {type}. The clone endpoint could not be accessed.",
-  "duplicateModal.errors.invalidResponseError": "Unable to duplicate the {type}. The response received from the server was invalid.",
   "duplicateModal.errors.systemAdministrator": "If the problem persists contact your system administrator.",
   "duplicateModal.errors.tryAgain": "Please try again.",
 
