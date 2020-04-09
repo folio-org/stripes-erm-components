@@ -1,6 +1,9 @@
 {
   "loading": "Loading...",
 
+  "alternateNames": "Alternative names",
+  "alternateNames.addAlternateName": "Add alternative name",
+
   "contacts.addContact": "Add internal contact",
   "contacts.contactIndex": "Internal contact {index}",
   "contacts.email": "Email address",
