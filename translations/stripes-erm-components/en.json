@@ -1,5 +1,7 @@
 {
+  "close": "Close",
   "loading": "Loading...",
+  "selectAll": "Select all / deselect all",
 
   "contacts.addContact": "Add internal contact",
   "contacts.contactIndex": "Internal contact {index}",
@@ -69,11 +71,14 @@
   "customProperties.delete.confirmHeading": "Delete {custProp}",
   "customProperties.delete.confirmMessage": "{custProp} <strong>{name}</strong> will be <strong>deleted</strong>.",
 
+  "duplicateModal.errors.systemAdministrator": "If the problem persists contact your system administrator.",
+  "duplicateModal.errors.tryAgain": "Please try again.",
+
   "errors.customPropertyNoteInvalidNumber": "A valid number must be entered in order to save a note",
   "errors.customPropertyInvalidNumber": "Please enter a valid number to continue",
   "errors.customPropertyNoteWithoutValue": "A value must be set in order to save a note",
-  "errors.customPropertyValueNotInRange" : "Please enter a whole number in the range {min} to {max} to continue",
-  "errors.customPropertyDecimalValueNotInRange" : "Please enter a number in the range {min} to {max} to continue",
+  "errors.customPropertyValueNotInRange": "Please enter a whole number in the range {min} to {max} to continue",
+  "errors.customPropertyDecimalValueNotInRange": "Please enter a number in the range {min} to {max} to continue",
   "errors.customPropertyMaxTwoDecimals": "Please enter a number with a maximum of 2 decimals places",
 
   "viewOrg.name": "Name",
