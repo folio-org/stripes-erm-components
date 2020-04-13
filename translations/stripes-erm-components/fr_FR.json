@@ -143,5 +143,9 @@
     "customProperties.delete.confirmHeading": "Supprimer {custProp}",
     "customProperties.delete.confirmMessage": "{custProp} <strong>{name}</strong> sera <strong>supprimé(e)</strong>.",
     "errors.customPropertyNoteInvalidNumber": "Un numéro valide doit être entré pour enregistrer une note",
-    "errors.customPropertyInvalidNumber": "Veuillez entrer un nombre valide pour continuer"
+    "errors.customPropertyInvalidNumber": "Veuillez entrer un nombre valide pour continuer",
+    "close": "Close",
+    "selectAll": "Select all / deselect all",
+    "duplicateModal.errors.systemAdministrator": "If the problem persists contact your system administrator.",
+    "duplicateModal.errors.tryAgain": "Please try again."
 }

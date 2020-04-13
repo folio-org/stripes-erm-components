@@ -143,5 +143,9 @@
     "customProperties.delete.confirmHeading": "Excluir {custProp}",
     "customProperties.delete.confirmMessage": "{custProp} <strong>{name}</strong> será <strong>excluído</strong>.",
     "errors.customPropertyNoteInvalidNumber": "Um número válido deve ser inserido para salvar uma nota",
-    "errors.customPropertyInvalidNumber": "Digite um número válido para continuar"
+    "errors.customPropertyInvalidNumber": "Digite um número válido para continuar",
+    "close": "Fechar",
+    "selectAll": "Selecionar tudo / desmarcar tudo",
+    "duplicateModal.errors.systemAdministrator": "Se o problema persistir, entre em contato com o administrador do sistema.",
+    "duplicateModal.errors.tryAgain": "Por favor, tente novamente."
 }
