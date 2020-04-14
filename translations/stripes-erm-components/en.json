@@ -1,8 +1,8 @@
 {
   "loading": "Loading...",
 
-  "alternateNames": "Alternative names",
-  "alternateNames.addAlternateName": "Add alternative name",
+  "alternativeNames": "Alternative names",
+  "alternativeNames.addAlternateName": "Add alternative name",
 
   "contacts.addContact": "Add internal contact",
   "contacts.contactIndex": "Internal contact {index}",
