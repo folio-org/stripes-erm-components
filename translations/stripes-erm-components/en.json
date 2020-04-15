@@ -2,7 +2,7 @@
   "loading": "Loading...",
 
   "alternativeNames": "Alternative names",
-  "alternativeNames.addAlternateName": "Add alternative name",
+  "alternativeNames.addAlternativeName": "Add alternative name",
 
   "contacts.addContact": "Add internal contact",
   "contacts.contactIndex": "Internal contact {index}",
