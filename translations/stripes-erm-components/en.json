@@ -3,6 +3,9 @@
   "loading": "Loading...",
   "selectAll": "Select all / deselect all",
 
+  "alternativeNames": "Alternative names",
+  "alternativeNames.addAlternativeName": "Add alternative name",
+
   "contacts.addContact": "Add internal contact",
   "contacts.contactIndex": "Internal contact {index}",
   "contacts.email": "Email address",

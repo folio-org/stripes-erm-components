@@ -1,4 +1,5 @@
 // Components
+export { default as AlternativeNamesFieldArray } from './lib/AlternativeNamesFieldArray';
 export { default as Card } from './lib/Card';
 export { default as CreateOrganizationModal } from './lib/CreateOrganizationModal';
 export { default as CustomPropertiesConfigListFieldArray } from './lib/CustomPropertiesConfigListFieldArray';
