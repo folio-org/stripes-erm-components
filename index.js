@@ -6,6 +6,7 @@ export { default as CustomPropertiesConfigListFieldArray } from './lib/CustomPro
 export { default as CustomPropertiesList } from './lib/CustomPropertiesList';
 export { default as DocumentCard } from './lib/DocumentCard';
 export { default as DocumentsFieldArray } from './lib/DocumentsFieldArray';
+export { default as DuplicateModal } from './lib/DuplicateModal';
 export { default as EditCard } from './lib/EditCard';
 export { default as FileUploader } from './lib/FileUploader';
 export { default as FileUploaderField } from './lib/FileUploaderField';

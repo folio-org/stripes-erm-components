@@ -143,5 +143,9 @@
     "customProperties.delete.confirmHeading": "حذف {custProp}",
     "customProperties.delete.confirmMessage": "سيتم <strong>حذف</strong> {custProp} <strong>{name}</strong>",
     "errors.customPropertyNoteInvalidNumber": "يجب إدخال رقم صالح لحفظ الملاحظة",
-    "errors.customPropertyInvalidNumber": "يرجى إدخال رقم صالح للمتابعة"
+    "errors.customPropertyInvalidNumber": "يرجى إدخال رقم صالح للمتابعة",
+    "close": "إغلاق",
+    "selectAll": "تحديد الكل / إلغاء تحديد الكل",
+    "duplicateModal.errors.systemAdministrator": "إذا استمرت المشكلة، اتصل بمسؤول النظام.",
+    "duplicateModal.errors.tryAgain": "برجى إعادة المحاولة مرة أخرى"
 }
