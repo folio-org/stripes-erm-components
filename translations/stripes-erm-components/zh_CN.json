@@ -147,5 +147,7 @@
     "close": "关闭",
     "selectAll": "全选/取消全选",
     "duplicateModal.errors.systemAdministrator": "如果问题仍然存在，请与系统管理员联系。",
-    "duplicateModal.errors.tryAgain": "请重试。"
+    "duplicateModal.errors.tryAgain": "请重试。",
+    "alternativeNames": "Alternative names",
+    "alternativeNames.addAlternativeName": "Add alternative name"
 }

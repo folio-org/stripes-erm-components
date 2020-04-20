@@ -147,5 +147,7 @@
     "close": "إغلاق",
     "selectAll": "تحديد الكل / إلغاء تحديد الكل",
     "duplicateModal.errors.systemAdministrator": "إذا استمرت المشكلة، اتصل بمسؤول النظام.",
-    "duplicateModal.errors.tryAgain": "برجى إعادة المحاولة مرة أخرى"
+    "duplicateModal.errors.tryAgain": "برجى إعادة المحاولة مرة أخرى",
+    "alternativeNames": "Alternative names",
+    "alternativeNames.addAlternativeName": "Add alternative name"
 }

@@ -147,5 +147,7 @@
     "close": "Fermer",
     "selectAll": "Tout sélectionner / tout désélectionner",
     "duplicateModal.errors.systemAdministrator": "Si le problème persiste, contactez votre administrateur système.",
-    "duplicateModal.errors.tryAgain": "Merci de réessayer."
+    "duplicateModal.errors.tryAgain": "Merci de réessayer.",
+    "alternativeNames": "Alternative names",
+    "alternativeNames.addAlternativeName": "Add alternative name"
 }
