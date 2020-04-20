@@ -21,8 +21,8 @@
     "licenseCard.startDate": "開始日",
     "licenseCard.endDate": "終了日",
     "licenseCard.licensor": "ライセンサー",
-    "tags": "Tags",
-    "numberOfTags": "{count, number} {count, plural, one {Tag} other {Tags}}",
+    "tags": "タグ",
+    "numberOfTags": "{count, number} {count, plural, one { タグ } other { タグ }}",
     "newTagCreated": "New tag created",
     "doc.category": "Category",
     "placeholder.documentCategory": "Enter a category",
@@ -98,7 +98,7 @@
     "customProperty.value": "Value",
     "customProperty.visibility": "Visibility",
     "customProperties.defaultVisibility": "デフォルトの表示（visibility）",
-    "customProperties.description": "Description",
+    "customProperties.description": "説明",
     "customProperties.label": "ラベル",
     "customProperties.name": "Name",
     "customProperties.orderWeight": "順番の重みづけ",
@@ -129,7 +129,7 @@
     "errors.hasNonAlphaName": "The name can only contain Latin alphabetical characters (a-z) and non-leading numeric characters.",
     "supplementaryProperty.help.label": "契約の用語「ラベル」は、Folio内やその他のシステムで、補足プロパティをユーザーに表示する際に使用されます。「ラベル」は、補足プロパティにどのような情報が記録されているかを明確に伝える、短い文字列です。「説明」は、補足プロパティのさらなる説明が必要な場合に使用されます。",
     "supplementaryProperty.help.name": "契約の用語「名称」は、補足プロパティのデータを機械読取可能な形式で出力する際に使用されます。利用者（スタッフや図書館利用者）に表示することを意図したものではありません。これは、契約書の補足プロパティデータにアクセスする外部システムやプログラムで使用できるような、短いアルファベット文字列でなければなりません。キャメルケースの使用が推奨されますが、必須ではありません。契約書補完プロパティ名の変更は、契約の補足プロパティデータを使用している外部システムに影響を与えるため、関連する外部システムやソフトウェアの責任者に相談することなく変更を行うべきではありません。",
-    "term.help.label": "A license term 'label' is used when displaying the term to users within Folio and in any other systems that display license terms to users. It should be a short text string that clearly communicates what information is recorded in the term. The Description should be used where further explanation of the term is required for display to users.",
+    "term.help.label": "ライセンスの用語「ラベル」は、Folioやその他のシステムで、ユーザーに条項を表示するときに使用されます。ラベルは、用語に記録されている情報を明確に伝える短い文字列である必要があります。ユーザーへの表示に用語の詳細な説明が必要な場合は、「説明」を使用する必要があります。",
     "term.help.name": "A license term 'name' is used when outputting the term data in a machine readable format. It is not intended to be displayed to users (staff or patrons). It should be a short Latin alphabet string that can be used by any external systems or programs that access the license term data. Use of camelCase is suggested but not required. Changes to the license term name would affect any external systems using license term data and changes should not be made without consulting those responsible for relevant external systems and software.",
     "no": "No",
     "yes": "Yes",
@@ -147,5 +147,7 @@
     "close": "Close",
     "selectAll": "Select all / deselect all",
     "duplicateModal.errors.systemAdministrator": "If the problem persists contact your system administrator.",
-    "duplicateModal.errors.tryAgain": "Please try again."
+    "duplicateModal.errors.tryAgain": "Please try again.",
+    "alternativeNames": "Alternative names",
+    "alternativeNames.addAlternativeName": "Add alternative name"
 }

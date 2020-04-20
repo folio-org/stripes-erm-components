@@ -147,5 +147,7 @@
     "close": "Close",
     "selectAll": "Select all / deselect all",
     "duplicateModal.errors.systemAdministrator": "If the problem persists contact your system administrator.",
-    "duplicateModal.errors.tryAgain": "Please try again."
+    "duplicateModal.errors.tryAgain": "Please try again.",
+    "alternativeNames": "Alternative names",
+    "alternativeNames.addAlternativeName": "Add alternative name"
 }

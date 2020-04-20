@@ -144,8 +144,10 @@
     "customProperties.delete.confirmMessage": "{custProp} <strong>{name}</strong> will be <strong>deleted</strong>.",
     "errors.customPropertyNoteInvalidNumber": "A valid number must be entered in order to save a note",
     "errors.customPropertyInvalidNumber": "Please enter a valid number to continue",
-    "close": "Close",
-    "selectAll": "Select all / deselect all",
+    "close": "Cerrar",
+    "selectAll": "Seleccionar todo / deseleccionar todo",
     "duplicateModal.errors.systemAdministrator": "If the problem persists contact your system administrator.",
-    "duplicateModal.errors.tryAgain": "Please try again."
+    "duplicateModal.errors.tryAgain": "Por favor, intene nuevamente.",
+    "alternativeNames": "Alternative names",
+    "alternativeNames.addAlternativeName": "Add alternative name"
 }
