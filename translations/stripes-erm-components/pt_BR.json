@@ -148,6 +148,6 @@
     "selectAll": "Selecionar tudo / desmarcar tudo",
     "duplicateModal.errors.systemAdministrator": "Se o problema persistir, entre em contato com o administrador do sistema.",
     "duplicateModal.errors.tryAgain": "Por favor, tente novamente.",
-    "alternativeNames": "Alternative names",
-    "alternativeNames.addAlternativeName": "Add alternative name"
+    "alternativeNames": "Nomes alternativos",
+    "alternativeNames.addAlternativeName": "Adicionar nome alternativo"
 }
