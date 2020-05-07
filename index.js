@@ -31,6 +31,7 @@ export { default as customPropertyTypes } from './lib/customPropertyTypes';
 export { default as generateQueryParams } from './lib/generateQueryParams';
 export { default as getSASParams } from './lib/getSASParams';
 export { default as renderUserName } from './lib/renderUserName';
+export { default as preventResourceRefresh } from './lib/preventResourceRefresh';
 export {
   composeValidators,
   invalidNumber as invalidNumberValidator,
