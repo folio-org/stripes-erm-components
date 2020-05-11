@@ -1,7 +1,8 @@
 # Change history for stripes-erm-components
 
-## 2.4.0 IN PROGRESS
+## 3.0.0 IN PROGRESS
 * Disallow whitespace-only strings in `requiredValidator`. ERM-553
+* Upgrade to Stripes 4.0
 
 ## 2.3.1 2020-03-27
 * Added `invalidNumberValidator`.
