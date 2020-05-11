@@ -43,6 +43,17 @@
   "customProperty.value": "Value",
   "customProperty.visibility": "Visibility",
 
+  "customProperty.filters.addRule": "Add rule",
+  "customProperty.filters.addTermFilter": "Add term filter",
+  "customProperty.filters.editTermFilters": "Edit term filters",
+  "customProperty.filters.filtersApplied": "{count, number} {count, plural, one {term filter} other {term filters}} applied",
+  "customProperty.filters.builder": "Term filter builder",
+  "customProperty.filters.comparator": "Comparator",
+  "customProperty.filters.value": "Value",
+  "customProperty.filters.removeRule": "Remove rule {index}",
+  "customProperty.filters.removeTerm": "Remove term filter {index}",
+  "customProperty.filters.termFilterIndex": "Term filter {index}",
+
   "customProperties.defaultVisibility": "Default visibility",
   "customProperties.description": "Description",
   "customProperties.label": "Label",
@@ -73,7 +84,7 @@
   "customProperties.delete.confirmLabel": "Delete",
   "customProperties.delete.confirmHeading": "Delete {custProp}",
   "customProperties.delete.confirmMessage": "{custProp} <strong>{name}</strong> will be <strong>deleted</strong>.",
-
+ 
   "duplicateModal.errors.systemAdministrator": "If the problem persists contact your system administrator.",
   "duplicateModal.errors.tryAgain": "Please try again.",
 
