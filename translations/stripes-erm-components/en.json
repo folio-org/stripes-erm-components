@@ -3,6 +3,11 @@
   "loading": "Loading...",
   "selectAll": "Select all / deselect all",
 
+  "apply": "Apply",
+  "cancel": "Cancel",
+  "OR": "OR",
+  "AND": "AND",
+
   "alternativeNames": "Alternative names",
   "alternativeNames.addAlternativeName": "Add alternative name",
 
@@ -44,15 +49,20 @@
   "customProperty.visibility": "Visibility",
 
   "customProperty.filters.addRule": "Add rule",
-  "customProperty.filters.addTermFilter": "Add term filter",
-  "customProperty.filters.editTermFilters": "Edit term filters",
-  "customProperty.filters.filtersApplied": "{count, number} {count, plural, one {term filter} other {term filters}} applied",
-  "customProperty.filters.builder": "Term filter builder",
+  "customProperty.filters.addCustomPropertyFilter": "Add {custProp} filter",
+  "customProperty.filters.editCustomPropertyFilters": "Edit {custProp} filters",
+  "customProperty.filters.term.filtersApplied": "{count, number} {count, plural, one {term filter} other {term filters}} applied",
+  "customProperty.filters.supplementaryProperty.filtersApplied": "{count, number} {count, plural, one {supplementary property filter} other {supplementary property filters}} applied",
+  "customProperty.filters.builder": "{custProp} filter builder",
   "customProperty.filters.comparator": "Comparator",
   "customProperty.filters.value": "Value",
   "customProperty.filters.removeRule": "Remove rule {index}",
-  "customProperty.filters.removeTerm": "Remove term filter {index}",
-  "customProperty.filters.termFilterIndex": "Term filter {index}",
+  "customProperty.filters.removeCustomProperty": "Remove {custProp} filter {index}",
+  "customProperty.filters.customPropertyFilterIndex": "{custProp} filter {index}",
+  "customProperty.term": "Term",
+  "customProperty.term.plural": "Terms",
+  "customProperty.supplementaryProperty": "Supplementary property",
+  "customProperty.supplementaryProperty.plural": "Supplementary properties",
 
   "customProperties.defaultVisibility": "Default visibility",
   "customProperties.description": "Description",
@@ -127,6 +137,18 @@
   "licenseCard.status": "Status",
   "licenseCard.type": "Type",
   "licenseCard.unknownLicense": "Unknown License",
+
+
+  "operator.equals": "equals",
+  "operator.doesNotEqual": "does not equal",
+  "operator.isGreaterThanOrEqual": "is greater than or equals",
+  "operator.isLessThanOrEqual": "is less than or equals",
+  "operator.is": "is",
+  "operator.isNot": "is not",
+  "operator.isSet": "is set",
+  "operator.isNotSet": "is not set",
+  "operator.contains": "contains",
+  "operator.doesNotContain": "does not contain",
 
   "organizations.addOrganization": "Add organization",
   "organizations.clickSearchButton": "Click the 'Search' button to select an organization",
