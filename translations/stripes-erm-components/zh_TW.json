@@ -14,7 +14,7 @@
     "doc.noDocs": "未添加文档。",
     "doc.error.docsMustHaveLocationOrURL": "每个文档都必须指定文件、馆藏地或URL。",
     "doc.error.invalidURL": "請輸入有效的網址（包含 http 或 https）。",
-    "licenseCard.openEnded": "开放式结束",
+    "licenseCard.openEnded": "開放式結束",
     "licenseCard.notSet": "未設定",
     "licenseCard.type": "類型",
     "licenseCard.status": "狀態",
