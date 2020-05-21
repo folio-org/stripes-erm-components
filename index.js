@@ -4,6 +4,7 @@ export { default as Card } from './lib/Card';
 export { default as CreateOrganizationModal } from './lib/CreateOrganizationModal';
 export { default as CustomPropertiesConfigListFieldArray } from './lib/CustomPropertiesConfigListFieldArray';
 export { default as CustomPropertiesList } from './lib/CustomPropertiesList';
+export { default as CustomPropertyFilters } from './lib/CustomPropertyFilters';
 export { default as DocumentCard } from './lib/DocumentCard';
 export { default as DocumentsFieldArray } from './lib/DocumentsFieldArray';
 export { default as DuplicateModal } from './lib/DuplicateModal';
