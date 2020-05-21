@@ -1,5 +1,10 @@
 # Change history for stripes-erm-components
 
+## 3.0.0 IN PROGRESS
+* Disallow whitespace-only strings in `requiredValidator`. ERM-553
+* Upgrade to Stripes 4.0
+* Added ability to filter agreements and licenses by their custom properties. ERM-876
+
 ## 2.3.2 2020-05-27
 * Removed character limit on text custom properties. ERM-901
 

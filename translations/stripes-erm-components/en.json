@@ -1,5 +1,15 @@
 {
+  "close": "Close",
   "loading": "Loading...",
+  "selectAll": "Select all / deselect all",
+
+  "apply": "Apply",
+  "cancel": "Cancel",
+  "OR": "OR",
+  "AND": "AND",
+
+  "alternativeNames": "Alternative names",
+  "alternativeNames.addAlternativeName": "Add alternative name",
 
   "contacts.addContact": "Add internal contact",
   "contacts.contactIndex": "Internal contact {index}",
@@ -38,6 +48,27 @@
   "customProperty.value": "Value",
   "customProperty.visibility": "Visibility",
 
+  "customProperty.filters.addRule": "Add rule",
+  "customProperty.filters.comparator": "Comparator",
+  "customProperty.filters.removeRule": "Remove rule {index}",
+  "customProperty.filters.supplementaryProperty.addCustomPropertyFilter": "Add supplementary property filter",
+  "customProperty.filters.supplementaryProperty.builder": "Supplementary property filter builder",
+  "customProperty.filters.supplementaryProperty.editCustomPropertyFilters": "Edit supplementary property filters",
+  "customProperty.filters.supplementaryProperty.filterIndex": "Supplementary property filter {index}",
+  "customProperty.filters.supplementaryProperty.filtersApplied": "{count, number} {count, plural, one {supplementary property filter} other {supplementary property filters}} applied",
+  "customProperty.filters.supplementaryProperty.removeFilter": "Remove supplementary property filter {index}",
+  "customProperty.filters.term.addCustomPropertyFilter": "Add term filter",
+  "customProperty.filters.term.builder": "Term filter builder",
+  "customProperty.filters.term.editCustomPropertyFilters": "Edit term filters",
+  "customProperty.filters.term.filterIndex": "Term filter {index}",
+  "customProperty.filters.term.filtersApplied": "{count, number} {count, plural, one {term filter} other {term filters}} applied",
+  "customProperty.filters.term.removeFilter": "Remove term filter {index}",
+  "customProperty.filters.value": "Value",
+  "customProperty.supplementaryProperty": "Supplementary property",
+  "customProperty.supplementaryProperty.plural": "Supplementary properties",
+  "customProperty.term": "Term",
+  "customProperty.term.plural": "Terms",
+
   "customProperties.defaultVisibility": "Default visibility",
   "customProperties.description": "Description",
   "customProperties.label": "Label",
@@ -68,12 +99,15 @@
   "customProperties.delete.confirmLabel": "Delete",
   "customProperties.delete.confirmHeading": "Delete {custProp}",
   "customProperties.delete.confirmMessage": "{custProp} <strong>{name}</strong> will be <strong>deleted</strong>.",
+ 
+  "duplicateModal.errors.systemAdministrator": "If the problem persists contact your system administrator.",
+  "duplicateModal.errors.tryAgain": "Please try again.",
 
   "errors.customPropertyNoteInvalidNumber": "A valid number must be entered in order to save a note",
   "errors.customPropertyInvalidNumber": "Please enter a valid number to continue",
   "errors.customPropertyNoteWithoutValue": "A value must be set in order to save a note",
-  "errors.customPropertyValueNotInRange" : "Please enter a whole number in the range {min} to {max} to continue",
-  "errors.customPropertyDecimalValueNotInRange" : "Please enter a number in the range {min} to {max} to continue",
+  "errors.customPropertyValueNotInRange": "Please enter a whole number in the range {min} to {max} to continue",
+  "errors.customPropertyDecimalValueNotInRange": "Please enter a number in the range {min} to {max} to continue",
   "errors.customPropertyMaxTwoDecimals": "Please enter a number with a maximum of 2 decimals places",
 
   "viewOrg.name": "Name",
@@ -108,6 +142,18 @@
   "licenseCard.status": "Status",
   "licenseCard.type": "Type",
   "licenseCard.unknownLicense": "Unknown License",
+
+
+  "operator.equals": "equals",
+  "operator.doesNotEqual": "does not equal",
+  "operator.isGreaterThanOrEqual": "is greater than or equals",
+  "operator.isLessThanOrEqual": "is less than or equals",
+  "operator.is": "is",
+  "operator.isNot": "is not",
+  "operator.isSet": "is set",
+  "operator.isNotSet": "is not set",
+  "operator.contains": "contains",
+  "operator.doesNotContain": "does not contain",
 
   "organizations.addOrganization": "Add organization",
   "organizations.clickSearchButton": "Click the 'Search' button to select an organization",

@@ -1,10 +1,13 @@
 // Components
+export { default as AlternativeNamesFieldArray } from './lib/AlternativeNamesFieldArray';
 export { default as Card } from './lib/Card';
 export { default as CreateOrganizationModal } from './lib/CreateOrganizationModal';
 export { default as CustomPropertiesConfigListFieldArray } from './lib/CustomPropertiesConfigListFieldArray';
 export { default as CustomPropertiesList } from './lib/CustomPropertiesList';
+export { default as CustomPropertyFilters } from './lib/CustomPropertyFilters';
 export { default as DocumentCard } from './lib/DocumentCard';
 export { default as DocumentsFieldArray } from './lib/DocumentsFieldArray';
+export { default as DuplicateModal } from './lib/DuplicateModal';
 export { default as EditCard } from './lib/EditCard';
 export { default as FileUploader } from './lib/FileUploader';
 export { default as FileUploaderField } from './lib/FileUploaderField';
@@ -29,6 +32,7 @@ export { default as customPropertyTypes } from './lib/customPropertyTypes';
 export { default as generateQueryParams } from './lib/generateQueryParams';
 export { default as getSASParams } from './lib/getSASParams';
 export { default as renderUserName } from './lib/renderUserName';
+export { default as preventResourceRefresh } from './lib/preventResourceRefresh';
 export {
   composeValidators,
   invalidNumber as invalidNumberValidator,
