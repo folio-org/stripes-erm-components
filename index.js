@@ -25,7 +25,8 @@ export { default as Spinner } from './lib/Spinner';
 export { default as Tags } from './lib/Tags';
 
 // HOCs
-export { default as withKiwtFieldArray } from './lib/withKiwtFieldArray/withKiwtFieldArray';
+export { default as withAsyncValidation } from './lib/withAsyncValidation';
+export { default as withKiwtFieldArray } from './lib/withKiwtFieldArray';
 
 // Functions, utilities, and misc.
 export { default as customPropertyTypes } from './lib/customPropertyTypes';
