@@ -1,5 +1,8 @@
 # Change history for stripes-erm-components
 
+## 2.3.2 2020-05-27
+* Removed character limit on text custom properties. ERM-901
+
 ## 2.3.1 2020-03-27
 * Added `invalidNumberValidator`.
 * Fixed validation of numbers formatted with European comma and period separators. ERM-768
