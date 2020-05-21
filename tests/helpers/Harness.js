@@ -17,7 +17,13 @@ function prefixKeys(obj) {
 class Harness extends React.Component {
   render() {
     return (
-      <IntlProvider key="en" locale="en" messages={prefixKeys(translations)} timeZone="UTC">
+      <IntlProvider
+        key="en"
+        locale="en"
+        messages={prefixKeys(translations)}
+        onError={() => {}}
+        timeZone="UTC"
+      >
         {this.props.children}
       </IntlProvider>
     );
