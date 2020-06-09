@@ -6,4 +6,3 @@ export { mount } from './mount';
 export { mountWithContext } from './mountWithContext';
 export { selectorFromClassnameString } from './selectorFromClassnameString';
 export { setupApplication } from './setupApplication';
-export { unmountTestingRoot } from './unmountTestingRoot';
