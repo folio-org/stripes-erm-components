@@ -10,7 +10,7 @@
   },
   "license": "Apache-2.0",
   "engines": {
-    "node": ">=6.0.0"
+    "node": ">=10.0.0"
   },
   "scripts": {
     "test": "stripes test karma",
@@ -56,6 +56,8 @@
     "react-router-dom": "^4.1.1"
   },
   "stripes": {
-    "actsAs": [""]
+    "actsAs": [
+      ""
+    ]
   }
 }
