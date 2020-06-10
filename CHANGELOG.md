@@ -1,9 +1,14 @@
 # Change history for stripes-erm-components
 
-## 3.0.0 IN PROGRESS
+## 3.0.0 2020-06-10
 * Disallow whitespace-only strings in `requiredValidator`. ERM-553
 * Upgrade to Stripes 4.0
 * Added ability to filter agreements and licenses by their custom properties. ERM-876
+* Added `withAsyncValidation` higher-order component. ERM-877
+* Added `preventResourceRefresh` helper function. ERM-852
+* Added `AlternativeNamesFieldArray` component. ERM-827 828
+* Added `DuplicateModal` component. ERM-814
+* Bumped the required node version to 10.
 
 ## 2.3.2 2020-05-27
 * Removed character limit on text custom properties. ERM-901
