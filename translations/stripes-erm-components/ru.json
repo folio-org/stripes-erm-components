@@ -167,7 +167,7 @@
     "customProperty.filters.term.builder": "Разработчик фильтра терминов",
     "customProperty.filters.term.editCustomPropertyFilters": "Редактировать фильтры терминов",
     "customProperty.filters.term.filterIndex": "Фильтр терминов {индекс}",
-    "customProperty.filters.term.filtersApplied": "{count, number} {count, plural, one {term filter} other {term filters}} applied",
+    "customProperty.filters.term.filtersApplied": "{count, number} {count, plural, one {term filter} other {term filters}} применяется",
     "customProperty.filters.term.removeFilter": "Удалить фильтр терминов {индекс}",
     "customProperty.filters.value": "Значение",
     "customProperty.supplementaryProperty": "Дополнительное свойство",
