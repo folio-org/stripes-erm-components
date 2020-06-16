@@ -30,8 +30,11 @@ export { default as withKiwtFieldArray } from './lib/withKiwtFieldArray';
 
 // Functions, utilities, and misc.
 export { default as customPropertyTypes } from './lib/customPropertyTypes';
+export { default as EResourceType } from './lib/EResourceType';
 export { default as generateQueryParams } from './lib/generateQueryParams';
 export { default as getSASParams } from './lib/getSASParams';
+export { default as getSiblingIdentifier } from './lib/getSiblingIdentifier';
+export { default as getResourceIdentifier } from './lib/getResourceIdentifier';
 export { default as renderUserName } from './lib/renderUserName';
 export { default as preventResourceRefresh } from './lib/preventResourceRefresh';
 export {
