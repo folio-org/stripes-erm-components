@@ -9,6 +9,7 @@ export { default as DocumentCard } from './lib/DocumentCard';
 export { default as DocumentsFieldArray } from './lib/DocumentsFieldArray';
 export { default as DuplicateModal } from './lib/DuplicateModal';
 export { default as EditCard } from './lib/EditCard';
+export { default as EResourceType } from './lib/EResourceType';
 export { default as FileUploader } from './lib/FileUploader';
 export { default as FileUploaderField } from './lib/FileUploaderField';
 export { default as FormCustomProperties } from './lib/FormCustomProperties';
@@ -30,7 +31,6 @@ export { default as withKiwtFieldArray } from './lib/withKiwtFieldArray';
 
 // Functions, utilities, and misc.
 export { default as customPropertyTypes } from './lib/customPropertyTypes';
-export { default as EResourceType } from './lib/EResourceType';
 export { default as generateQueryParams } from './lib/generateQueryParams';
 export { default as getSASParams } from './lib/getSASParams';
 export { default as getSiblingIdentifier } from './lib/getSiblingIdentifier';
