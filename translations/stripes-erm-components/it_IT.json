@@ -183,5 +183,7 @@
     "operator.isSet": "is set",
     "operator.isNotSet": "is not set",
     "operator.contains": "contains",
-    "operator.doesNotContain": "does not contain"
+    "operator.doesNotContain": "does not contain",
+    "package": "Package",
+    "title": "Title"
 }

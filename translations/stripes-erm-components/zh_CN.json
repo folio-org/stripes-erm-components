@@ -183,5 +183,7 @@
     "operator.isSet": "已设置",
     "operator.isNotSet": "未设置",
     "operator.contains": "包含",
-    "operator.doesNotContain": "不含"
+    "operator.doesNotContain": "不含",
+    "package": "Package",
+    "title": "Title"
 }

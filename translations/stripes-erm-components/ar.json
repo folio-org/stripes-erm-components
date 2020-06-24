@@ -183,5 +183,7 @@
     "operator.isSet": "تم تعيينه",
     "operator.isNotSet": "لم يتم تعيينه",
     "operator.contains": "يحتوي على",
-    "operator.doesNotContain": "لا يحتوي على"
+    "operator.doesNotContain": "لا يحتوي على",
+    "package": "حزمة",
+    "title": "عنوان"
 }

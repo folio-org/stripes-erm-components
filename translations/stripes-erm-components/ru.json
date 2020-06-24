@@ -9,7 +9,7 @@
     "doc.location": "Physical location",
     "doc.url": "URL",
     "doc.note": "Note",
-    "doc.addDoc": "Add  document",
+    "doc.addDoc": "Добавить документ",
     "doc.name": "Название",
     "doc.noDocs": "Не было добавлено ни одного документа.",
     "doc.error.docsMustHaveLocationOrURL": "Each document must specify a file, location, or URL.",
@@ -25,7 +25,7 @@
     "numberOfTags": "{count, number} {count, plural, one {Tag} other {Tags}}",
     "newTagCreated": "New tag created",
     "doc.category": "Категория",
-    "placeholder.documentCategory": "Enter a category",
+    "placeholder.documentCategory": "Введите категорию",
     "contacts.addContact": "Добавить внутренний контакт",
     "contacts.name": "Имя",
     "contacts.noContacts": "Контакты не были добавлены.",
@@ -42,7 +42,7 @@
     "fuf.subtitle": "или выберите файл",
     "fuf.title": "Drag & drop to upload",
     "fuf.uploaded": "Загружены",
-    "doc.title": "Документ {номер}",
+    "doc.title": "Документ {number}",
     "doc.file": "Файл",
     "interface.name": "Interface name",
     "interface.username": "Имя пользователя",
@@ -183,5 +183,7 @@
     "operator.isSet": "установлен",
     "operator.isNotSet": "не установлен",
     "operator.contains": "содержит",
-    "operator.doesNotContain": "не содержит"
+    "operator.doesNotContain": "не содержит",
+    "package": "Package",
+    "title": "Title"
 }
