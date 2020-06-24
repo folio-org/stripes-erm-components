@@ -99,7 +99,7 @@
   "customProperties.delete.confirmLabel": "Delete",
   "customProperties.delete.confirmHeading": "Delete {custProp}",
   "customProperties.delete.confirmMessage": "{custProp} <strong>{name}</strong> will be <strong>deleted</strong>.",
- 
+
   "duplicateModal.errors.systemAdministrator": "If the problem persists contact your system administrator.",
   "duplicateModal.errors.tryAgain": "Please try again.",
 
@@ -142,7 +142,6 @@
   "licenseCard.status": "Status",
   "licenseCard.type": "Type",
   "licenseCard.unknownLicense": "Unknown License",
-
 
   "operator.equals": "equals",
   "operator.doesNotEqual": "does not equal",
@@ -208,6 +207,8 @@
   "term.help.name": "A license term 'name' is used when outputting the term data in a machine readable format. It is not intended to be displayed to users (staff or patrons). It should be a short Latin alphabet string that can be used by any external systems or programs that access the license term data. Use of camelCase is suggested but not required. Changes to the license term name would affect any external systems using license term data and changes should not be made without consulting those responsible for relevant external systems and software.",
 
   "organization": "Organization",
+  "package": "Package",
+  "title": "Title",
   "tags": "Tags",
   "numberOfTags": "{count, number} {count, plural, one {Tag} other {Tags}}",
   "newTagCreated": "New tag created",

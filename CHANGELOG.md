@@ -1,5 +1,8 @@
 # Change history for stripes-erm-components
 
+## 3.1.0 IN PROGRESS
+* Added `EResourceType`, `getResourceIdentifier`, `getSiblingIdentifier` and `isPackage` utility functions. ERM-958
+
 ## 3.0.0 2020-06-10
 * Disallow whitespace-only strings in `requiredValidator`. ERM-553
 * Upgrade to Stripes 4.0
