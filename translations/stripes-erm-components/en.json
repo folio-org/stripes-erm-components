@@ -170,6 +170,7 @@
   "organizations.replaceOrganization": "Replace organization",
   "organizations.replaceOrganizationSpecific": "Replace organization {orgName}",
   "organizations.role": "Role",
+  "organizations.note": "Note",
 
   "prop.customPropertyName": "Name",
   "prop.customPropertyValue": "Value",
