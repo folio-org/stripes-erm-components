@@ -185,5 +185,6 @@
     "operator.contains": "يحتوي على",
     "operator.doesNotContain": "لا يحتوي على",
     "package": "حزمة",
-    "title": "عنوان"
+    "title": "عنوان",
+    "organizations.note": "ملاحظة"
 }

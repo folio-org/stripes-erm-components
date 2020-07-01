@@ -185,5 +185,6 @@
     "operator.contains": "包含",
     "operator.doesNotContain": "不含",
     "package": "Package",
-    "title": "Title"
+    "title": "Title",
+    "organizations.note": "Note"
 }
