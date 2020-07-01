@@ -35,7 +35,6 @@
     "organizations.clickSearchButton": "Click the 'Search' button to select an organization",
     "organizations.name": "Name",
     "organizations.role": "Role",
-    "organizations.note": "Note",
     "organizations.addOrganization": "Add organization",
     "organizations.noOrganizations": "No organizations have been added.",
     "fuf.filename": "File name",
@@ -186,5 +185,6 @@
     "operator.contains": "contains",
     "operator.doesNotContain": "does not contain",
     "package": "Package",
-    "title": "Title"
+    "title": "Title",
+    "organizations.note": "Note"
 }

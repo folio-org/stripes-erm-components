@@ -184,6 +184,7 @@
     "operator.isNotSet": "не установлен",
     "operator.contains": "содержит",
     "operator.doesNotContain": "не содержит",
-    "package": "Package",
-    "title": "Title"
+    "package": "Пакет",
+    "title": "Название",
+    "organizations.note": "Note"
 }

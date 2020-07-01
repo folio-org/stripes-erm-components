@@ -185,5 +185,6 @@
     "operator.contains": "contém",
     "operator.doesNotContain": "não contém",
     "package": "Pacote",
-    "title": "Título"
+    "title": "Título",
+    "organizations.note": "Nota"
 }
