@@ -1,5 +1,8 @@
 # Change history for stripes-erm-components
 
+## 3.0.1 2020-07-06
+* Fixed issue with only 10 results being retrieved for internal contacts fitler. ERM-980
+
 ## 3.0.0 2020-06-10
 * Disallow whitespace-only strings in `requiredValidator`. ERM-553
 * Upgrade to Stripes 4.0
