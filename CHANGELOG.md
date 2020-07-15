@@ -2,6 +2,7 @@
 
 ## 3.1.0 IN PROGRESS
 * Added `EResourceType`, `getResourceIdentifier`, `getSiblingIdentifier` and `isPackage` utility functions. ERM-958
+* Added `Embargo` component. ERM-951
 
 ## 3.0.1 2020-07-06
 * Fixed issue with only 10 results being retrieved for internal contacts fitler. ERM-980
