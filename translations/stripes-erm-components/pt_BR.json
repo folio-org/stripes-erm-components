@@ -186,5 +186,11 @@
     "operator.doesNotContain": "não contém",
     "package": "Pacote",
     "title": "Título",
-    "organizations.note": "Nota"
+    "organizations.note": "Nota",
+    "embargo": "Embargo",
+    "embargo.start": "Início do moving wall: ",
+    "embargo.end": "Fim do moving wall: ",
+    "days": "{count, number} {count, plural, one {dia} other {dias}}",
+    "months": "{count, number} {count, plural, one {mês} other {meses}}",
+    "years": "{count, number} {count, plural, one {ano} other {anos}}"
 }
