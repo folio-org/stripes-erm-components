@@ -21,8 +21,11 @@ export { default as ViewOrganizationCard } from './lib/ViewOrganizationCard';
 export { default as LicenseCard } from './lib/LicenseCard';
 export { default as LicenseEndDate } from './lib/LicenseEndDate';
 export { default as LoadingPane } from './lib/LoadingPane';
+export { default as LogsList } from './lib/LogsList';
 export { default as OrganizationSelection } from './lib/OrganizationSelection';
+export { default as SerialCoverage } from './lib/SerialCoverage';
 export { default as Tags } from './lib/Tags';
+export { default as TitleOnPlatformLink } from './lib/TitleOnPlatformLink';
 
 // HOCs
 export { default as withAsyncValidation } from './lib/withAsyncValidation';
@@ -34,6 +37,7 @@ export { default as generateQueryParams } from './lib/generateQueryParams';
 export { default as getSASParams } from './lib/getSASParams';
 export { default as getSiblingIdentifier } from './lib/getSiblingIdentifier';
 export { default as getResourceIdentifier } from './lib/getResourceIdentifier';
+export { default as isPackage } from './lib/isPackage';
 export { default as renderUserName } from './lib/renderUserName';
 export { default as preventResourceRefresh } from './lib/preventResourceRefresh';
 export {
