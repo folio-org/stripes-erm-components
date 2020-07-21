@@ -192,5 +192,12 @@
     "embargo.end": "Fim do moving wall: ",
     "days": "{count, number} {count, plural, one {dia} other {dias}}",
     "months": "{count, number} {count, plural, one {mês} other {meses}}",
-    "years": "{count, number} {count, plural, one {ano} other {anos}}"
+    "years": "{count, number} {count, plural, one {ano} other {anos}}",
+    "infoLogNo": "No information notices for this job.",
+    "errorLogNo": "No errors to report.",
+    "columns.errorLogMessage": "Error",
+    "columns.infoLogMessage": "Message",
+    "columns.recordNumber": "Record number",
+    "pti.accessTitleOnPlatform": "Access {name}",
+    "pti.titleOnPlatform": "Title on platform"
 }
