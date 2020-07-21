@@ -192,5 +192,12 @@
     "embargo.end": "نهاية الجدار المتحرك:",
     "days": "{count, number} {count, plural, one {يوماً} other {يوماً}}",
     "months": "{count, number} {count, plural, one {شهراً} other {شهراً}}",
-    "years": "{count, number} {count, plural, one {عاماً} other {عاماً}}"
+    "years": "{count, number} {count, plural, one {عاماً} other {عاماً}}",
+    "infoLogNo": "No information notices for this job.",
+    "errorLogNo": "No errors to report.",
+    "columns.errorLogMessage": "Error",
+    "columns.infoLogMessage": "Message",
+    "columns.recordNumber": "Record number",
+    "pti.accessTitleOnPlatform": "Access {name}",
+    "pti.titleOnPlatform": "Title on platform"
 }
