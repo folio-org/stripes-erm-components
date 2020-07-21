@@ -11,6 +11,12 @@
   "alternativeNames": "Alternative names",
   "alternativeNames.addAlternativeName": "Add alternative name",
 
+  "infoLogNo": "No information notices for this job.",
+  "errorLogNo": "No errors to report.",
+  "columns.errorLogMessage": "Error",
+  "columns.infoLogMessage": "Message",
+  "columns.recordNumber": "Record number",
+
   "contacts.addContact": "Add internal contact",
   "contacts.contactIndex": "Internal contact {index}",
   "contacts.email": "Email address",
@@ -183,6 +189,9 @@
   "prop.customPropertyName": "Name",
   "prop.customPropertyValue": "Value",
   "prop.customPropertyVisibility": "Visibility",
+
+  "pti.accessTitleOnPlatform": "Access {name}",
+  "pti.titleOnPlatform": "Title on platform",
 
   "doc.title": "Document {number}",
   "doc.addDoc": "Add  document",
