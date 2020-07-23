@@ -145,7 +145,7 @@
     "errors.customPropertyNoteInvalidNumber": "A valid number must be entered in order to save a note",
     "errors.customPropertyInvalidNumber": "Please enter a valid number to continue",
     "close": "Close",
-    "selectAll": "Select all / deselect all",
+    "selectAll": "Выбрать все / убрать выделение",
     "duplicateModal.errors.systemAdministrator": "If the problem persists contact your system administrator.",
     "duplicateModal.errors.tryAgain": "Please try again.",
     "alternativeNames": "Альтернативные имена",
