@@ -193,11 +193,11 @@
     "days": "{count, number} {count, plural, one {dia} other {dias}}",
     "months": "{count, number} {count, plural, one {mês} other {meses}}",
     "years": "{count, number} {count, plural, one {ano} other {anos}}",
-    "infoLogNo": "No information notices for this job.",
-    "errorLogNo": "No errors to report.",
-    "columns.errorLogMessage": "Error",
-    "columns.infoLogMessage": "Message",
-    "columns.recordNumber": "Record number",
-    "pti.accessTitleOnPlatform": "Access {name}",
-    "pti.titleOnPlatform": "Title on platform"
+    "infoLogNo": "Não há avisos de informação para este job.",
+    "errorLogNo": "Nenhum erro para reportar.",
+    "columns.errorLogMessage": "Erro",
+    "columns.infoLogMessage": "Mensagem",
+    "columns.recordNumber": "Número do registro",
+    "pti.accessTitleOnPlatform": "Acesse {name}",
+    "pti.titleOnPlatform": "Título na plataforma"
 }

@@ -193,11 +193,11 @@
     "days": "{count, number} {count, plural, one {يوماً} other {يوماً}}",
     "months": "{count, number} {count, plural, one {شهراً} other {شهراً}}",
     "years": "{count, number} {count, plural, one {عاماً} other {عاماً}}",
-    "infoLogNo": "No information notices for this job.",
-    "errorLogNo": "No errors to report.",
-    "columns.errorLogMessage": "Error",
-    "columns.infoLogMessage": "Message",
-    "columns.recordNumber": "Record number",
-    "pti.accessTitleOnPlatform": "Access {name}",
-    "pti.titleOnPlatform": "Title on platform"
+    "infoLogNo": "لا توجد إخطارات معلومات لهذه الوظيفة",
+    "errorLogNo": "لا توجد أي أخطاء للتبليغ عنها",
+    "columns.errorLogMessage": "خطأ",
+    "columns.infoLogMessage": "رسالة",
+    "columns.recordNumber": "رقم التسجيلة",
+    "pti.accessTitleOnPlatform": "الوصول إلى {name}",
+    "pti.titleOnPlatform": "العنوان على المنصة"
 }
