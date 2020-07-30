@@ -1,5 +1,5 @@
 import { Factory } from 'miragejs';
-import faker from 'faker';
+import faker from '../../helpers/faker';
 
 export default Factory.extend({
   id: () => faker.random.uuid(),
