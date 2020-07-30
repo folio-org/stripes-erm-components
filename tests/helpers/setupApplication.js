@@ -17,7 +17,10 @@ export function setupApplication({
   scenarios
 } = {}) {
   setupStripesCore({
-    mirageOptions,
+    mirageOptions: {
+      serverType: 'miragejs',
+      ...mirageOptions
+    },
     scenarios,
     translations: { 'dummy.title': 'Dummy', ...prefixKeys(translations) },
     modules: [{
