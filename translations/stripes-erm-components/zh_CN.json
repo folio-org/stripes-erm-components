@@ -91,7 +91,7 @@
     "customProperty.internalFalse": "公开",
     "customProperty.internalNote": "内部附注",
     "customProperty.internalTrue": "内部",
-    "customProperty.publicNote": "公开附注",
+    "customProperty.publicNote": "公共附注",
     "customProperty.remove": "删除{type，select，条款 {Term} 补充属性 {supplementary property}}",
     "customProperty.supplementaryPropertyTitle": "属性{number}",
     "customProperty.termTitle": "条款{number}",
