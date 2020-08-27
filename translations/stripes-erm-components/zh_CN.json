@@ -193,11 +193,11 @@
     "days": "{count, number} {count, plural, one {日} other {日}}",
     "months": "{count, number} {count, plural, one {月} other {月}}",
     "years": "{count, number} {count, plural, one {年} other {年}}",
-    "infoLogNo": "No information notices for this job.",
-    "errorLogNo": "No errors to report.",
-    "columns.errorLogMessage": "Error",
-    "columns.infoLogMessage": "Message",
-    "columns.recordNumber": "Record number",
-    "pti.accessTitleOnPlatform": "Access {name}",
-    "pti.titleOnPlatform": "Title on platform"
+    "infoLogNo": "没有关于此任务的信息通知。",
+    "errorLogNo": "没有要报告的错误。",
+    "columns.errorLogMessage": "错误",
+    "columns.infoLogMessage": "消息",
+    "columns.recordNumber": "记录号",
+    "pti.accessTitleOnPlatform": "访问{name}",
+    "pti.titleOnPlatform": "平台标题"
 }
