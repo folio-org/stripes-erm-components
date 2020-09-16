@@ -197,7 +197,7 @@
     "errorLogNo": "No errors to report.",
     "columns.errorLogMessage": "Error",
     "columns.infoLogMessage": "Message",
-    "columns.recordNumber": "Record number",
+    "columns.recordNumber": "Record descriptor",
     "pti.accessTitleOnPlatform": "Access {name}",
     "pti.titleOnPlatform": "Title on platform"
 }

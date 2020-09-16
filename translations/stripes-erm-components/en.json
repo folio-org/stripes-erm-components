@@ -15,7 +15,7 @@
   "errorLogNo": "No errors to report.",
   "columns.errorLogMessage": "Error",
   "columns.infoLogMessage": "Message",
-  "columns.recordNumber": "Record number",
+  "columns.recordNumber": "Record descriptor",
 
   "contacts.addContact": "Add internal contact",
   "contacts.contactIndex": "Internal contact {index}",
