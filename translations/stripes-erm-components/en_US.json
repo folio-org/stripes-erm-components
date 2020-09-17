@@ -198,6 +198,10 @@
     "columns.errorLogMessage": "Error",
     "columns.infoLogMessage": "Message",
     "columns.recordNumber": "Record descriptor",
+    "packageSource": "Package source: {source}",
+    "packageReference": "Package reference: {ref}",
+    "rowNumber": "Row number: {rownumber}",
+    "recordNumber": "Record number: {recordnumber}",
     "pti.accessTitleOnPlatform": "Access {name}",
     "pti.titleOnPlatform": "Title on platform"
 }
