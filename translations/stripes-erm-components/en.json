@@ -15,7 +15,7 @@
   "errorLogNo": "No errors to report.",
   "columns.errorLogMessage": "Error",
   "columns.infoLogMessage": "Message",
-  "columns.recordNumber": "Record descriptor",
+  "columns.recordDescriptor": "Record descriptor",
   "packageSource": "Package source: {source}",
   "packageReference": "Package reference: {ref}",
   "rowNumber": "Row number: {rownumber}",
