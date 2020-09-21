@@ -19,8 +19,8 @@
 
   "packageSource": "Package source: {source}",
   "packageReference": "Package reference: {ref}",
-  "rowNumber": "Row number: {rownumber}",
-  "recordNumber": "Record number: {recordnumber}",
+  "rowNumber": "Row number: {rowNumber}",
+  "recordNumber": "Record number: {recordNumber}",
 
   "contacts.addContact": "Add internal contact",
   "contacts.contactIndex": "Internal contact {index}",
