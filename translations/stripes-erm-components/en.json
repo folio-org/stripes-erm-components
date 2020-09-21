@@ -15,7 +15,12 @@
   "errorLogNo": "No errors to report.",
   "columns.errorLogMessage": "Error",
   "columns.infoLogMessage": "Message",
-  "columns.recordNumber": "Record number",
+  "columns.recordDescriptor": "Record descriptor",
+
+  "packageSource": "Package source: {packageSource}",
+  "packageReference": "Package reference: {packageReference}",
+  "rowNumber": "Row number: {rowNumber}",
+  "recordNumber": "Record number: {recordNumber}",
 
   "contacts.addContact": "Add internal contact",
   "contacts.contactIndex": "Internal contact {index}",
