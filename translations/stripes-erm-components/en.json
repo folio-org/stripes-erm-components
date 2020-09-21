@@ -17,8 +17,8 @@
   "columns.infoLogMessage": "Message",
   "columns.recordDescriptor": "Record descriptor",
 
-  "packageSource": "Package source: {source}",
-  "packageReference": "Package reference: {ref}",
+  "packageSource": "Package source: {packageSource}",
+  "packageReference": "Package reference: {packageReference}",
   "rowNumber": "Row number: {rowNumber}",
   "recordNumber": "Record number: {recordNumber}",
 
