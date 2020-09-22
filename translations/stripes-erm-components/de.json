@@ -197,7 +197,11 @@
     "errorLogNo": "Keine Fehler zu berichten.",
     "columns.errorLogMessage": "Fehler",
     "columns.infoLogMessage": "Nachricht",
-    "columns.recordNumber": "Datensatz-Nummer",
     "pti.accessTitleOnPlatform": "Zugang {name}",
-    "pti.titleOnPlatform": "Titel auf Plattform"
+    "pti.titleOnPlatform": "Titel auf Plattform",
+    "columns.recordDescriptor": "Record descriptor",
+    "packageSource": "Package source: {packageSource}",
+    "packageReference": "Package reference: {packageReference}",
+    "rowNumber": "Row number: {rowNumber}",
+    "recordNumber": "Record number: {recordNumber}"
 }

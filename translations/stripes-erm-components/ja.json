@@ -197,7 +197,11 @@
     "errorLogNo": "No errors to report.",
     "columns.errorLogMessage": "エラー",
     "columns.infoLogMessage": "Message",
-    "columns.recordNumber": "Record number",
     "pti.accessTitleOnPlatform": "Access {name}",
-    "pti.titleOnPlatform": "プラットフォーム上のタイトル"
+    "pti.titleOnPlatform": "プラットフォーム上のタイトル",
+    "columns.recordDescriptor": "Record descriptor",
+    "packageSource": "Package source: {packageSource}",
+    "packageReference": "Package reference: {packageReference}",
+    "rowNumber": "Row number: {rowNumber}",
+    "recordNumber": "Record number: {recordNumber}"
 }

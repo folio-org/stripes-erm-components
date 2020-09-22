@@ -197,7 +197,11 @@
     "errorLogNo": "보고 할 오류가 없습니다.",
     "columns.errorLogMessage": "오류",
     "columns.infoLogMessage": "메시지",
-    "columns.recordNumber": "레코드 번호",
     "pti.accessTitleOnPlatform": "{name} 액세스",
-    "pti.titleOnPlatform": "플랫폼의 제목"
+    "pti.titleOnPlatform": "플랫폼의 제목",
+    "columns.recordDescriptor": "Record descriptor",
+    "packageSource": "Package source: {packageSource}",
+    "packageReference": "Package reference: {packageReference}",
+    "rowNumber": "Row number: {rowNumber}",
+    "recordNumber": "Record number: {recordNumber}"
 }

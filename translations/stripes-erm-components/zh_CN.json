@@ -197,7 +197,11 @@
     "errorLogNo": "没有要报告的错误。",
     "columns.errorLogMessage": "错误",
     "columns.infoLogMessage": "消息",
-    "columns.recordNumber": "记录号",
     "pti.accessTitleOnPlatform": "访问{name}",
-    "pti.titleOnPlatform": "平台标题"
+    "pti.titleOnPlatform": "平台标题",
+    "columns.recordDescriptor": "Record descriptor",
+    "packageSource": "Package source: {packageSource}",
+    "packageReference": "Package reference: {packageReference}",
+    "rowNumber": "Row number: {rowNumber}",
+    "recordNumber": "Record number: {recordNumber}"
 }
