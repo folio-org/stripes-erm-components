@@ -197,7 +197,11 @@
     "errorLogNo": "لا توجد أي أخطاء للتبليغ عنها",
     "columns.errorLogMessage": "خطأ",
     "columns.infoLogMessage": "رسالة",
-    "columns.recordNumber": "رقم التسجيلة",
     "pti.accessTitleOnPlatform": "الوصول إلى {name}",
-    "pti.titleOnPlatform": "العنوان على المنصة"
+    "pti.titleOnPlatform": "العنوان على المنصة",
+    "columns.recordDescriptor": "Record descriptor",
+    "packageSource": "Package source: {packageSource}",
+    "packageReference": "Package reference: {packageReference}",
+    "rowNumber": "Row number: {rowNumber}",
+    "recordNumber": "Record number: {recordNumber}"
 }

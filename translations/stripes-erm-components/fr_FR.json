@@ -197,7 +197,11 @@
     "errorLogNo": "Aucune erreur à signaler.",
     "columns.errorLogMessage": "Erreur",
     "columns.infoLogMessage": "Message",
-    "columns.recordNumber": "Record number",
     "pti.accessTitleOnPlatform": "Accéder à {name}",
-    "pti.titleOnPlatform": "Title on platform"
+    "pti.titleOnPlatform": "Title on platform",
+    "columns.recordDescriptor": "Record descriptor",
+    "packageSource": "Package source: {packageSource}",
+    "packageReference": "Référence du bouquet: {packageReference}",
+    "rowNumber": "Numéro de ligne: {rowNumber}",
+    "recordNumber": "Record number: {recordNumber}"
 }
