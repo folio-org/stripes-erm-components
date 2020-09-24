@@ -199,9 +199,9 @@
     "columns.infoLogMessage": "رسالة",
     "pti.accessTitleOnPlatform": "الوصول إلى {name}",
     "pti.titleOnPlatform": "العنوان على المنصة",
-    "columns.recordDescriptor": "Record descriptor",
-    "packageSource": "Package source: {packageSource}",
-    "packageReference": "Package reference: {packageReference}",
-    "rowNumber": "Row number: {rowNumber}",
-    "recordNumber": "Record number: {recordNumber}"
+    "columns.recordDescriptor": "واصف التسجيلة",
+    "packageSource": "مصدر الحزمة: {packageSource}",
+    "packageReference": "مرجع الحزمة: {packageReference}",
+    "rowNumber": "رقم الصف: {rowNumber}",
+    "recordNumber": "رقم التسجيلة: {recordNumber}"
 }
