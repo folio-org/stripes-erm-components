@@ -200,8 +200,8 @@
     "pti.accessTitleOnPlatform": "Access {name}",
     "pti.titleOnPlatform": "Title on platform",
     "columns.recordDescriptor": "Record descriptor",
-    "packageSource": "Package source: {packageSource}",
-    "packageReference": "Package reference: {packageReference}",
-    "rowNumber": "Row number: {rowNumber}",
-    "recordNumber": "Record number: {recordNumber}"
+    "packageSource": "Источник пакета: {packageSource}",
+    "packageReference": "Ссылка на пакет: {packageReference}",
+    "rowNumber": "Номер строки: {rowNumber}",
+    "recordNumber": "Номер записи: {recordNumber}"
 }
