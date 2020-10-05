@@ -12,7 +12,7 @@
     "doc.addDoc": "إضافة وثيقة",
     "doc.name": "الاسم",
     "doc.noDocs": "لم تتم إضافة أي وثائق.",
-    "doc.error.docsMustHaveLocationOrURL": "يجب على كل وثيقة تحديد إما الموقع أو عنوان URL",
+    "doc.error.docsMustHaveLocationOrURL": "يجب على كل وثيقة تحديد الملف أو الموقع أو عنوان URL",
     "doc.error.invalidURL": "يرجى إدخال عنوان URL صالح (متضمنًا \"http\" أو\"https\") ",
     "licenseCard.openEnded": "انتهى المفتوح",
     "licenseCard.notSet": "لم يتم تعيينه",
