@@ -8,7 +8,7 @@
 * Remove `<Spinner>` component. it's now in `stripes-components`. ERM-1005
 * Remove deprecated `deleteButtonTooltipText` from `<DocumentsFieldArray>`. ERM-1005
 * Replace `bigtest/mirage` with `miragejs`.
-* Added alignment option to `Embargo` component. ERM-1121
+* Added alignment option to `Embargo` component, default is left aligned. ERM-1121
 
 ## 3.0.1 2020-07-06
 * Fixed issue with only 10 results being retrieved for internal contacts fitler. ERM-980
