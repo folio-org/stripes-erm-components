@@ -1,6 +1,6 @@
 # Change history for stripes-erm-components
 
-## 4.0.0 IN PROGRESS
+## 4.0.0 2020-10-15
 * Added `EResourceType`, `getResourceIdentifier`, `getSiblingIdentifier` and `isPackage` utility functions. ERM-958
 * Added `Embargo` component. ERM-951
 * Increment `@folio/stripes` to `v5.0`, `react-router` to `v5.2`.
@@ -8,7 +8,7 @@
 * Remove `<Spinner>` component. it's now in `stripes-components`. ERM-1005
 * Remove deprecated `deleteButtonTooltipText` from `<DocumentsFieldArray>`. ERM-1005
 * Replace `bigtest/mirage` with `miragejs`.
-* Added alignment property to `Embargo` component, default is 'center'. ERM-1121
+* Added alignment property to `Embargo` component, default to 'center'. ERM-1121
 
 ## 3.0.1 2020-07-06
 * Fixed issue with only 10 results being retrieved for internal contacts fitler. ERM-980
