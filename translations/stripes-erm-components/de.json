@@ -149,7 +149,7 @@
     "duplicateModal.errors.systemAdministrator": "If the problem persists contact your system administrator.",
     "duplicateModal.errors.tryAgain": "Please try again.",
     "alternativeNames": "Alternativer Name",
-    "alternativeNames.addAlternativeName": "Alternativer Name hinzufügen",
+    "alternativeNames.addAlternativeName": "Alternativen Name hinzufügen",
     "apply": "Apply",
     "cancel": "Cancel",
     "OR": "OR",
