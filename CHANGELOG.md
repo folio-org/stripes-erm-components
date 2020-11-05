@@ -1,5 +1,8 @@
 # Change history for stripes-erm-components
 
+## 4.0.1 2020-11-05
+* Fixed issue with decimal separators not working as expected with non-English locales. ERM-1199.
+
 ## 4.0.0 2020-10-15
 * Added `EResourceType`, `getResourceIdentifier`, `getSiblingIdentifier` and `isPackage` utility functions. ERM-958
 * Added `Embargo` component. ERM-951
