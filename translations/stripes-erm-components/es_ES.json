@@ -199,9 +199,9 @@
     "columns.infoLogMessage": "Message",
     "pti.accessTitleOnPlatform": "Access {name}",
     "pti.titleOnPlatform": "Title on platform",
-    "columns.recordDescriptor": "Record descriptor",
-    "packageSource": "Package source: {packageSource}",
-    "packageReference": "Package reference: {packageReference}",
-    "rowNumber": "Row number: {rowNumber}",
-    "recordNumber": "Record number: {recordNumber}"
+    "columns.recordDescriptor": "Descriptor de registro",
+    "packageSource": "Fuente del paquete: {packageSource}",
+    "packageReference": "Referencia del paquete: {packageReference}",
+    "rowNumber": "Número de fila: {rowNumber}",
+    "recordNumber": "Número de registro: {recordNumber}"
 }

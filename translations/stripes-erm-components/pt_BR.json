@@ -101,7 +101,7 @@
     "customProperties.description": "Descrição",
     "customProperties.label": "Rótulo",
     "customProperties.name": "Nome",
-    "customProperties.orderWeight": "Peso da encomenda",
+    "customProperties.orderWeight": "Peso do pedido",
     "customProperties.pickList": "Lista de seleção",
     "customProperties.supplementaryProperty.add": "Adicionar propriedade",
     "customProperties.supplementaryProperty.edit": "Editar propriedade suplementar",
