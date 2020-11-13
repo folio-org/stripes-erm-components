@@ -203,5 +203,5 @@
     "packageSource": "Package source: {packageSource}",
     "packageReference": "Référence du bouquet: {packageReference}",
     "rowNumber": "Numéro de ligne: {rowNumber}",
-    "recordNumber": "Record number: {recordNumber}"
+    "recordNumber": "Numéro d'enregistrement: {recordNumber}"
 }

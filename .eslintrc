@@ -1,11 +1,15 @@
 {
   "parser": "babel-eslint",
   "extends": "@folio/eslint-config-stripes",
-  "rules":{
+  "rules": {
     "react/jsx-curly-newline": "off",
     "react/jsx-sort-props": "error",
     "react/state-in-constructor": "off"
   },
+  "env": {
+    "jest/globals": true
+  },
+  "plugins": ["babel", "jest"],
   "overrides": [
     {
       "files": ["lib/**/tests/*", "tests/**"],
@@ -17,5 +21,5 @@
         "no-unused-expressions": "off"
       }
     }
-  ],
+  ]
 }
