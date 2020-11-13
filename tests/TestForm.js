@@ -9,7 +9,6 @@ import PropTypes from 'prop-types';
 import { Form } from 'react-final-form';
 import arrayMutators from 'final-form-arrays';
 
-
 export default class TestForm extends React.Component {
   static propTypes = {
     children: PropTypes.node
