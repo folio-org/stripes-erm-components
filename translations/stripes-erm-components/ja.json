@@ -113,7 +113,7 @@
     "customProperties.term.add": "Add term",
     "customProperties.term.edit": "ライセンス条件の編集",
     "customProperties.term.new": "新しいライセンス条件",
-    "customProperties.term.primary": "プライマリ（必須）条件",
+    "customProperties.term.primary": "プライマリ条件",
     "customProperties.type.decimal": "小数（dicimal）",
     "customProperties.type.integer": "整数（integer）",
     "customProperties.type.pickList": "選択リスト",

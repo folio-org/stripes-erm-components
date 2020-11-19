@@ -156,7 +156,7 @@
     "AND": "ET",
     "customProperty.filters.addRule": "Ajouter une règle",
     "customProperty.filters.comparator": "Comparateur",
-    "customProperty.filters.removeRule": "Remove rule {index}",
+    "customProperty.filters.removeRule": "Supprimer la règle {index}",
     "customProperty.filters.supplementaryProperty.addCustomPropertyFilter": "Add supplementary property filter",
     "customProperty.filters.supplementaryProperty.builder": "Supplementary property filter builder",
     "customProperty.filters.supplementaryProperty.editCustomPropertyFilters": "Edit supplementary property filters",
