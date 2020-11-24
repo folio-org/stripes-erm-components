@@ -64,7 +64,7 @@
     "contacts.phone": "電話",
     "contacts.user": "User",
     "interface.showCredentials": "資格情報を表示",
-    "interface.hideCredentials": "Hide credentials",
+    "interface.hideCredentials": "資格情報を非表示にする",
     "contactSelect.selectContact": "内部連絡先を選択",
     "contactSelect.typeToSearch": "タイプして連絡先を検索",
     "licenseCard.license": "ライセンス",
