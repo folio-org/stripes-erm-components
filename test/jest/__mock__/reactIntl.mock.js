@@ -14,6 +14,13 @@ jest.mock('react-intl', () => {
 
       return id;
     }),
+    FormattedDate: jest.fn(({ value, children }) => {
+      if (children) {
+        return children([value]);
+      }
+
+      return value;
+    }),
     FormattedTime: jest.fn(({ value, children }) => {
       if (children) {
         return children([value]);
@@ -21,6 +28,7 @@ jest.mock('react-intl', () => {
 
       return value;
     }),
+
     useIntl: () => intl,
     injectIntl: (Component) => (props) => <Component {...props} intl={intl} />,
   };
