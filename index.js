@@ -17,6 +17,7 @@ export { default as InternalContactCard } from './lib/InternalContactCard';
 export { default as InternalContactSelection } from './lib/InternalContactSelection';
 export { default as InternalContactsFieldArray } from './lib/InternalContactsFieldArray';
 export { default as OrganizationsFieldArray } from './lib/OrganizationsFieldArray';
+export { default as DateFilter } from './lib/DateFilter';
 export { default as ViewOrganizationCard } from './lib/ViewOrganizationCard';
 export { default as LicenseCard } from './lib/LicenseCard';
 export { default as LicenseEndDate } from './lib/LicenseEndDate';
