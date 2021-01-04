@@ -1,4 +1,5 @@
 import './currencyData.mock';
+import './matchMedia.mock';
 import './reactIntl.mock';
 import './stripesConfig.mock';
 import './stripesCore.mock';
