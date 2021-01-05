@@ -203,5 +203,11 @@
     "packageSource": "Paketquelle: {packageSource}",
     "packageReference": "Paketreferenz: {packageReference}",
     "rowNumber": "Zeilennummer: {rowNumber}",
-    "recordNumber": "Datensatznummer: {recordnumber}"
+    "recordNumber": "Datensatznummer: {recordnumber}",
+    "dateFilter.startDate": "Start date",
+    "dateFilter.endDate": "End date",
+    "dateFilter.onOrAfter": "On or after",
+    "dateFilter.onOrBefore": "On or before",
+    "dateFilter.startDateIsNotSet": "Start date is not set",
+    "dateFilter.endDateIsNotSet": "End date is not set"
 }
