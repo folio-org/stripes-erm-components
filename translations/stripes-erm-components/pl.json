@@ -203,5 +203,11 @@
     "packageSource": "Package source: {packageSource}",
     "packageReference": "Package reference: {packageReference}",
     "rowNumber": "Row number: {rowNumber}",
-    "recordNumber": "Record number: {recordNumber}"
+    "recordNumber": "Record number: {recordNumber}",
+    "dateFilter.startDate": "Start date",
+    "dateFilter.endDate": "End date",
+    "dateFilter.onOrAfter": "On or after",
+    "dateFilter.onOrBefore": "On or before",
+    "dateFilter.startDateIsNotSet": "Start date is not set",
+    "dateFilter.endDateIsNotSet": "End date is not set"
 }
