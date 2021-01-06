@@ -203,5 +203,11 @@
     "packageSource": "Fuente del paquete: {packageSource}",
     "packageReference": "Referencia del paquete: {packageReference}",
     "rowNumber": "Número de fila: {rowNumber}",
-    "recordNumber": "Número de registro: {recordNumber}"
+    "recordNumber": "Número de registro: {recordNumber}",
+    "dateFilter.startDate": "Start date",
+    "dateFilter.endDate": "End date",
+    "dateFilter.onOrAfter": "On or after",
+    "dateFilter.onOrBefore": "On or before",
+    "dateFilter.startDateIsNotSet": "Start date is not set",
+    "dateFilter.endDateIsNotSet": "End date is not set"
 }
