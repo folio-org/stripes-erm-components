@@ -19,7 +19,7 @@ export default function Harness({
     return { ...allTranslations, ...prefixKeys(tx.translations, tx.prefix) };
   });
 
-  if (shouldMockOffsetSize) { // MCL sutosize mock
+  if (shouldMockOffsetSize) { // MCL autosize mock
     mockOffsetSize(width, height);
   }
 
