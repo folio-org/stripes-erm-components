@@ -23,7 +23,6 @@ export default function Harness({
     mockOffsetSize(width, height);
   }
 
-  console.log(allTranslations, 'allTranslations');
   return (
     <IntlProvider
       key="en"
