@@ -1,6 +1,6 @@
 # Change history for stripes-erm-components
 
-## 4.1.0 IN PROGRESS
+## 5.0.0 IN PROGRESS
 * Setup React testing library and jest infrastructure. ERM-1216.
 
 ## 4.0.1 2020-11-05
