@@ -21,8 +21,9 @@
   "dateFilter.endDate": "End date",
   "dateFilter.onOrAfter": "On or after",
   "dateFilter.onOrBefore": "On or before",
-  "dateFilter.startDateIsNotSet": "Start date is not set",
-  "dateFilter.endDateIsNotSet": "End date is not set",
+  "dateFilter.startDateNotSet": "Include licenses with no start date set",
+  "dateFilter.endDateNotSet": "Include licenses with no end date set",
+  "dateFilter.errors.OnOrAfterGreaterThanOnOrBefore": "The On or after date must not be later than the On or before date",
 
   "packageSource": "Package source: {packageSource}",
   "packageReference": "Package reference: {packageReference}",

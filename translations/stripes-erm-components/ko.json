@@ -203,5 +203,11 @@
     "packageSource": "패키지 소스 : {packageSource}",
     "packageReference": "패키지 참조 : {packageReference}",
     "rowNumber": "행 번호 : {rowNumber}",
-    "recordNumber": "레코드 번호 : {recordNumber}"
+    "recordNumber": "레코드 번호 : {recordNumber}",
+    "dateFilter.startDate": "Start date",
+    "dateFilter.endDate": "End date",
+    "dateFilter.onOrAfter": "On or after",
+    "dateFilter.onOrBefore": "On or before",
+    "dateFilter.startDateIsNotSet": "Start date is not set",
+    "dateFilter.endDateIsNotSet": "End date is not set"
 }

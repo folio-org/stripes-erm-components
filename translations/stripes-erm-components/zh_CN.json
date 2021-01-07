@@ -203,5 +203,11 @@
     "packageSource": "资源包来源： {packageSource}",
     "packageReference": "资源包参考： {packageReference}",
     "rowNumber": "行号： {rowNumber}",
-    "recordNumber": "记录号： {recordNumber}"
+    "recordNumber": "记录号： {recordNumber}",
+    "dateFilter.startDate": "Start date",
+    "dateFilter.endDate": "End date",
+    "dateFilter.onOrAfter": "On or after",
+    "dateFilter.onOrBefore": "On or before",
+    "dateFilter.startDateIsNotSet": "Start date is not set",
+    "dateFilter.endDateIsNotSet": "End date is not set"
 }
