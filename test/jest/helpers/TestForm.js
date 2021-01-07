@@ -5,27 +5,27 @@ import arrayMutators from 'final-form-arrays';
 import { Button } from '@folio/stripes/components';
 
 const TestForm = ({
-    children,
-    initialValues,
-    onSubmit,
-    handleSubmit
+  children,
+  initialValues,
+  onSubmit,
+  handleSubmit
 }) => {
-    return (
-      <Form
-        initialValues={initialValues}
-        mutators={arrayMutators}
-        onSubmit={onSubmit}
-      >
-        {props => (
-          <form onSubmit={handleSubmit}>
-            {children}
-            <Button id="submit" type="submit">
+  return (
+    <Form
+      initialValues={initialValues}
+      mutators={arrayMutators}
+      onSubmit={onSubmit}
+    >
+      {props => (
+        <form onSubmit={handleSubmit}>
+          {children}
+          <Button id="submit" type="submit">
               Submit
-            </Button>
-          </form>
-        )}
-      </Form>
-    );
-}
+          </Button>
+        </form>
+      )}
+    </Form>
+  );
+};
 
 export default TestForm;
