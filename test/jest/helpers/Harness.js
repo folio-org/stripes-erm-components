@@ -16,10 +16,10 @@ export default function Harness({
   const allTranslations = prefixKeys(translations);
 
   translationsConfig.forEach(tx => {
-    Object.assign(allTranslations, prefixKeys(tx.translations, tx.prefix));
+    return { ...allTranslations, ...prefixKeys(tx.translations, tx.prefix) };
   });
 
-  if (shouldMockOffsetSize) {
+  if (shouldMockOffsetSize) { // MCL sutosize mock
     mockOffsetSize(width, height);
   }
 
