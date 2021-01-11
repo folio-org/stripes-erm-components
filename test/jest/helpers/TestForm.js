@@ -8,7 +8,6 @@ const TestForm = ({
   children,
   initialValues,
   onSubmit,
-  handleSubmit
 }) => {
   return (
     <Form
@@ -16,16 +15,15 @@ const TestForm = ({
       mutators={arrayMutators}
       onSubmit={onSubmit}
     >
-      {props => (
+      {({ handleSubmit }) => (
         <form onSubmit={handleSubmit}>
           {children}
-          <Button id="submit" type="submit">
-              Submit
+          <Button data-testid="submit" id="submit" type="submit">
+            Submit
           </Button>
         </form>
       )}
     </Form>
   );
 };
-
 export default TestForm;
