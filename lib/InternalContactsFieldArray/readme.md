@@ -3,7 +3,7 @@
 A component intended to be used with react-final-form for editing arrays of internal contacts of the type [`InternalContact`](https://github.com/folio-org/mod-agreements/blob/master/service/grails-app/domain/org/olf/erm/InternalContact.groovy).
 
 
-## Redux Form Usage
+## React final Form Usage
 
 As with any react-final-form field, it's required to pass in a `name` to the parent `FieldArray`. `InternalContactsFieldArray` also uses the name to construct IDs and form the objects that make up each element in the array.
 

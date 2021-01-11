@@ -4,7 +4,7 @@ A Stripes `<Selection>` component used for selecting an ERM organization. It per
 
 The component defaults to using the `/erm/org` endpoint.
 
-## Redux Form Usage
+## React final Form Usage
 
 ```
 import { OrganizationSelection } from '@folio/stripes-erm-components';
@@ -20,7 +20,7 @@ import { Field } from 'react-final-form';
 ```
 
 ## Basic Usage
-The component is intended for use in a Redux Form environment, but by supplying an `input` prop with a few necessary keys, you can bypass this. For example:
+The component is intended for use in a React final Form environment, but by supplying an `input` prop with a few necessary keys, you can bypass this. For example:
 ```
 <OrganizationSelection
   input={{
