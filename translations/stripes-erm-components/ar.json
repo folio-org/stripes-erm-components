@@ -204,10 +204,11 @@
     "packageReference": "مرجع الحزمة: {packageReference}",
     "rowNumber": "رقم الصف: {rowNumber}",
     "recordNumber": "رقم التسجيلة: {recordNumber}",
-    "dateFilter.startDate": "Start date",
-    "dateFilter.endDate": "End date",
-    "dateFilter.onOrAfter": "On or after",
-    "dateFilter.onOrBefore": "On or before",
-    "dateFilter.startDateIsNotSet": "Start date is not set",
-    "dateFilter.endDateIsNotSet": "End date is not set"
+    "dateFilter.startDate": "تاريخ البدء",
+    "dateFilter.endDate": "تاريخ الانتهاء",
+    "dateFilter.onOrAfter": "في أو بعد",
+    "dateFilter.onOrBefore": "في أو قبل",
+    "dateFilter.startDateNotSet": "قم بإدراج التراخيص التي لم يتم تعيين تاريخ بدء لها",
+    "dateFilter.endDateNotSet": "قم بإدراج التراخيص التي لم يتم تعيين تاريخ انتهاء لها",
+    "dateFilter.errors.OnOrAfterGreaterThanOnOrBefore": "يجب ألا يكون تاريخ في أو بعد في تاريخ لاحق لتاريخ في أو قبل"
 }

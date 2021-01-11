@@ -149,7 +149,7 @@
     "duplicateModal.errors.systemAdministrator": "Sollte das Problem weiterbestehen, Systemadministrator kontaktieren.",
     "duplicateModal.errors.tryAgain": "Bitte erneut versuchen",
     "alternativeNames": "Alternativer Name",
-    "alternativeNames.addAlternativeName": "Alternativen Name hinzufügen",
+    "alternativeNames.addAlternativeName": "Alternativen Namen hinzufügen",
     "apply": "Anwenden",
     "cancel": "Abbrechen",
     "OR": "ODER",
@@ -204,10 +204,11 @@
     "packageReference": "Paketreferenz: {packageReference}",
     "rowNumber": "Zeilennummer: {rowNumber}",
     "recordNumber": "Datensatznummer: {recordnumber}",
-    "dateFilter.startDate": "Start date",
-    "dateFilter.endDate": "End date",
-    "dateFilter.onOrAfter": "On or after",
-    "dateFilter.onOrBefore": "On or before",
-    "dateFilter.startDateIsNotSet": "Start date is not set",
-    "dateFilter.endDateIsNotSet": "End date is not set"
+    "dateFilter.startDate": "Startdatum",
+    "dateFilter.endDate": "Enddatum",
+    "dateFilter.onOrAfter": "Am oder nach",
+    "dateFilter.onOrBefore": "Am oder vor",
+    "dateFilter.startDateNotSet": "Lizenzverträge ohne Startdatum einschließen",
+    "dateFilter.endDateNotSet": "Lizenzverträge ohne Enddatum einschließen",
+    "dateFilter.errors.OnOrAfterGreaterThanOnOrBefore": "Das Am- oder Nachdatum darf nicht später als das An- oder Vordatum sein"
 }
