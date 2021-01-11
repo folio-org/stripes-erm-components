@@ -16,7 +16,7 @@ export default function Harness({
   const allTranslations = prefixKeys(translations);
 
   translationsConfig.forEach(tx => {
-      Object.assign(allTranslations, prefixKeys(tx.translations, tx.prefix));
+    Object.assign(allTranslations, prefixKeys(tx.translations, tx.prefix));
   });
 
   if (shouldMockOffsetSize) { // MCL autosize mock
@@ -28,6 +28,7 @@ export default function Harness({
       key="en"
       locale="en"
       messages={allTranslations}
+      onError={() => {}}
       timeZone="UTC"
     >
       {children}

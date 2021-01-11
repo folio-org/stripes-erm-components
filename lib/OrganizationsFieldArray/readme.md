@@ -3,7 +3,7 @@
 A component intended to be used with react-final-form for editing arrays of Organizations rendered
 using the stripes-components `Card` component.
 
-## Redux Form Usage
+## React final Form Usage
 
 As with any react-final-form field, it's required to pass in a `name` to the parent `FieldArray`. `OrganizationsFieldArray` also uses the name to construct IDs and form the objects that make up each element in the array.
 
