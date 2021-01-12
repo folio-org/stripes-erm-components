@@ -208,7 +208,7 @@
     "dateFilter.endDate": "Data de término",
     "dateFilter.onOrAfter": "Em ou depois",
     "dateFilter.onOrBefore": "Em ou antes de",
-    "dateFilter.startDateNotSet": "Include licenses with no start date set",
-    "dateFilter.endDateNotSet": "Include licenses with no end date set",
-    "dateFilter.errors.OnOrAfterGreaterThanOnOrBefore": "The On or after date must not be later than the On or before date"
+    "dateFilter.startDateNotSet": "Incluir licenças sem data de início definida",
+    "dateFilter.endDateNotSet": "Incluir licenças sem data final definida",
+    "dateFilter.errors.OnOrAfterGreaterThanOnOrBefore": "A data Em ou após a data não deve ser posterior à data de Em ou antes"
 }
