@@ -2,7 +2,8 @@
 
 ## 5.0.0 IN PROGRESS
 * Setup React testing library and jest infrastructure. ERM-1216.
-
+* Upgrade to Stripes 6.0.
+* Upgrade to React 17. ERM-1526.
 ## 4.0.1 2020-11-05
 * Fixed issue with decimal separators not working as expected with non-English locales. ERM-1199.
 
