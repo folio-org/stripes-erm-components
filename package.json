@@ -28,6 +28,7 @@
     "@bigtest/react": "^0.1.2",
     "@folio/eslint-config-stripes": "^5.1.0",
     "@folio/stripes": "^6.0.0",
+    "jest-css-modules-transform": "^4.0.0",
     "@folio/stripes-cli": "^1.10.0",
     "@testing-library/dom": "^7.26.5",
     "@testing-library/jest-dom": "^5.11.5",
@@ -55,9 +56,9 @@
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-intl": "^5.8.1",
-    "react-redux": "^5.0.2",
+    "react-redux": "^7.2.2",
     "react-router-dom": "^5.2.0",
-    "redux": "^3.6.0"
+    "redux": "^4.0.5"
   },
   "dependencies": {
     "@folio/react-intl-safe-html": "^2.0.0",
