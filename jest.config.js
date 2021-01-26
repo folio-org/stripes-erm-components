@@ -15,7 +15,7 @@ module.exports = {
   transform: { '^.+\\.(js|jsx)$': path.join(__dirname, './test/jest/jest-transformer.js') },
   transformIgnorePatterns: [`/node_modules/(?!${esModules})`],
   moduleNameMapper: {
-    '^.+\\.(css)$': 'identity-obj-proxy',
+    '^.+\\.(css)$': path.join(__dirname, './test/jest/__mock__/styleMock.js'),
     '^.+\\.(svg)$': 'identity-obj-proxy',
   },
   testMatch: ['**/(lib|src)/**/?(*.)test.{js,jsx}'],
