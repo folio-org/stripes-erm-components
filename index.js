@@ -51,5 +51,6 @@ export {
   expandAllSections,
   checkScope,
   collapseAllSections,
+  handleSaveKeyCommand,
   keyboardCommands
 } from './lib/keyboardShortcuts';
