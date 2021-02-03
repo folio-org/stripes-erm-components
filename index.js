@@ -47,10 +47,4 @@ export {
   required as requiredValidator,
   requiredObject as requiredObjectValidator,
 } from './lib/validators';
-export {
-  expandAllSections,
-  checkScope,
-  collapseAllSections,
-  handleSaveKeyCommand,
-  keyboardCommands
-} from './lib/keyboardShortcuts';
+export { default as handleSaveKeyCommand } from './lib/keyboardShortcutHandlers';
