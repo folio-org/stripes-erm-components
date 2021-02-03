@@ -204,11 +204,11 @@
     "packageReference": "资源包参考： {packageReference}",
     "rowNumber": "行号： {rowNumber}",
     "recordNumber": "记录号： {recordNumber}",
-    "dateFilter.startDate": "Start date",
-    "dateFilter.endDate": "End date",
-    "dateFilter.onOrAfter": "On or after",
-    "dateFilter.onOrBefore": "On or before",
-    "dateFilter.startDateNotSet": "Include licenses with no start date set",
-    "dateFilter.endDateNotSet": "Include licenses with no end date set",
-    "dateFilter.errors.OnOrAfterGreaterThanOnOrBefore": "The On or after date must not be later than the On or before date"
+    "dateFilter.startDate": "开始日期",
+    "dateFilter.endDate": "终止日期",
+    "dateFilter.onOrAfter": "在或之后",
+    "dateFilter.onOrBefore": "在或之前",
+    "dateFilter.startDateNotSet": "包括未设置开始日期的许可证",
+    "dateFilter.endDateNotSet": "包括未设置结束日期的许可证",
+    "dateFilter.errors.OnOrAfterGreaterThanOnOrBefore": "在或之后日期不得晚于在或之前日期"
 }
