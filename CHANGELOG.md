@@ -2,7 +2,7 @@
 
 ## 5.0.0 IN PROGRESS
 * Setup React testing library and jest infrastructure. ERM-1216.
-* Changed and renamed keyboardShortcuts. Most handlers are now in `stripes-components`.
+* Added keyboard shortcut handler for save. Handlers for other shortcuts now live in stripes-components.
 
 ## 4.0.1 2020-11-05
 * Fixed issue with decimal separators not working as expected with non-English locales. ERM-1199.
