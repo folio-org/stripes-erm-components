@@ -208,7 +208,7 @@
     "dateFilter.endDate": "تاريخ الانتهاء",
     "dateFilter.onOrAfter": "في أو بعد",
     "dateFilter.onOrBefore": "في أو قبل",
-    "dateFilter.startDateNotSet": "قم بإدراج التراخيص التي لم يتم تعيين تاريخ بدء لها",
-    "dateFilter.endDateNotSet": "قم بإدراج التراخيص التي لم يتم تعيين تاريخ انتهاء لها",
+    "dateFilter.startDateNotSet": "قم بإدراج {resourceName}  التي لم يتم تعيين تاريخ بدء لها",
+    "dateFilter.endDateNotSet": "قم بإدراج {resourceName}  التي لم يتم تعيين تاريخ انتهاء لها",
     "dateFilter.errors.OnOrAfterGreaterThanOnOrBefore": "يجب ألا يكون تاريخ في أو بعد في تاريخ لاحق لتاريخ في أو قبل"
 }
