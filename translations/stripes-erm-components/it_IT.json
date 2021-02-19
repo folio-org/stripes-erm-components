@@ -204,11 +204,11 @@
     "packageReference": "Riferimento pacchetto: {packageReference}",
     "rowNumber": "Numero riga: {rowNumber}",
     "recordNumber": "Numero di record: {recordNumber}",
-    "dateFilter.startDate": "Start date",
-    "dateFilter.endDate": "End date",
-    "dateFilter.onOrAfter": "On or after",
-    "dateFilter.onOrBefore": "On or before",
-    "dateFilter.startDateNotSet": "Include {resourceName} with no start date set",
-    "dateFilter.endDateNotSet": "Include {resourceName} with no end date set",
-    "dateFilter.errors.OnOrAfterGreaterThanOnOrBefore": "The On or after date must not be later than the On or before date"
+    "dateFilter.startDate": "Data di inizio",
+    "dateFilter.endDate": "Data di fine",
+    "dateFilter.onOrAfter": "Dal o dopo il",
+    "dateFilter.onOrBefore": "Dal o prima del",
+    "dateFilter.startDateNotSet": "Includere {resourceName} senza data d'inizio impostata",
+    "dateFilter.endDateNotSet": "Includere {resourceName} senza data di fine impostata",
+    "dateFilter.errors.OnOrAfterGreaterThanOnOrBefore": "la data Dal o dopo il de"
 }
