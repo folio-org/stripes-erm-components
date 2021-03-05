@@ -14,7 +14,7 @@
     "doc.noDocs": "لم تتم إضافة أي وثائق.",
     "doc.error.docsMustHaveLocationOrURL": "يجب على كل وثيقة تحديد الملف أو الموقع أو عنوان URL",
     "doc.error.invalidURL": "يرجى إدخال عنوان URL صالح (متضمنًا \"http\" أو\"https\") ",
-    "licenseCard.openEnded": "انتهى المفتوح",
+    "licenseCard.openEnded": "فتح المنتهي",
     "licenseCard.notSet": "لم يتم تعيينه",
     "licenseCard.type": "النوع",
     "licenseCard.status": "الحالة",
