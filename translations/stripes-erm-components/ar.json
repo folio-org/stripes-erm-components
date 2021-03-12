@@ -193,7 +193,7 @@
     "days": "{count, number} {count, plural, one {يوماً} other {يوماً}}",
     "months": "{count, number} {count, plural, one {شهراً} other {شهراً}}",
     "years": "{count, number} {count, plural, one {عاماً} other {عاماً}}",
-    "infoLogNo": "لا توجد إخطارات معلومات لهذه الوظيفة",
+    "infoLogNo": "لا توجد إخطارات معلومات لهذه المهمة.",
     "errorLogNo": "لا توجد أي أخطاء للتبليغ عنها",
     "columns.errorLogMessage": "خطأ",
     "columns.infoLogMessage": "رسالة",

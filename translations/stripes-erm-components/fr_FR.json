@@ -208,7 +208,7 @@
     "dateFilter.endDate": "Date de fin",
     "dateFilter.onOrAfter": "On or after",
     "dateFilter.onOrBefore": "On or before",
-    "dateFilter.startDateNotSet": "Inclure les licences sans date de début définie",
-    "dateFilter.endDateNotSet": "Inclure les licences sans date de fin définie",
+    "dateFilter.startDateNotSet": "Inclure {resourceName} sans date de début définie",
+    "dateFilter.endDateNotSet": "Inclure {resourceName} sans date de fin définie",
     "dateFilter.errors.OnOrAfterGreaterThanOnOrBefore": "The On or after date must not be later than the On or before date"
 }
