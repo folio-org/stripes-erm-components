@@ -1,9 +1,12 @@
 # Change history for stripes-erm-components
 
-## 5.0.0 IN PROGRESS
+## 5.0.0 2021-03-17
+* Add FOLIO keyboard shortcuts to Agreements ERM-1151
 * Setup React testing library and jest infrastructure. ERM-1216.
+* Supplementary documents: Do not hide the Note field when empty. ERM-1221 ERM-1222
+* Added keyboard shortcut handler for save. Handlers for other shortcuts now live in stripes-components.ERM-1239 ERM-1240 ERM-1241
 * Change API for DateFilter to include resourceName and hideNoDateSetCheckbox. ERM-1532
-* Added keyboard shortcut handler for save. Handlers for other shortcuts now live in stripes-components.
+* Update stripes-cli to v2 ERM-1550
 
 ## 4.0.1 2020-11-05
 * Fixed issue with decimal separators not working as expected with non-English locales. ERM-1199.
