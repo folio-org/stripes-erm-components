@@ -1,6 +1,7 @@
 # Change history for stripes-erm-components
 
 ## 5.1.0 IN PROGRESS
+ * bumped babel-eslint dep to 10.0.0
 
 ## 5.0.0 2021-03-17
 * Add FOLIO keyboard shortcuts to Agreements ERM-1151
