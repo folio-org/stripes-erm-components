@@ -208,7 +208,7 @@
     "dateFilter.endDate": "终止日期",
     "dateFilter.onOrAfter": "在或之后",
     "dateFilter.onOrBefore": "在或之前",
-    "dateFilter.startDateNotSet": "包括未设置起始日期的许可证",
-    "dateFilter.endDateNotSet": "包括未设置终止日期的许可证",
+    "dateFilter.startDateNotSet": "Include {resourceName} with no start date set",
+    "dateFilter.endDateNotSet": "Include {resourceName} with no end date set",
     "dateFilter.errors.OnOrAfterGreaterThanOnOrBefore": "在或之后日期不得晚于在或之前日期"
 }
