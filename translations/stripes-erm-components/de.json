@@ -208,7 +208,7 @@
     "dateFilter.endDate": "Enddatum",
     "dateFilter.onOrAfter": "Am oder nach",
     "dateFilter.onOrBefore": "Am oder vor",
-    "dateFilter.startDateNotSet": "Lizenzverträge ohne Startdatum einschließen",
-    "dateFilter.endDateNotSet": "Lizenzverträge ohne Enddatum einschließen",
+    "dateFilter.startDateNotSet": "Include {resourceName} with no start date set",
+    "dateFilter.endDateNotSet": "Include {resourceName} with no end date set",
     "dateFilter.errors.OnOrAfterGreaterThanOnOrBefore": "Das Am- oder Nachdatum darf nicht später als das An- oder Vordatum sein"
 }
