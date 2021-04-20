@@ -84,7 +84,7 @@
     "viewOrg.name": "Nombre",
     "organizations.noOrgPlugin": "No hay ningún plugin de \"búsqueda-organización\" instalado",
     "errors.uploadError.1": "<strong> Error: </strong> el archivo no se cargó porque se cortó la conexión.",
-    "errors.uploadError.2": "Por favor, compruebe el tamaño del archivo es <strong>{número}MB o menos</strong> y vuelva a intentarlo.",
+    "errors.uploadError.2": "Por favor, verifique que el tamaño del archivo sea  <strong>{number}MB o menos </strong> e intente nuevamente.",
     "errors.uploadError.3": "Si el problema persiste, póngase en contacto con el administrador del sistema.",
     "contacts.replaceUserSpecific": "Reemplazar usuario {user}",
     "organizations.replaceOrganizationSpecific": "Reemplazar organización {orgName}",
