@@ -1,5 +1,8 @@
 # Change history for stripes-erm-components
 
+## 5.0.1 2021-04-21
+* Increase tags retrieved on opening tags panel and sort by label. ERM-1622
+
 ## 5.0.0 2021-03-17
 * Add FOLIO keyboard shortcuts to Agreements ERM-1151
 * Setup React testing library and jest infrastructure. ERM-1216.
