@@ -200,7 +200,7 @@
     "pti.accessTitleOnPlatform": "Accéder à {name}",
     "pti.titleOnPlatform": "Titre sur la plateforme",
     "columns.recordDescriptor": "Record descriptor",
-    "packageSource": "Package source: {packageSource}",
+    "packageSource": "Source du bouquet: {packageSource}",
     "packageReference": "Référence du bouquet: {packageReference}",
     "rowNumber": "Numéro de ligne: {rowNumber}",
     "recordNumber": "Numéro d'enregistrement: {recordNumber}",
