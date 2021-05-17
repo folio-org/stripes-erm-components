@@ -208,7 +208,7 @@
     "dateFilter.endDate": "Data de término",
     "dateFilter.onOrAfter": "Em ou depois",
     "dateFilter.onOrBefore": "Em ou antes de",
-    "dateFilter.startDateNotSet": "Include {resourceName} with no start date set",
-    "dateFilter.endDateNotSet": "Include {resourceName} with no end date set",
+    "dateFilter.startDateNotSet": "Inclui {resourceName} sem data de início definida",
+    "dateFilter.endDateNotSet": "Inclui {resourceName} sem data de término definida",
     "dateFilter.errors.OnOrAfterGreaterThanOnOrBefore": "A data Em ou após a data não deve ser posterior à data de Em ou antes"
 }
