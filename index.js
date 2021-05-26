@@ -48,3 +48,6 @@ export {
   requiredObject as requiredObjectValidator,
 } from './lib/validators';
 export { default as handleSaveKeyCommand } from './lib/keyboardShortcutHandlers';
+
+// Shared registry components/functions
+export { default as InternalContactsArrayDisplay } from './lib/InternalContactsArrayDisplay';
