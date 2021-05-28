@@ -12,6 +12,7 @@ export { default as Embargo } from './lib/Embargo';
 export { default as EResourceType } from './lib/EResourceType';
 export { default as FileUploader } from './lib/FileUploader';
 export { default as FileUploaderField } from './lib/FileUploaderField';
+export { default as FormattedDateTime } from './lib/FormattedDateTime';
 export { default as FormCustomProperties } from './lib/FormCustomProperties';
 export { default as InternalContactCard } from './lib/InternalContactCard';
 export { default as InternalContactSelection } from './lib/InternalContactSelection';
