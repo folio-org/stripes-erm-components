@@ -200,6 +200,9 @@
   "organizations.roles": "Roles",
   "organizations.note": "Note",
 
+  "orgRoles.remove": "Remove organization role {index}",
+  "orgRoles.orgRoleIndex": "Organization role {index}",
+
   "prop.customPropertyName": "Name",
   "prop.customPropertyValue": "Value",
   "prop.customPropertyVisibility": "Visibility",
