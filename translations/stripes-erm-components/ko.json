@@ -87,7 +87,7 @@
     "errors.uploadError.2": "파일 크기가 <strong>{number}MB 이하</strong> 있는지 확인하고 다시 시도하십시오.",
     "errors.uploadError.3": "문제가 지속되면 시스템 관리자에게 문의하십시오.",
     "contacts.replaceUserSpecific": "사용자 {user} 바꾸기",
-    "organizations.replaceOrganizationSpecific": "공급사 바꾸기",
+    "organizations.replaceOrganizationSpecific": "Replace organization {orgName}",
     "customProperty.internalFalse": "공개",
     "customProperty.internalNote": "Internal note",
     "customProperty.internalTrue": "내부의",
