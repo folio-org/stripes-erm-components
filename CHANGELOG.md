@@ -1,5 +1,7 @@
 # Change history for stripes-erm-components
 
+## 5.2.0 IN PROGRESS
+
 ## 5.1.0 2021-06-04
 * Added FormattedDateTime/InternalContactsArrayDisplay components ERM-1682/ERM-1683/ERM-1684
 * Increase tags retrieved on opening tags panel and sort by label. ERM-1622
