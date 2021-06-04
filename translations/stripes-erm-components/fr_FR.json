@@ -167,7 +167,7 @@
     "customProperty.filters.term.builder": "Générateur de filtres de termes",
     "customProperty.filters.term.editCustomPropertyFilters": "Modifier les filtres de termes",
     "customProperty.filters.term.filterIndex": "Filtre de termes {index}",
-    "customProperty.filters.term.filtersApplied": "{count, number} {count, plural, one {term filter} other {term filters}} applied",
+    "customProperty.filters.term.filtersApplied": "{count, number} {count, plural, one { filtre de terme } other { filtre de termes }} appliqué(s)",
     "customProperty.filters.term.removeFilter": "Supprimer le filtre de termes {index}",
     "customProperty.filters.value": "Valeur",
     "customProperty.supplementaryProperty": "Propriété complémentaire",
