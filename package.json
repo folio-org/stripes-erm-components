@@ -74,7 +74,8 @@
     "@folio/stripes": "^6.0.0",
     "react": "*",
     "react-intl": "^5.8.1",
-    "react-router-dom": "^5.2.0"
+    "react-router-dom": "^5.2.0",
+    "react-query": "^3.9.0"
   },
   "stripes": {
     "actsAs": [
