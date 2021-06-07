@@ -101,7 +101,7 @@
     "customProperties.description": "Description",
     "customProperties.label": "Intitulé",
     "customProperties.name": "Nom",
-    "customProperties.orderWeight": "Pondération de la commande",
+    "customProperties.orderWeight": "Ordre",
     "customProperties.pickList": "Liste de sélection",
     "customProperties.supplementaryProperty.add": "Ajouter une propriété",
     "customProperties.supplementaryProperty.edit": "Modifier la propriété complémentaire",
