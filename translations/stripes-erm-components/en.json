@@ -201,6 +201,7 @@
   "organizations.roles": "Roles",
   "organizations.note": "Note",
   "organizations.addRole": "Add role",
+  "organizations.setAsPrimary": "Set as primary organization",
 
   "orgRoles.remove": "Remove organization role {index}",
   "orgRoles.orgRoleIndex": "Organization role {index}",
