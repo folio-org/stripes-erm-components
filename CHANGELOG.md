@@ -1,7 +1,13 @@
 # Change history for stripes-erm-components
 
-## 5.1.0 IN PROGRESS
- * bumped babel-eslint dep to 10.0.0
+## 5.2.0 IN PROGRESS
+
+## 5.1.0 2021-06-04
+* Added FormattedDateTime/InternalContactsArrayDisplay components ERM-1682/ERM-1683/ERM-1684
+* Increase tags retrieved on opening tags panel and sort by label. ERM-1622
+* Ensure runtime automatically chosen for test env - @babel/preset-react
+* bumped babel-eslint dep to 10.0.0
+* Increase size of credentials show hide button from 160px to 300px
 
 ## 5.0.0 2021-03-17
 * Add FOLIO keyboard shortcuts to Agreements ERM-1151

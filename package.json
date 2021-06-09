@@ -1,6 +1,6 @@
 {
   "name": "@folio/stripes-erm-components",
-  "version": "5.1.0",
+  "version": "5.2.0",
   "description": "Component library for Stripes ERM applications",
   "sideEffects": [
     "*.css"
@@ -74,7 +74,8 @@
     "@folio/stripes": "^6.0.0",
     "react": "*",
     "react-intl": "^5.8.1",
-    "react-router-dom": "^5.2.0"
+    "react-router-dom": "^5.2.0",
+    "react-query": "^3.9.0"
   },
   "stripes": {
     "actsAs": [
