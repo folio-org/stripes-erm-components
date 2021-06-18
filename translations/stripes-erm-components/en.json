@@ -165,6 +165,7 @@
   "licenseCard.licensor": "Licensor",
   "licenseCard.notSet": "Not set",
   "licenseCard.openEnded": "Open ended",
+  "licenseCard.primaryOrg": "Primary organization",
   "licenseCard.startDate": "Start date",
   "licenseCard.status": "Status",
   "licenseCard.type": "Type",
@@ -197,7 +198,14 @@
   "organizations.replaceOrganization": "Replace organization",
   "organizations.replaceOrganizationSpecific": "Replace organization {orgName}",
   "organizations.role": "Role",
+  "organizations.roles": "Roles",
   "organizations.note": "Note",
+  "organizations.addRole": "Add role",
+  "organizations.setAsPrimary": "Set as primary organization",
+  "organizations.duplicateOrgError": "<strong>Error:</strong> Organization \"{orgName}\" was not linked because it is already linked.",
+
+  "orgRoles.remove": "Remove organization role {index}",
+  "orgRoles.orgRoleIndex": "Organization role {index}",
 
   "prop.customPropertyName": "Name",
   "prop.customPropertyValue": "Value",
