@@ -210,5 +210,12 @@
     "dateFilter.onOrBefore": "켜기 또는 그 이전",
     "dateFilter.startDateNotSet": "시작 날짜 설정 없이 {resourceName} 포함",
     "dateFilter.endDateNotSet": "종료 날짜 설정없이 {resourceName} 포함",
-    "dateFilter.errors.OnOrAfterGreaterThanOnOrBefore": "The On or after date must not be later than the On or before date"
+    "dateFilter.errors.OnOrAfterGreaterThanOnOrBefore": "The On or after date must not be later than the On or before date",
+    "licenseCard.primaryOrg": "Primary organization",
+    "organizations.roles": "Roles",
+    "organizations.addRole": "Add role",
+    "organizations.setAsPrimary": "Set as primary organization",
+    "organizations.duplicateOrgError": "<strong>Error:</strong> Organization \"{orgName}\" was not linked because it is already linked.",
+    "orgRoles.remove": "Remove organization role {index}",
+    "orgRoles.orgRoleIndex": "Organization role {index}"
 }

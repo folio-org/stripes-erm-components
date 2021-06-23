@@ -210,5 +210,12 @@
     "dateFilter.onOrBefore": "Le, ou avant le",
     "dateFilter.startDateNotSet": "Inclure {resourceName} sans date de début définie",
     "dateFilter.endDateNotSet": "Inclure {resourceName} sans date de fin définie",
-    "dateFilter.errors.OnOrAfterGreaterThanOnOrBefore": "La date \"le ou après le\" ne doit pas être postérieure à la date \"le ou avant le\""
+    "dateFilter.errors.OnOrAfterGreaterThanOnOrBefore": "La date \"le ou après le\" ne doit pas être postérieure à la date \"le ou avant le\"",
+    "licenseCard.primaryOrg": "Organisation principale",
+    "organizations.roles": "Rôles",
+    "organizations.addRole": "Ajouter un rôle",
+    "organizations.setAsPrimary": "Définir comme organisation principale",
+    "organizations.duplicateOrgError": "<strong> Erreur : </strong> organisation \" {orgName} \" n'a pas été associée car elle l'est déjà.",
+    "orgRoles.remove": "Supprimer le rôle d'organisation {index}",
+    "orgRoles.orgRoleIndex": "Rôle de l'organisation {index}"
 }

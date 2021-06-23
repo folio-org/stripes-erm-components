@@ -210,5 +210,12 @@
     "dateFilter.onOrBefore": "W dniu lub wcześniej",
     "dateFilter.startDateNotSet": "Uwzględnij {resourceName} bez daty rozpoczęcia",
     "dateFilter.endDateNotSet": "Uwzględnij {resourceName} bez daty zakończenia",
-    "dateFilter.errors.OnOrAfterGreaterThanOnOrBefore": "Data w dniu lub po nie może być późniejsza niż data w dniu lub wcześniej"
+    "dateFilter.errors.OnOrAfterGreaterThanOnOrBefore": "Data w dniu lub po nie może być późniejsza niż data w dniu lub wcześniej",
+    "licenseCard.primaryOrg": "Primary organization",
+    "organizations.roles": "Roles",
+    "organizations.addRole": "Add role",
+    "organizations.setAsPrimary": "Set as primary organization",
+    "organizations.duplicateOrgError": "<strong>Error:</strong> Organization \"{orgName}\" was not linked because it is already linked.",
+    "orgRoles.remove": "Remove organization role {index}",
+    "orgRoles.orgRoleIndex": "Organization role {index}"
 }
