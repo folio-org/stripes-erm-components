@@ -210,5 +210,12 @@
     "dateFilter.onOrBefore": "在或之前",
     "dateFilter.startDateNotSet": "包括未设置开始日期的{resourceName}",
     "dateFilter.endDateNotSet": "包括未设置结束日期的{resourceName}",
-    "dateFilter.errors.OnOrAfterGreaterThanOnOrBefore": "在或之后日期不得晚于在或之前日期"
+    "dateFilter.errors.OnOrAfterGreaterThanOnOrBefore": "在或之后日期不得晚于在或之前日期",
+    "licenseCard.primaryOrg": "Primary organization",
+    "organizations.roles": "Roles",
+    "organizations.addRole": "Add role",
+    "organizations.setAsPrimary": "Set as primary organization",
+    "organizations.duplicateOrgError": "<strong>Error:</strong> Organization \"{orgName}\" was not linked because it is already linked.",
+    "orgRoles.remove": "Remove organization role {index}",
+    "orgRoles.orgRoleIndex": "Organization role {index}"
 }
