@@ -210,5 +210,12 @@
     "dateFilter.onOrBefore": "في أو قبل",
     "dateFilter.startDateNotSet": "قم بإدراج {resourceName}  التي لم يتم تعيين تاريخ بدء لها",
     "dateFilter.endDateNotSet": "قم بإدراج {resourceName}  التي لم يتم تعيين تاريخ انتهاء لها",
-    "dateFilter.errors.OnOrAfterGreaterThanOnOrBefore": "يجب ألا يكون تاريخ في أو بعد في تاريخ لاحق لتاريخ في أو قبل"
+    "dateFilter.errors.OnOrAfterGreaterThanOnOrBefore": "يجب ألا يكون تاريخ في أو بعد في تاريخ لاحق لتاريخ في أو قبل",
+    "licenseCard.primaryOrg": "المؤسسة الأساسية",
+    "organizations.roles": "أدوار",
+    "organizations.addRole": "إضافة دور",
+    "organizations.setAsPrimary": "تعيين كمؤسسة أساسية",
+    "organizations.duplicateOrgError": "<strong>خطأ:</strong> لم يتم ربط المؤسسة \"{orgName}\" لأنها مرتبطة بالفعل.",
+    "orgRoles.remove": "إزالة دور المؤسسة {index}",
+    "orgRoles.orgRoleIndex": "دور المؤسسة {index}"
 }

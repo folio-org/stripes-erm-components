@@ -210,5 +210,12 @@
     "dateFilter.onOrBefore": "Em ou antes de",
     "dateFilter.startDateNotSet": "Inclui {resourceName} sem data de início definida",
     "dateFilter.endDateNotSet": "Inclui {resourceName} sem data de término definida",
-    "dateFilter.errors.OnOrAfterGreaterThanOnOrBefore": "A data Em ou após a data não deve ser posterior à data de Em ou antes"
+    "dateFilter.errors.OnOrAfterGreaterThanOnOrBefore": "A data Em ou após a data não deve ser posterior à data de Em ou antes",
+    "licenseCard.primaryOrg": "Organização primária",
+    "organizations.roles": "Funções",
+    "organizations.addRole": "Adicionar função",
+    "organizations.setAsPrimary": "Definir como organização primária",
+    "organizations.duplicateOrgError": "<strong>Erro:</strong> Organização \"{orgName}\" não foi vinculada porque já está vinculada.",
+    "orgRoles.remove": "Remover função da organização {index}",
+    "orgRoles.orgRoleIndex": "Função da organização {index}"
 }
