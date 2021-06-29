@@ -14,7 +14,7 @@
     "doc.noDocs": "未添加文档。",
     "doc.error.docsMustHaveLocationOrURL": "每个文档都必须指定一个文件、馆藏地或URL。",
     "doc.error.invalidURL": "请输入有效的URL（包括“http”或“https”）。",
-    "licenseCard.openEnded": "开放式终止",
+    "licenseCard.openEnded": "开放式",
     "licenseCard.notSet": "未设置",
     "licenseCard.type": "类型",
     "licenseCard.status": "状态",
@@ -206,9 +206,16 @@
     "recordNumber": "记录号： {recordNumber}",
     "dateFilter.startDate": "起始日期",
     "dateFilter.endDate": "终止日期",
-    "dateFilter.onOrAfter": "在或之后",
-    "dateFilter.onOrBefore": "在或之前",
+    "dateFilter.onOrAfter": "在或之后（≥）",
+    "dateFilter.onOrBefore": "在或之前（≤）",
     "dateFilter.startDateNotSet": "包括未设置开始日期的{resourceName}",
     "dateFilter.endDateNotSet": "包括未设置结束日期的{resourceName}",
-    "dateFilter.errors.OnOrAfterGreaterThanOnOrBefore": "在或之后日期不得晚于在或之前日期"
+    "dateFilter.errors.OnOrAfterGreaterThanOnOrBefore": "在或之后日期不得晚于在或之前日期",
+    "licenseCard.primaryOrg": "主要组织",
+    "organizations.roles": "角色",
+    "organizations.addRole": "添加角色",
+    "organizations.setAsPrimary": "设为主要组织",
+    "organizations.duplicateOrgError": "<strong>错误： </strong>组织“ {orgName} ”未链接，因为它已链接。",
+    "orgRoles.remove": "移除组织角色{index}",
+    "orgRoles.orgRoleIndex": "组织角色{index}"
 }
