@@ -52,3 +52,6 @@ export { default as handleSaveKeyCommand } from './lib/keyboardShortcutHandlers'
 
 // Shared registry components/functions
 export { default as InternalContactsArrayDisplay } from './lib/InternalContactsArrayDisplay';
+
+// customHooks
+export { useHandleSubmitSearch } from './lib/hooks';
