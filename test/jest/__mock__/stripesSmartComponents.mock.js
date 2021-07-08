@@ -9,6 +9,7 @@ jest.mock('@folio/stripes/smart-components', () => ({
     totalCount: () => props?.resources?.[resourceName]?.other?.totalRecords ?? undefined,
     update: jest.fn(),
     loaded: jest.fn(),
-    records: () => props?.resources?.[resourceName]?.records ?? []
+    records: () => props?.resources?.[resourceName]?.records ?? [],
+    pending: () => jest.fn()
   })
 }), { virtual: true });
