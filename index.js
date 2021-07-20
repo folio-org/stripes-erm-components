@@ -42,6 +42,7 @@ export { default as getResourceIdentifier } from './lib/getResourceIdentifier';
 export { default as isPackage } from './lib/isPackage';
 export { default as renderUserName } from './lib/renderUserName';
 export { default as preventResourceRefresh } from './lib/preventResourceRefresh';
+export { default as ermDefaultKeyboardShortcuts } from './lib/ermDefaultKeyboardShortcuts';
 export {
   composeValidators,
   invalidNumber as invalidNumberValidator,

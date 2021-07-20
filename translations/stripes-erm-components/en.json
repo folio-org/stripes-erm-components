@@ -253,5 +253,12 @@
   "newTagCreated": "New tag created",
 
   "no": "No",
-  "yes": "Yes"
+  "yes": "Yes",
+
+  "shortcut.openShortcutModal": "Open keyboard shortcuts modal",
+  "shortcut.closeModal": "Close a modal or pop-up",
+  "shortcut.copy": "Copy",
+  "shortcut.cut": "Cut",
+  "shortcut.paste": "Paste",
+  "shortcut.find": "Find"
 }
