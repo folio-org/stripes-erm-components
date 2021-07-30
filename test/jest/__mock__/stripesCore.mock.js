@@ -81,12 +81,10 @@ jest.mock('@folio/stripes/core', () => {
     return <Component {...rest} stripes={fakeStripes} />;
   };
 
-  const useStripes = ({ ...STRIPES, connect: Component => stripesConnect(Component) });
-
   return {
     ...jest.requireActual('@folio/stripes/core'),
     stripesConnect,
-    useStripes,
+    useStripes: () => STRIPES,
     withStripes,
     IfPermission: props => <>{props.children}</>,
     Pluggable: props => <>{props.children}</>,
