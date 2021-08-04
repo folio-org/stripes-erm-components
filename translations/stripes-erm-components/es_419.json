@@ -184,8 +184,8 @@
     "operator.isNotSet": "no está establecido",
     "operator.contains": "contiene",
     "operator.doesNotContain": "no contiene",
-    "package": "Package",
-    "title": "Title",
+    "package": "Paquete",
+    "title": "Título.",
     "organizations.note": "Note",
     "embargo": "Embargo",
     "embargo.start": "Moving wall start: ",
@@ -211,11 +211,11 @@
     "dateFilter.startDateNotSet": "Include {resourceName} with no start date set",
     "dateFilter.endDateNotSet": "Include {resourceName} with no end date set",
     "dateFilter.errors.OnOrAfterGreaterThanOnOrBefore": "The On or after date must not be later than the On or before date",
-    "licenseCard.primaryOrg": "Primary organization",
+    "licenseCard.primaryOrg": "Organización principal",
     "organizations.roles": "Roles",
-    "organizations.addRole": "Add role",
-    "organizations.setAsPrimary": "Set as primary organization",
+    "organizations.addRole": "Agregar rol",
+    "organizations.setAsPrimary": "Establecer como organización principal",
     "organizations.duplicateOrgError": "<strong>Error:</strong> Organization \"{orgName}\" was not linked because it is already linked.",
-    "orgRoles.remove": "Remove organization role {index}",
-    "orgRoles.orgRoleIndex": "Organization role {index}"
+    "orgRoles.remove": "Eliminar el rol de la organización {índice}",
+    "orgRoles.orgRoleIndex": "Rol de la organización {índice}"
 }
