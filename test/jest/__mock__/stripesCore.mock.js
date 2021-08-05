@@ -86,7 +86,10 @@ jest.mock('@folio/stripes/core', () => {
     stripesConnect,
     useStripes: () => STRIPES,
     withStripes,
-    IfPermission: props => <>{props.children}</>,
+    IfPermission: ({ children }) => {
+      return typeof children === 'function' ?
+        children({ hasPermission: true }) : <>{children}</>;
+    },
     Pluggable: props => <>{props.children}</>,
   };
 }, { virtual: true });
