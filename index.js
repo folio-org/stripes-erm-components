@@ -54,4 +54,4 @@ export { default as handleSaveKeyCommand } from './lib/keyboardShortcutHandlers'
 export { default as InternalContactsArrayDisplay } from './lib/InternalContactsArrayDisplay';
 
 // customHooks
-export { useHandleSubmitSearch } from './lib/hooks';
+export { useHandleSubmitSearch, useComposedRefs } from './lib/hooks';
