@@ -15,7 +15,8 @@
   "scripts": {
     "test": "stripes test karma",
     "lint": "eslint lib tests",
-    "test:unit": "jest --ci --coverage"
+    "test:unit": "jest --ci --coverage",
+    "formatjs-compile": "formatjs compile-folder --ast --format simple ./translations/stripes-erm-components ./translations/stripes-erm-components/compiled"
   },
   "devDependencies": {
     "@babel/plugin-proposal-class-properties": "^7.12.1",
@@ -28,8 +29,8 @@
     "@bigtest/react": "^0.1.2",
     "@folio/eslint-config-stripes": "^5.1.0",
     "@folio/stripes": "^6.0.0",
-    "jest-css-modules-transform": "^4.0.0",
     "@folio/stripes-cli": "^2.0.0",
+    "@formatjs/cli": "^4.2.31",
     "@testing-library/dom": "^7.26.5",
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.1",
@@ -51,6 +52,7 @@
     "inflected": "^2.0.4",
     "jest": "^26.6.3",
     "jest-css-modules": "^2.1.0",
+    "jest-css-modules-transform": "^4.0.0",
     "jest-junit": "^12.0.0",
     "miragejs": "^0.1.40",
     "react": "^16.6.3",
@@ -74,8 +76,8 @@
     "@folio/stripes": "^6.0.0",
     "react": "*",
     "react-intl": "^5.8.1",
-    "react-router-dom": "^5.2.0",
-    "react-query": "^3.9.0"
+    "react-query": "^3.9.0",
+    "react-router-dom": "^5.2.0"
   },
   "stripes": {
     "actsAs": [
