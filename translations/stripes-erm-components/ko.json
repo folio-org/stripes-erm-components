@@ -92,7 +92,7 @@
     "customProperty.internalNote": "Internal note",
     "customProperty.internalTrue": "내부의",
     "customProperty.publicNote": "Public note",
-    "customProperty.remove": "{유형, 선택, 용어 {Term} supplementaryProperty {supplementary property}} 제거",
+    "customProperty.remove": "{type, select, term {용어} supplementaryProperty {supplementary property} other {none}} 제거",
     "customProperty.supplementaryPropertyTitle": "속성 {number}",
     "customProperty.termTitle": "조건",
     "customProperty.value": "값",

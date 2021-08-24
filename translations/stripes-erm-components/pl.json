@@ -92,7 +92,7 @@
     "customProperty.internalNote": "Uwaga wewnętrzna",
     "customProperty.internalTrue": "Wewnętrzne",
     "customProperty.publicNote": "Uwaga publiczna",
-    "customProperty.remove": "Usuń {type, select, term {Warunek } właściwość dodatkową {supplementary property}}",
+    "customProperty.remove": "Usuń {type, select, term {Warunek }  supplementaryProperty {właściwość dodatkową} other {none}}",
     "customProperty.supplementaryPropertyTitle": "Właściwość {number}",
     "customProperty.termTitle": "Warunek {number}",
     "customProperty.value": "Wartość",
