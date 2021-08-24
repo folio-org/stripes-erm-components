@@ -92,7 +92,7 @@
     "customProperty.internalNote": "ملاحظة داخلية",
     "customProperty.internalTrue": "داخلية",
     "customProperty.publicNote": "ملاحظة عامة",
-    "customProperty.remove": "إزالة {type, select, term {Term} supplementaryProperty {supplementary property}}",
+    "customProperty.remove": "إزالة{type, select, term {مصطلح} supplementaryProperty {خاصية تكميلية} other {لا شيء}}",
     "customProperty.supplementaryPropertyTitle": "الخاصية {number}",
     "customProperty.termTitle": "المصطلح {number}",
     "customProperty.value": "القيمة",

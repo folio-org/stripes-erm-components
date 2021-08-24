@@ -208,14 +208,14 @@
     "dateFilter.endDate": "Enddatum",
     "dateFilter.onOrAfter": "Am oder nach",
     "dateFilter.onOrBefore": "Am oder vor",
-    "dateFilter.startDateNotSet": "Include {resourceName} with no start date set",
-    "dateFilter.endDateNotSet": "Include {resourceName} with no end date set",
+    "dateFilter.startDateNotSet": "{resourceName} ohne festgelegtes Startdatum einschließen",
+    "dateFilter.endDateNotSet": "{resourceName} ohne festgelegtes Enddatum einschließen",
     "dateFilter.errors.OnOrAfterGreaterThanOnOrBefore": "Das Am- oder Nachdatum darf nicht später als das An- oder Vordatum sein",
-    "licenseCard.primaryOrg": "Primary organization",
-    "organizations.roles": "Roles",
-    "organizations.addRole": "Add role",
-    "organizations.setAsPrimary": "Set as primary organization",
-    "organizations.duplicateOrgError": "<strong>Error:</strong> Organization \"{orgName}\" was not linked because it is already linked.",
-    "orgRoles.remove": "Remove organization role {index}",
-    "orgRoles.orgRoleIndex": "Organization role {index}"
+    "licenseCard.primaryOrg": "Primäre Organisation",
+    "organizations.roles": "Rollen",
+    "organizations.addRole": "Rolle hinzufügen",
+    "organizations.setAsPrimary": "Als primäre Organisation festlegen",
+    "organizations.duplicateOrgError": "<strong>Fehler:</strong> Organisation \"{orgName}\" wurde nicht verknüpft, da diese bereits verknüpft ist.",
+    "orgRoles.remove": "Organisationsrolle {index} entfernen",
+    "orgRoles.orgRoleIndex": "Organisationsrolle {index}"
 }
