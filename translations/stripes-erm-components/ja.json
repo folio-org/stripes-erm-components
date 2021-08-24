@@ -92,7 +92,7 @@
     "customProperty.internalNote": "内部ノート",
     "customProperty.internalTrue": "内部",
     "customProperty.publicNote": "公開ノート",
-    "customProperty.remove": "{type、select、term {Term} supplementaryProperty {supplementary property}}を削除します",
+    "customProperty.remove": "{type, select, term {Term} supplementaryProperty {supplementary property} other {none}}を削除します",
     "customProperty.supplementaryPropertyTitle": "Property {number}",
     "customProperty.termTitle": "Term {number}",
     "customProperty.value": "値",

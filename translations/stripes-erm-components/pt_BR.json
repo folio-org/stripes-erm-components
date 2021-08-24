@@ -92,7 +92,7 @@
     "customProperty.internalNote": "Nota interna",
     "customProperty.internalTrue": "Interno",
     "customProperty.publicNote": "Nota pública",
-    "customProperty.remove": "Remova {type, select, term {Termo} supplementaryProperty {propriedade suplementar}}",
+    "customProperty.remove": "Remova {type, select, term {Termo} supplementaryProperty {propriedade suplementar} other {none}}",
     "customProperty.supplementaryPropertyTitle": "Propriedade {number}",
     "customProperty.termTitle": "Termo {number}",
     "customProperty.value": "Valor",

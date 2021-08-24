@@ -92,7 +92,7 @@
     "customProperty.internalNote": "Interne Notiz",
     "customProperty.internalTrue": "Intern",
     "customProperty.publicNote": "Öffentliche Notiz",
-    "customProperty.remove": "{type, select, term {Term} supplementaryProperty {supplementary property}} entfernen",
+    "customProperty.remove": "{type, select, term {Term} supplementaryProperty {supplementary property} other {none}} entfernen",
     "customProperty.supplementaryPropertyTitle": "Eigenschaft {number}",
     "customProperty.termTitle": "Bedingung {number}",
     "customProperty.value": "Wert",
