@@ -14,3 +14,4 @@ return <LicenseEndDate license={license} />;
 | Name | Type | Description | Required | Default |
 --- | --- | --- | --- | --- |
 | `license` | object | [`License`](https://github.com/folio-org/mod-licenses/blob/master/service/grails-app/domain/org/olf/licenses/License.groovy) | Yes |
+| `renderNullIfEmpty` | bool | Renders null, specificaly used when empty cell is to be renderd in an MCL instead of a hyphen | No | false
