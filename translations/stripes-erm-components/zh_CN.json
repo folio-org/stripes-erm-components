@@ -92,7 +92,7 @@
     "customProperty.internalNote": "内部附注",
     "customProperty.internalTrue": "内部",
     "customProperty.publicNote": "公共附注",
-    "customProperty.remove": "删除{type, select, term {条款} supplementaryProperty {补充属性} other {none}}",
+    "customProperty.remove": "移除{type, select, term {条款} supplementaryProperty {补充属性} other {无}}",
     "customProperty.supplementaryPropertyTitle": "属性{number}",
     "customProperty.termTitle": "条款{number}",
     "customProperty.value": "值",
