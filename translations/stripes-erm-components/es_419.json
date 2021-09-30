@@ -216,6 +216,6 @@
     "organizations.addRole": "Agregar rol",
     "organizations.setAsPrimary": "Establecer como organización principal",
     "organizations.duplicateOrgError": "<strong>Error:</strong> Organization \"{orgName}\" was not linked because it is already linked.",
-    "orgRoles.remove": "Eliminar el rol de la organización {índice}",
-    "orgRoles.orgRoleIndex": "Rol de la organización {índice}"
+    "orgRoles.remove": "Eliminar el rol de la organización {index}",
+    "orgRoles.orgRoleIndex": "Rol de la organización {index}"
 }
