@@ -91,5 +91,8 @@ jest.mock('@folio/stripes/core', () => {
         children({ hasPermission: true }) : <>{children}</>;
     },
     Pluggable: props => <>{props.children}</>,
+    TitleManager: jest.fn(({ children, ...rest }) => (
+      <span {...rest}>{children}</span>
+    )),
   };
 }, { virtual: true });
