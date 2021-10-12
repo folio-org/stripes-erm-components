@@ -1,6 +1,11 @@
 # Change history for stripes-erm-components
 
-## 5.2.0 IN PROGRESS
+## 6.0.0 2021-10-06
+* Fixed bug with error on saving license/agreement if a change in made to the visibility (internal) flag of a primary property without populating it. ERM-1770 ERM-1771
+* Upgrade to Stripes v7.
+* Improved a11y and focus management. ERM-1826
+* Added sort capability on license type by label. ERM-1693
+* Added support for multiple roles per organisation in Agreements and Licenses. ERM-1540 ERM-1541
 
 ## 5.1.0 2021-06-04
 * Added FormattedDateTime/InternalContactsArrayDisplay components ERM-1682/ERM-1683/ERM-1684
