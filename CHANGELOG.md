@@ -1,5 +1,7 @@
 # Change history for stripes-erm-components
 
+## 6.1.0 In progress
+
 ## 6.0.0 2021-10-06
 * Fixed bug with error on saving license/agreement if a change in made to the visibility (internal) flag of a primary property without populating it. ERM-1770 ERM-1771
 * Upgrade to Stripes v7.
