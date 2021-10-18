@@ -28,6 +28,7 @@ export { default as OrganizationSelection } from './lib/OrganizationSelection';
 export { default as SerialCoverage } from './lib/SerialCoverage';
 export { default as Tags } from './lib/Tags';
 export { default as TitleOnPlatformLink } from './lib/TitleOnPlatformLink';
+export { default as CustomMetaSection } from './lib/CustomMetaSection';
 
 // HOCs
 export { default as withAsyncValidation } from './lib/withAsyncValidation';
