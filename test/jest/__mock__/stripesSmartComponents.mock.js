@@ -4,6 +4,8 @@ jest.mock('@folio/stripes/smart-components', () => ({
   ...jest.requireActual('@folio/stripes/smart-components'),
   LocationLookup: () => <div>LocationLookup</div>,
   ViewMetaData: () => <div>ViewMetaData</div>,
+  NotesSmartAccordion: () => <div>NotesSmartAccordion</div>,
+  ControlledVocab: () => <div>ControlledVocab</div>,
   StripesConnectedSource: (props, logger, resourceName) => ({
     fetchMore: jest.fn(val => val),
     totalCount: () => props?.resources?.[resourceName]?.other?.totalRecords ?? undefined,
