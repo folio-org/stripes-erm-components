@@ -43,7 +43,7 @@ jest.mock('@folio/stripes/core', () => {
   };
 
   const stripesConnect = (Component, options) => ({ mutator, resources, stripes, ...rest }) => {
-    const fakeMutator = mutator || Object.keys(Component.manifest).reduce((acc, mutatorName) => {
+    const fakeMutator = mutator || (Component.manifest ? Object.keys(Component.manifest) : []).reduce((acc, mutatorName) => {
       const returnValue = Component.manifest[mutatorName].records ? [] : {};
 
       acc[mutatorName] = {
@@ -57,7 +57,7 @@ jest.mock('@folio/stripes/core', () => {
       return acc;
     }, {});
 
-    const fakeResources = resources || Object.keys(Component.manifest).reduce((acc, resourceName) => {
+    const fakeResources = resources || (Component.manifest ? Object.keys(Component.manifest) : []).reduce((acc, resourceName) => {
       if (options?.resources?.[resourceName]) {
         acc[resourceName] = options.resources[resourceName];
       } else {
@@ -94,5 +94,6 @@ jest.mock('@folio/stripes/core', () => {
     TitleManager: jest.fn(({ children, ...rest }) => (
       <span {...rest}>{children}</span>
     )),
+    HandlerManager: () => <div>HandlerManager</div>
   };
 }, { virtual: true });
