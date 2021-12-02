@@ -1,3 +1,4 @@
+import './createObjectURL.mock';
 import './currencyData.mock';
 import './matchMedia.mock';
 import './stripesConfig.mock';
