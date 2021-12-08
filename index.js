@@ -1,4 +1,5 @@
 // Components
+export { default as ActionMenu } from './lib/ActionMenu';
 export { default as AlternativeNamesFieldArray } from './lib/AlternativeNamesFieldArray';
 export { default as Card } from './lib/Card';
 export { default as CustomPropertiesConfigListFieldArray } from './lib/CustomPropertiesConfigListFieldArray';

@@ -1,0 +1,5 @@
+@import '@folio/stripes-components/lib/variables.css';
+
+button.actionMenuToggle {
+  margin: 0 var(--gutter-static-one-third);
+}
