@@ -10,6 +10,7 @@
   "alternativeNames.addAlternativeName": "Add alternative name",
   "infoLogNo": "No information notices for this job.",
   "errorLogNo": "No errors to report.",
+  "canvas.actions": "Actions",
   "columns.errorLogMessage": "Error",
   "columns.infoLogMessage": "Message",
   "columns.recordDescriptor": "Record descriptor",
