@@ -217,5 +217,6 @@
     "organizations.setAsPrimary": "تعيين كمؤسسة أساسية",
     "organizations.duplicateOrgError": "<strong>خطأ:</strong> لم يتم ربط المؤسسة \"{orgName}\" لأنها مرتبطة بالفعل.",
     "orgRoles.remove": "إزالة دور المؤسسة {index}",
-    "orgRoles.orgRoleIndex": "دور المؤسسة {index}"
+    "orgRoles.orgRoleIndex": "دور المؤسسة {index}",
+    "canvas.actions": "الإجراءات"
 }
