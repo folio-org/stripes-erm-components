@@ -217,5 +217,6 @@
     "organizations.setAsPrimary": "设为主要组织",
     "organizations.duplicateOrgError": "<strong>错误： </strong>组织“ {orgName} ”未链接，因为它已链接。",
     "orgRoles.remove": "移除组织角色{index}",
-    "orgRoles.orgRoleIndex": "组织角色{index}"
+    "orgRoles.orgRoleIndex": "组织角色{index}",
+    "canvas.actions": "Actions"
 }
