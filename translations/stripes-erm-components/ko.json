@@ -217,5 +217,6 @@
     "organizations.setAsPrimary": "기본 공급사로 설정",
     "organizations.duplicateOrgError": "<strong> 오류: </strong> \" {orgName} \" 공급사가 이미 연결되어 있으므로 연결되지 않았습니다.",
     "orgRoles.remove": "공급사 역할 {index} 제거",
-    "orgRoles.orgRoleIndex": "조직 역할 {index}"
+    "orgRoles.orgRoleIndex": "조직 역할 {index}",
+    "canvas.actions": "Actions"
 }

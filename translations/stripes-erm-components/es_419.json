@@ -217,5 +217,6 @@
     "organizations.setAsPrimary": "Establecer como organización principal",
     "organizations.duplicateOrgError": "<strong>Error:</strong> Organization \"{orgName}\" was not linked because it is already linked.",
     "orgRoles.remove": "Eliminar el rol de la organización {index}",
-    "orgRoles.orgRoleIndex": "Rol de la organización {index}"
+    "orgRoles.orgRoleIndex": "Rol de la organización {index}",
+    "canvas.actions": "Actions"
 }
