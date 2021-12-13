@@ -217,5 +217,6 @@
     "organizations.setAsPrimary": "Als primäre Organisation festlegen",
     "organizations.duplicateOrgError": "<strong>Fehler:</strong> Organisation \"{orgName}\" wurde nicht verknüpft, da diese bereits verknüpft ist.",
     "orgRoles.remove": "Organisationsrolle {index} entfernen",
-    "orgRoles.orgRoleIndex": "Organisationsrolle {index}"
+    "orgRoles.orgRoleIndex": "Organisationsrolle {index}",
+    "canvas.actions": "Aktionen"
 }
