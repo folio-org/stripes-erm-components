@@ -218,5 +218,5 @@
     "organizations.duplicateOrgError": "<strong>错误： </strong>组织“ {orgName} ”未链接，因为它已链接。",
     "orgRoles.remove": "移除组织角色{index}",
     "orgRoles.orgRoleIndex": "组织角色{index}",
-    "canvas.actions": "Actions"
+    "canvas.actions": "操作"
 }
