@@ -43,6 +43,7 @@ export { default as getSiblingIdentifier } from './lib/getSiblingIdentifier';
 export { default as getResourceIdentifier } from './lib/getResourceIdentifier';
 export { default as isPackage } from './lib/isPackage';
 export { default as renderUserName } from './lib/renderUserName';
+
 export { default as preventResourceRefresh } from './lib/preventResourceRefresh';
 export {
   composeValidators,
@@ -54,6 +55,7 @@ export { default as handleSaveKeyCommand } from './lib/keyboardShortcutHandlers'
 
 // Shared registry components/functions
 export { default as InternalContactsArrayDisplay } from './lib/InternalContactsArrayDisplay';
+export { default as OrganizationsArrayDisplay } from './lib/OrganizationsArrayDisplay';
 
 // customHooks
 export { useHandleSubmitSearch, useComposedRefs } from './lib/hooks';
