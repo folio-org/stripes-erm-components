@@ -1,5 +1,7 @@
 # Change history for stripes-erm-components
 
+## 6.2.0 In progress
+
 ## 6.1.0 2022-03-02
 * ERM-1949 ERM-1950 Added ActionMenu Component
 * ERM-1928 Limit alternative names to 255 characters in UI
