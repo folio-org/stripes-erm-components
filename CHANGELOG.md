@@ -1,8 +1,13 @@
 # Change history for stripes-erm-components
 
-## 6.1.0 In progress
-
-* Upgrade `@folio/react-intl-safe-html` for compatibility with `@folio/stripes` `v7`. ERM-1897
+## 6.1.0 2022-03-02
+* ERM-1949 ERM-1950 Added ActionMenu Component
+* ERM-1928 Limit alternative names to 255 characters in UI
+* ERM-1901 Use formattedNumber for custom properties with Integer type
+* ERM-1897 Upgrade `@folio/react-intl-safe-html` for compatibility with `@folio/stripes` `v7`.
+* ERM-1744 ERM-1745 Add Organisations to Agreements/Licenses simple search widget definition
+* ERM-1700 Apply a four column layout to the User card for agreements and licenses and add link to Name
+* Tweaks to useComposedRefs
 
 ## 6.0.0 2021-10-06
 * Fixed bug with error on saving license/agreement if a change in made to the visibility (internal) flag of a primary property without populating it. ERM-1770 ERM-1771
