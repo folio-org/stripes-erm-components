@@ -14,7 +14,7 @@
     "doc.noDocs": "문서가 추가되지 않았습니다.",
     "doc.error.docsMustHaveLocationOrURL": "각 문서는 파일, 위치 또는 URL을 지정해야합니다.",
     "doc.error.invalidURL": "유효한 URL ( \"http\"또는 \"https\"포함)을 입력하십시오.",
-    "licenseCard.openEnded": "Open ended",
+    "licenseCard.openEnded": "기한없음",
     "licenseCard.notSet": "설정되지 않음",
     "licenseCard.type": "유형",
     "licenseCard.status": "상태",
@@ -218,5 +218,5 @@
     "organizations.duplicateOrgError": "<strong> 오류: </strong> \" {orgName} \" 공급사가 이미 연결되어 있으므로 연결되지 않았습니다.",
     "orgRoles.remove": "공급사 역할 {index} 제거",
     "orgRoles.orgRoleIndex": "조직 역할 {index}",
-    "canvas.actions": "Actions"
+    "canvas.actions": "작업"
 }
