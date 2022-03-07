@@ -4,12 +4,19 @@
   "rules": {
     "react/jsx-curly-newline": "off",
     "react/jsx-sort-props": "error",
-    "react/state-in-constructor": "off"
+    "react/state-in-constructor": "off",
+    "testing-library/await-async-query": "error",
+    "testing-library/no-await-sync-query": "error",
+    "testing-library/no-debug": "warn",
+    "jest-dom/prefer-checked": "error",
+    "jest-dom/prefer-enabled-disabled": "error",
+    "jest-dom/prefer-required": "error",
+    "jest-dom/prefer-to-have-attribute": "error"
   },
   "env": {
     "jest/globals": true
   },
-  "plugins": ["babel", "jest"],
+  "plugins": ["babel", "jest", "testing-library", "jest-dom"],
   "overrides": [
     {
       "files": ["lib/**/tests/*", "tests/**"],

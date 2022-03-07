@@ -13,11 +13,16 @@
     "node": ">=10.0.0"
   },
   "scripts": {
-    "test": "stripes test karma",
+    "test": "yarn run test:bigtest",
+    "test:bigtest": "stripes test karma --bundle --karma.singleRun --karma.browsers ChromeDocker --karma.reporters mocha junit --coverage",
+    "test:jest": "jest --ci --coverage",
     "lint": "eslint lib tests",
     "formatjs-compile": "formatjs compile-folder --ast --format simple ./translations/stripes-erm-components ./translations/stripes-erm-components/compiled"
   },
   "devDependencies": {
+    "sinon": "^9.0.2",
+    "react-query": "^3.6.0",
+    "@folio/stripes-testing": "^4.2.0",
     "@babel/plugin-proposal-class-properties": "^7.12.1",
     "@babel/plugin-proposal-decorators": "^7.12.1",
     "@babel/plugin-transform-runtime": "^7.12.1",
@@ -60,6 +65,8 @@
     "react-router-dom": "^5.2.0"
   },
   "dependencies": {
+    "@folio/stripes-testing": "^4.2.0",
+    "@testing-library/react": "^12.1.2",
     "@folio/react-intl-safe-html": "^3.1.0",
     "final-form": "^4.18.4",
     "final-form-arrays": "^3.0.1",
