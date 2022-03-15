@@ -2,7 +2,7 @@ import translations from '../../translations/stripes-erm-components/en';
 
 const translationsProperties = [
   {
-    prefix: 'ui-erm-comparisons',
+    prefix: 'stripes-erm-components',
     translations,
   },
   {
