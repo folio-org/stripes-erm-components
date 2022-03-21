@@ -37,7 +37,7 @@
     "@formatjs/cli": "^4.2.31",
     "@testing-library/dom": "^7.26.5",
     "@testing-library/jest-dom": "^5.11.5",
-    "@testing-library/react": "^12.1.2",
+    "@testing-library/react": "^11.1.1",
     "@testing-library/user-event": "^12.2.0",
     "babel-eslint": "^10.0.0",
     "babel-jest": "^26.6.3",
