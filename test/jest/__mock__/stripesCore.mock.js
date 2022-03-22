@@ -84,6 +84,11 @@ jest.mock('@folio/stripes/core', () => {
     ...jest.requireActual('@folio/stripes/core'),
     stripesConnect,
     useStripes: () => STRIPES,
+    useOkapiKy: jest.fn().mockReturnValue({
+      delete: () => Promise.resolve(),
+      post: () => Promise.resolve(),
+      put: () => Promise.resolve()
+    }),
     withStripes,
     IfPermission: ({ children }) => {
       return typeof children === 'function' ?
