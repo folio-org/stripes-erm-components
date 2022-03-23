@@ -1,10 +1,12 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import { IntlProvider } from 'react-intl';
+import { QueryClient, QueryClientProvider } from 'react-query'
 
 import translations from '../../../translations/stripes-erm-components/en';
 import prefixKeys from './prefixKeys';
 import mockOffsetSize from './mockOffsetSize';
+
 
 export default function Harness({
   children,
@@ -13,6 +15,7 @@ export default function Harness({
   width = 500,
   height = 500,
 }) {
+  const queryClient = new QueryClient();
   const allTranslations = prefixKeys(translations);
 
   translationsConfig.forEach(tx => {
@@ -24,15 +27,17 @@ export default function Harness({
   }
 
   return (
-    <IntlProvider
-      key="en"
-      locale="en"
-      messages={allTranslations}
-      onError={() => {}}
-      timeZone="UTC"
-    >
-      {children}
-    </IntlProvider>
+    <QueryClientProvider client={queryClient}>
+      <IntlProvider
+        key="en"
+        locale="en"
+        messages={allTranslations}
+        onError={() => {}}
+        timeZone="UTC"
+      >
+        {children}
+      </IntlProvider>
+    </QueryClientProvider>
   );
 }
 
