@@ -9,9 +9,9 @@
     "doc.location": "保管場所",
     "doc.url": "URL",
     "doc.note": "ノート",
-    "doc.addDoc": "Add  document",
+    "doc.addDoc": "Add document",
     "doc.name": "名称",
-    "doc.noDocs": "No  documents have been added.",
+    "doc.noDocs": "No documents have been added.",
     "doc.error.docsMustHaveLocationOrURL": "Each document must specify a file, location, or URL.",
     "doc.error.invalidURL": "Please enter a valid URL (including \"http\" or \"https\").",
     "licenseCard.openEnded": "終了日なし",
@@ -218,5 +218,5 @@
     "organizations.duplicateOrgError": "<strong>Error:</strong> Organization \"{orgName}\" was not linked because it is already linked.",
     "orgRoles.remove": "Remove organization role {index}",
     "orgRoles.orgRoleIndex": "Organization role {index}",
-    "canvas.actions": "Actions"
+    "canvas.actions": "アクション"
 }
