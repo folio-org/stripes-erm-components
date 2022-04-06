@@ -1,5 +1,8 @@
 # Change history for stripes-erm-components
 
+## 6.1.1 2022-04-06
+* ERM-2065 Error on opening Tags panel after creating new agreement line with eHoldings resource
+* ERM-2051 Primary properties are listed in drop-down for optional properties (Terms in Licenses and Supplementary Properties in Agreements)
 ## 6.1.0 2022-03-02
 * ERM-1949 ERM-1950 Added ActionMenu Component
 * ERM-1928 Limit alternative names to 255 characters in UI
