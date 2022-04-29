@@ -1,6 +1,6 @@
 {
-  "parser": "babel-eslint",
   "extends": "@folio/eslint-config-stripes",
+  "parser": "@babel/eslint-parser",
   "rules": {
     "react/jsx-curly-newline": "off",
     "react/jsx-sort-props": "error",
