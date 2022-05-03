@@ -69,5 +69,6 @@ export {
   useComposedRefs,
   useTags,
   useInfiniteFetch,
-  useBatchedFetch
+  useBatchedFetch,
+  useUsers
 } from './lib/hooks';
