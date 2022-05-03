@@ -64,4 +64,9 @@ export { default as InternalContactsArrayDisplay } from './lib/InternalContactsA
 export { default as OrganizationsArrayDisplay } from './lib/OrganizationsArrayDisplay';
 
 // customHooks
-export { useHandleSubmitSearch, useComposedRefs, useTags } from './lib/hooks';
+export {
+  useHandleSubmitSearch,
+  useComposedRefs,
+  useTags,
+  useInfiniteFetch
+} from './lib/hooks';
