@@ -68,5 +68,6 @@ export {
   useHandleSubmitSearch,
   useComposedRefs,
   useTags,
-  useInfiniteFetch
+  useInfiniteFetch,
+  useBatchedFetch
 } from './lib/hooks';
