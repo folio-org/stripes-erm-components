@@ -14,7 +14,7 @@
   },
   "scripts": {
     "test": "yarn run test:jest && yarn run test:bigtest",
-    "test:bigtest": "stripes test karma --bundle --karma.singleRun --karma.browsers ChromeDocker --karma.reporters mocha junit --coverage",
+    "test:bigtest": "stripes test karma --bundle",
     "test:jest": "jest --ci --coverage",
     "lint": "eslint lib tests",
     "formatjs-compile": "formatjs compile-folder --ast --format simple ./translations/stripes-erm-components ./translations/stripes-erm-components/compiled"
