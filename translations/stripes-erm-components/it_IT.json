@@ -101,7 +101,7 @@
     "customProperties.description": "Descrizione",
     "customProperties.label": "Etichetta",
     "customProperties.name": "Nome",
-    "customProperties.orderWeight": "Peso perl'ordinamento",
+    "customProperties.orderWeight": "Peso per l'ordinamento",
     "customProperties.pickList": "Lista di selezione",
     "customProperties.supplementaryProperty.add": "Aggiungi proprietà",
     "customProperties.supplementaryProperty.edit": "Modifica proprietà supplementare",
