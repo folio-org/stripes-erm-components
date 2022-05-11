@@ -1,5 +1,8 @@
 # Change history for stripes-erm-components
 
+## 2022-05-11
+* ERM-1315 Deprecate `<CustomPropertiesConfigListFieldArray>`, `<CustomPropertyField>` , `<CustomPropertyFieldEdit>` and `<CustomPropertyFieldView>`
+
 ## 6.2.0 In progress
 * ERM-2095 Replace babel-eslint with @babel/eslint-parser
 
