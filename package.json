@@ -14,7 +14,7 @@
   },
   "scripts": {
     "test": "yarn run test:jest && yarn run test:bigtest",
-    "test:bigtest": "stripes test karma --bundle --karma.singleRun --karma.browsers ChromeDocker --karma.reporters mocha junit --coverage",
+    "test:bigtest": "stripes test karma --bundle",
     "test:jest": "jest --ci --coverage",
     "lint": "eslint lib tests",
     "formatjs-compile": "formatjs compile-folder --ast --format simple ./translations/stripes-erm-components ./translations/stripes-erm-components/compiled"
@@ -67,7 +67,7 @@
   "dependencies": {
     "@folio/stripes-testing": "^4.2.0",
     "@testing-library/react": "^12.1.2",
-    "@folio/react-intl-safe-html": "^3.1.0",
+    "@k-int/stripes-kint-components": "^2.4.0",
     "final-form": "^4.18.4",
     "final-form-arrays": "^3.0.1",
     "lodash": "^4.17.4",
