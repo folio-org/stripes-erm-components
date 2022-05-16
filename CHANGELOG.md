@@ -4,6 +4,7 @@
 * ERM-2095 Replace babel-eslint with @babel/eslint-parser
 * Deprecate `<Card>`, `<CustomPropertiesList>` in preparation for removal in a future release
 * ERM-1315 Deprecate `<CustomPropertiesConfigListFieldArray>`, `<CustomPropertyField>` , `<CustomPropertyFieldEdit>` and `<CustomPropertyFieldView>`
+* Deprecate `<CustomPropertyFilters>`, `<CustomPropertyFiltersForm>`, `<CustomPropertyRule>`, `<getValueProps>` and `<getOperators>` in preparation for removal in a future release
 
 ## 6.1.0 2022-03-02
 * ERM-1949 ERM-1950 Added ActionMenu Component
