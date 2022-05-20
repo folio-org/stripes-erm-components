@@ -70,5 +70,6 @@ export {
   useTags,
   useInfiniteFetch,
   useBatchedFetch,
-  useUsers
+  useUsers,
+  useTagsEnabled
 } from './lib/hooks';
