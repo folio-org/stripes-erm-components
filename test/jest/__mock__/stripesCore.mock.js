@@ -83,7 +83,7 @@ jest.mock('@folio/stripes/core', () => {
   return {
     ...jest.requireActual('@folio/stripes/core'),
     stripesConnect,
-    useStripes: () => STRIPES,
+    useStripes: jest.fn(() => STRIPES),
     useOkapiKy: jest.fn().mockReturnValue({
       delete: () => Promise.resolve(),
       post: () => Promise.resolve(),
@@ -98,6 +98,6 @@ jest.mock('@folio/stripes/core', () => {
     TitleManager: jest.fn(({ children, ...rest }) => (
       <span {...rest}>{children}</span>
     )),
-    HandlerManager: () => <div>HandlerManager</div>
+    HandlerManager: () => <div>HandlerManager</div>,
   };
 }, { virtual: true });
