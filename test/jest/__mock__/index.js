@@ -8,3 +8,4 @@ import './stripesSmartComponents.mock';
 import './reactRouterDom.mock';
 import './kintComponents.mock';
 import './reactQuery.mock';
+import './ermComponents.mock';

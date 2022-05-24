@@ -1,5 +1,3 @@
-import React from 'react';
-
 jest.mock('@k-int/stripes-kint-components', () => {
   return {
     ...jest.requireActual('@k-int/stripes-kint-components'),
