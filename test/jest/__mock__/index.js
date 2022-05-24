@@ -7,5 +7,4 @@ import './stripesIcon.mock';
 import './stripesSmartComponents.mock';
 import './reactRouterDom.mock';
 import './reactQuery.mock';
-import './ermComponents.mock';
 import './kintComponents.mock';
