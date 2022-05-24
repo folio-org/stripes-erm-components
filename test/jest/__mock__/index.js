@@ -6,6 +6,6 @@ import './stripesCore.mock';
 import './stripesIcon.mock';
 import './stripesSmartComponents.mock';
 import './reactRouterDom.mock';
-import './kintComponents.mock';
 import './reactQuery.mock';
 import './ermComponents.mock';
+import './kintComponents.mock';

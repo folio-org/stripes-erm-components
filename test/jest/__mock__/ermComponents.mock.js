@@ -1,3 +1,4 @@
+
 jest.mock('@folio/stripes-erm-components', () => {
   return {
     ...jest.requireActual('@folio/stripes-erm-components'),
@@ -13,5 +14,12 @@ jest.mock('@folio/stripes-erm-components', () => {
       results: [],
       total: 0
     }),
+    useFileHandlers: jest.fn(() => ({
+      handleDownloadFile: jest.fn(),
+      handleUploadFile: jest.fn()
+    })),
+    useHandleSubmitSearch: jest.fn(() => ({
+      handleSubmitSearch: jest.fn()
+    }))
   };
 });
