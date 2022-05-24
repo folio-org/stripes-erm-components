@@ -72,5 +72,6 @@ export {
   useBatchedFetch,
   useUsers,
   useTagsEnabled,
-  useAsyncValidation
+  useAsyncValidation,
+  useFileHandlers
 } from './lib/hooks';
