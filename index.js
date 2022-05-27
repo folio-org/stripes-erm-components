@@ -73,5 +73,7 @@ export {
   useUsers,
   useTagsEnabled,
   useAsyncValidation,
-  useFileHandlers
+  useFileHandlers,
+  usePrevious,
+  useSingleResultRedirect
 } from './lib/hooks';
