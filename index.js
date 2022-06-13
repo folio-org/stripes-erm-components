@@ -43,6 +43,12 @@ export { default as getSiblingIdentifier } from './lib/getSiblingIdentifier';
 export { default as getResourceIdentifier } from './lib/getResourceIdentifier';
 export { default as isPackage } from './lib/isPackage';
 export { default as renderUserName } from './lib/renderUserName';
+export {
+  tagsPath,
+  defaultTagsParams,
+  defaultTagQuery,
+  tagNamespaceArray
+} from './lib/tagsConfig'; // Tag configuration for consistency across ERM apps
 
 export { default as preventResourceRefresh } from './lib/preventResourceRefresh';
 export {
@@ -58,4 +64,14 @@ export { default as InternalContactsArrayDisplay } from './lib/InternalContactsA
 export { default as OrganizationsArrayDisplay } from './lib/OrganizationsArrayDisplay';
 
 // customHooks
-export { useHandleSubmitSearch, useComposedRefs } from './lib/hooks';
+export {
+  useHandleSubmitSearch,
+  useComposedRefs,
+  useTags,
+  useInfiniteFetch,
+  useBatchedFetch,
+  useUsers,
+  useTagsEnabled,
+  useAsyncValidation,
+  useFileHandlers
+} from './lib/hooks';
