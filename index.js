@@ -43,6 +43,8 @@ export { default as getSiblingIdentifier } from './lib/getSiblingIdentifier';
 export { default as getResourceIdentifier } from './lib/getResourceIdentifier';
 export { default as isPackage } from './lib/isPackage';
 export { default as renderUserName } from './lib/renderUserName';
+export { default as getRefdataValuesByDesc } from './lib/getRefdataValuesByDesc';
+
 export {
   tagsPath,
   defaultTagsParams,
