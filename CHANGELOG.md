@@ -1,11 +1,44 @@
 # Change history for stripes-erm-components
 
-## 6.2.0 In progress
+## 6.3.0 In progress
+
+## 6.2.0 2022-07-04
+* ERM-2225 Amendment/License link status values do not update immediately after Agreement edit
+* ERM-2175 Migrate Edit/Create routes to react-query where we have regressions
+* ERM-2151 update outdated dependencies in stripes-erm-components
+* ERM-2105 Refactor away from react-intl-safe-html
 * ERM-2095 Replace babel-eslint with @babel/eslint-parser
+* ERM-2066 Number of tags doesn't update on adding tags to agreement line
+* ERM-2065 Error on opening Tags panel after creating new agreement line with eHoldings resource
+* ERM-1971 Bump eslint-config stripes version
+* FAT-80 stripes-erm-components: UI tests replacement with RTL/Jest
+  * ERM-2041 Prepare stripes-erm-components for RTL Development
+  * ERM-1334 OrganizationSelection
+  * ERM-1331 LicenseEndDate
+  * ERM-1330 LicenseCard
+  * ERM-1329 InternalContactsFieldArray
+  * ERM-1328 InternalContactSelection
+  * ERM-1327 InternalContactCard
+  * ERM-1325 FileUploaderField
+  * ERM-1324 FileUploader
+  * ERM-1322 EditCard
+  * ERM-1321 EResourceType
+  * ERM-1320 DuplicateModal
+  * ERM-1319 DocumentsFieldArray
+  * ERM-1318 DocumentCard
+  * ERM-1313 AlternativeNamesFieldArray
 * Deprecate `<Card>`, `<CustomPropertiesList>` in preparation for removal in a future release
 * ERM-1315 Deprecate `<CustomPropertiesConfigListFieldArray>`, `<CustomPropertyField>` , `<CustomPropertyFieldEdit>` and `<CustomPropertyFieldView>`
 * Deprecate `<CustomPropertyFilters>`, `<CustomPropertyFiltersForm>`, `<CustomPropertyRule>`, `<getValueProps>` and `<getOperators>` in preparation for removal in a future release
 * Deprecate `<FormCustomProperties>`, `<CustomPropertiesListField>`, `<CustomPropertyValue>` in preparation for removal in a future release
+* New hooks available for use
+  * useTagsEnabled
+  * useAsyncValidation
+  * useFileHandlers
+  * useUsers
+  * useTags
+  * useInfiniteFetch
+  * useBatchedFetch
 
 ## 6.1.0 2022-03-02
 * ERM-1949 ERM-1950 Added ActionMenu Component
