@@ -33,8 +33,8 @@
     "@bigtest/react": "^0.1.2",
     "@bigtest/mirage": "^0.0.1",
     "@folio/eslint-config-stripes": "^6.1.0",
-    "@folio/stripes": "^7.1.0",
-    "@folio/stripes-cli": "^2.5.0",
+    "@folio/stripes": "^7.2.0",
+    "@folio/stripes-cli": "^2.6.0",
     "@formatjs/cli": "^4.2.31",
     "@testing-library/dom": "^8.13.0",
     "@testing-library/jest-dom": "^5.11.5",
@@ -89,7 +89,7 @@
     "query-string": "^7.1.1"
   },
   "peerDependencies": {
-    "@folio/stripes": "^7.1.0",
+    "@folio/stripes": "^7.2.0",
     "react": "^17.0.2",
     "react-intl": "^5.8.1",
     "react-query": "^3.9.0",
