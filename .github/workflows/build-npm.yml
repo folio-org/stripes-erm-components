@@ -69,6 +69,9 @@ jobs:
         run: yarn lint
         continue-on-error: true
         
+      - name: Step for successful migration to Node 16
+        run: yarn add -D @bigtest/mirage
+        
       - name: Run yarn test
         run: xvfb-run --server-args="-screen 0 1024x768x24" yarn test $YARN_TEST_OPTIONS
 
