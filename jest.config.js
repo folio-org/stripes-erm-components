@@ -18,6 +18,7 @@ module.exports = {
     '^.+\\.(css)$': path.join(__dirname, './test/jest/__mock__/styleMock.js'),
     '^.+\\.(svg)$': 'identity-obj-proxy',
   },
+  testEnvironment: 'jsdom',
   testMatch: ['**/(lib|src)/**/?(*.)test.{js,jsx}'],
   testPathIgnorePatterns: ['/node_modules/'],
   setupFilesAfterEnv: [path.join(__dirname, './test/jest/jest.setup.js')],
