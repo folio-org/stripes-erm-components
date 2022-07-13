@@ -218,5 +218,5 @@
     "organizations.duplicateOrgError": "<strong>Error:</strong> Organization \"{orgName}\" was not linked because it is already linked.",
     "orgRoles.remove": "Remove organization role {index}",
     "orgRoles.orgRoleIndex": "Organization role {index}",
-    "canvas.actions": "Actions"
+    "canvas.actions": "Acciones"
 }

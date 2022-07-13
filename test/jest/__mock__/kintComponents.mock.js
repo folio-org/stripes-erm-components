@@ -17,5 +17,7 @@ jest.mock('@k-int/stripes-kint-components', () => {
     CustomPropertiesEdit: jest.fn(() => (<div>CustomPropertiesEdit</div>)),
     CustomPropertiesConfig: jest.fn(() => (<div>CustomPropertiesConfig</div>)),
     CustomPropertyCard: jest.fn(() => (<div>CustomPropertyCard</div>)),
+    EditableRefdataList: jest.fn(() => (<div>EditableRefdataList</div>)),
+    EditableRefdataCategoryList: jest.fn(() => (<div>EditableRefdataCategoryList</div>)),
   };
 }, { virtual: true });
