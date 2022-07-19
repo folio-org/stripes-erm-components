@@ -96,9 +96,7 @@
     "react": "^17.0.2",
     "react-intl": "^5.8.1",
     "react-query": "^3.9.0",
-    "react-router-dom": "^5.2.0",
-    "@babel/preset-react": "^7.12.5",
-    "@babel/preset-env": "7.18.9"
+    "react-router-dom": "^5.2.0"
   },
   "stripes": {
     "actsAs": [
