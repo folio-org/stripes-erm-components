@@ -1,6 +1,7 @@
 # Change history for stripes-erm-components
 
 ## 6.3.0 In progress
+* ERM-1343 Deprecate `withKiwtFieldArray` in preparation for removal in a future release
 
 ## 6.2.0 2022-07-04
 * ERM-2225 Amendment/License link status values do not update immediately after Agreement edit
