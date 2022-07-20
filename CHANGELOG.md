@@ -1,6 +1,7 @@
 # Change history for stripes-erm-components
 
 ## 6.3.0 In progress
+* ERM-1343 Deprecate `withKiwtFieldArray` in preparation for removal in a future release
 * ERM-1342 Deprecate `withAsyncValidation` in preparation for removal in a future release
 
 ## 6.2.0 2022-07-04
