@@ -77,3 +77,12 @@ export {
   useAsyncValidation,
   useFileHandlers
 } from './lib/hooks';
+
+// Testing
+export {
+  Harness,
+  mockErmComponents,
+  mockKintComponents,
+  renderWithIntl,
+  TestForm
+} from './test/jest/helpers';
