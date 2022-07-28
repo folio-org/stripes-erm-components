@@ -1,5 +1,10 @@
+import { useState } from 'react';
+
 const mockKintComponents = {
   useRefdata: jest.fn().mockReturnValue([]),
+  useQIndex: jest.fn(() => {
+    return useState();
+  }),
   useCustomProperties: jest.fn(({
     returnQueryObject = false
   }) => {
