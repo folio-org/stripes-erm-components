@@ -85,6 +85,7 @@
     "regenerator-runtime": "^0.13.3",
     "rxjs": "^6.6.3",
     "sinon": "^14.0.0",
+    "testing-library-selector": "^0.2.1",
     "typescript": "^2.8.0"
   },
   "dependencies": {
