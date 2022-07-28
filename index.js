@@ -30,6 +30,7 @@ export { default as SerialCoverage } from './lib/SerialCoverage';
 export { default as Tags } from './lib/Tags';
 export { default as TitleOnPlatformLink } from './lib/TitleOnPlatformLink';
 export { default as CustomMetaSection } from './lib/CustomMetaSection';
+export { default as SearchKeyControl } from './lib/SearchKeyControl';
 
 // HOCs
 export { default as withAsyncValidation } from './lib/withAsyncValidation';
@@ -44,6 +45,7 @@ export { default as getResourceIdentifier } from './lib/getResourceIdentifier';
 export { default as isPackage } from './lib/isPackage';
 export { default as renderUserName } from './lib/renderUserName';
 export { default as getRefdataValuesByDesc } from './lib/getRefdataValuesByDesc';
+export { default as renderDynamicRows } from './lib/renderDynamicRows';
 
 export {
   tagsPath,
