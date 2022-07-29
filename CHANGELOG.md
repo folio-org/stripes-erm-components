@@ -1,5 +1,8 @@
 # Change history for stripes-erm-components
 
+## 6.2.1 2022-07-29
+* ERM-2300 On loading entitlements for Agreement edit screen incorrect parameters are supplied
+
 ## 6.2.0 2022-07-04
 * ERM-2225 Amendment/License link status values do not update immediately after Agreement edit
 * ERM-2175 Migrate Edit/Create routes to react-query where we have regressions
