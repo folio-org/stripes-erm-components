@@ -86,5 +86,6 @@ export {
   mockErmComponents,
   mockKintComponents,
   renderWithIntl,
-  TestForm
+  TestForm,
+  translationsProperties
 } from './test/jest/helpers';
