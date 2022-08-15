@@ -16,6 +16,8 @@
   "columns.recordDescriptor": "Record descriptor",
   "dateFilter.startDate": "Start date",
   "dateFilter.endDate": "End date",
+  "dateFilter.activeFrom": "Active from",
+  "dateFilter.activeTo": "Active to",
   "dateFilter.onOrAfter": "On or after",
   "dateFilter.onOrBefore": "On or before",
   "dateFilter.startDateNotSet": "Include {resourceName} with no start date set",
