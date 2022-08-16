@@ -89,8 +89,7 @@
     "query-string": "^7.1.1",
     "react-dropzone": "^10.0.0",
     "react-final-form": "^6.3.0",
-    "react-final-form-arrays": "^3.1.0",
-    "react-final-form-html5-validation": "^1.0.3"
+    "react-final-form-arrays": "^3.1.0"
   },
   "peerDependencies": {
     "@folio/stripes": "^7.2.0",
