@@ -15,7 +15,7 @@
   "scripts": {
     "test": "yarn run test:jest",
     "test:jest": "jest --ci --coverage",
-    "lint": "eslint lib tests",
+    "lint": "eslint lib test",
     "formatjs-compile": "formatjs compile-folder --ast --format simple ./translations/stripes-erm-components ./translations/stripes-erm-components/compiled"
   },
   "devDependencies": {
@@ -89,8 +89,7 @@
     "query-string": "^7.1.1",
     "react-dropzone": "^10.0.0",
     "react-final-form": "^6.3.0",
-    "react-final-form-arrays": "^3.1.0",
-    "react-final-form-html5-validation": "^1.0.3"
+    "react-final-form-arrays": "^3.1.0"
   },
   "peerDependencies": {
     "@folio/stripes": "^7.2.0",

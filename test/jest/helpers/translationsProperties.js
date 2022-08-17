@@ -1,4 +1,4 @@
-import translations from '../../../translations/stripes-erm-components/en.json';
+import translations from '../../../translations/stripes-erm-components/en';
 
 const translationsProperties = [
   {
