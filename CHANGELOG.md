@@ -4,6 +4,7 @@
 * ERM-1343 Deprecate `withKiwtFieldArray` in preparation for removal in a future release
 * ERM-1342 Deprecate `withAsyncValidation` in preparation for removal in a future release
 * ERM-1332 Deprecate `<LoadingPane>` in preparation for removal in a future release
+* ERM-2329 Move `@testing-library/react` to `deps` because test helpers are exported from index
 
 ## 6.2.1 2022-07-29
 * ERM-2300 On loading entitlements for Agreement edit screen incorrect parameters are supplied
