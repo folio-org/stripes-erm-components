@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import React from 'react';
 
 jest.mock('@folio/stripes/core', () => {

@@ -1,10 +1,15 @@
 # Change history for stripes-erm-components
 
 ## 6.3.0 In progress
+* ERM-2329 Move `@testing-library/react` to `deps` because test helpers are exported from index
+* ERM-2133 Remove deprecations in Nolana
+  * Card, CustomPropertiesConfigListFieldArray, CustomPropertiesList, CustomPropertyFilters, FormCustomProperties
+  * customPropertyTypes, getOperators.js, getValueProps.js
+  * remove index entries
+  * remove react-final-form-html5-validation from package.json
 * ERM-1343 Deprecate `withKiwtFieldArray` in preparation for removal in a future release
 * ERM-1342 Deprecate `withAsyncValidation` in preparation for removal in a future release
 * ERM-1332 Deprecate `<LoadingPane>` in preparation for removal in a future release
-* ERM-2329 Move `@testing-library/react` to `deps` because test helpers are exported from index
 
 ## 6.2.1 2022-07-29
 * ERM-2300 On loading entitlements for Agreement edit screen incorrect parameters are supplied
