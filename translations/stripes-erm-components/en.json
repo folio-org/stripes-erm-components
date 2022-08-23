@@ -14,6 +14,8 @@
   "columns.errorLogMessage": "Error",
   "columns.infoLogMessage": "Message",
   "columns.recordDescriptor": "Record descriptor",
+  "dateFilter.activeFrom": "Active from",
+  "dateFilter.activeTo": "Active to",
   "dateFilter.startDate": "Start date",
   "dateFilter.endDate": "End date",
   "dateFilter.onOrAfter": "On or after",

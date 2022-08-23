@@ -71,7 +71,8 @@ export {
   useUsers,
   useTagsEnabled,
   useAsyncValidation,
-  useFileHandlers
+  useFileHandlers,
+  useAgreement
 } from './lib/hooks';
 
 // Testing
