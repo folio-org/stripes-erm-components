@@ -61,6 +61,9 @@ export { default as handleSaveKeyCommand } from './lib/keyboardShortcutHandlers'
 export { default as InternalContactsArrayDisplay } from './lib/InternalContactsArrayDisplay';
 export { default as OrganizationsArrayDisplay } from './lib/OrganizationsArrayDisplay';
 
+export { default as InfoBox } from './lib/InfoBox';
+export { default as NewBox } from './lib/NewBox';
+
 // customHooks
 export {
   useHandleSubmitSearch,
