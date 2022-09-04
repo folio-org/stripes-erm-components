@@ -218,5 +218,8 @@
     "organizations.duplicateOrgError": "<strong>خطأ:</strong> لم يتم ربط المؤسسة \"{orgName}\" لأنها مرتبطة بالفعل.",
     "orgRoles.remove": "إزالة دور المؤسسة {index}",
     "orgRoles.orgRoleIndex": "دور المؤسسة {index}",
-    "canvas.actions": "الإجراءات"
+    "canvas.actions": "الإجراءات",
+    "dateFilter.activeFrom": "نشط من",
+    "dateFilter.activeTo": "نشط إلى",
+    "new": "جديد"
 }
