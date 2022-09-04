@@ -218,5 +218,8 @@
     "organizations.duplicateOrgError": "<strong>Fehler:</strong> Organisation \"{orgName}\" wurde nicht verknüpft, da diese bereits verknüpft ist.",
     "orgRoles.remove": "Organisationsrolle {index} entfernen",
     "orgRoles.orgRoleIndex": "Organisationsrolle {index}",
-    "canvas.actions": "Aktionen"
+    "canvas.actions": "Aktionen",
+    "dateFilter.activeFrom": "Active from",
+    "dateFilter.activeTo": "Active to",
+    "new": "New"
 }

@@ -218,5 +218,8 @@
     "organizations.duplicateOrgError": "<strong>Erro:</strong> Organização \"{orgName}\" não foi vinculada porque já está vinculada.",
     "orgRoles.remove": "Remover função da organização {index}",
     "orgRoles.orgRoleIndex": "Função da organização {index}",
-    "canvas.actions": "Ações"
+    "canvas.actions": "Ações",
+    "dateFilter.activeFrom": "Active from",
+    "dateFilter.activeTo": "Active to",
+    "new": "New"
 }

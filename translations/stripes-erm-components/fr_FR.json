@@ -218,5 +218,8 @@
     "organizations.duplicateOrgError": "<strong> Erreur : </strong> organisation \" {orgName} \" n'a pas été associée car elle l'est déjà.",
     "orgRoles.remove": "Supprimer le rôle d'organisation {index}",
     "orgRoles.orgRoleIndex": "Rôle de l'organisation {index}",
-    "canvas.actions": "Actions"
+    "canvas.actions": "Actions",
+    "dateFilter.activeFrom": "Active from",
+    "dateFilter.activeTo": "Active to",
+    "new": "New"
 }
