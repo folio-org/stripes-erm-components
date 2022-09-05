@@ -1,0 +1,26 @@
+@import "@folio/stripes-components/lib/variables.css";
+
+.infoBox {
+  border-radius: var(--radius);
+  color: #fff;
+  font-weight: var(--text-weight-bold);
+  margin-left: var(--gutter-static-one-third);
+  padding-left: var(--gutter-static-one-third);
+  padding-right: var(--gutter-static-one-third);
+}
+
+.error {
+  background-color: var(--error);
+}
+
+.warn {
+  background-color: var(--warn);
+}
+
+.success {
+  background-color: var(--success);
+}
+
+.default {
+  background-color: var(--primary);
+}
