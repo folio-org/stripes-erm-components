@@ -6,14 +6,16 @@ import { Button } from '@folio/stripes/components';
 
 const TestForm = ({
   children,
-  initialValues,
-  onSubmit,
+  mutators,
+  ...formProps
 }) => {
   return (
     <Form
-      initialValues={initialValues}
-      mutators={arrayMutators}
-      onSubmit={onSubmit}
+      mutators={{
+        ...arrayMutators,
+        ...mutators
+      }}
+      {...formProps}
     >
       {({ handleSubmit }) => (
         <form onSubmit={handleSubmit}>
