@@ -87,3 +87,8 @@ export {
   TestForm,
   translationsProperties
 } from './test/jest/helpers';
+
+// Interactors
+export {
+  HeadlineInteractor
+} from './test/jest/interactors';
