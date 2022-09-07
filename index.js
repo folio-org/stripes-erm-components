@@ -90,5 +90,6 @@ export {
 
 // Interactors
 export {
-  HeadlineInteractor
+  HeadlineInteractor,
+  IconButtonInteractor
 } from './test/jest/interactors';
