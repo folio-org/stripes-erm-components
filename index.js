@@ -51,7 +51,10 @@ export {
 export { default as preventResourceRefresh } from './lib/preventResourceRefresh';
 export {
   composeValidators,
+  composeValidatorsWithArgs,
   invalidNumber as invalidNumberValidator,
+  rangeOverflow,
+  rangeUnderflow,
   required as requiredValidator,
   requiredObject as requiredObjectValidator,
 } from './lib/validators';
