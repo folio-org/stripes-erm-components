@@ -51,10 +51,14 @@ export {
 export { default as preventResourceRefresh } from './lib/preventResourceRefresh';
 export {
   composeValidators,
+  composeValidatorsWithArgs,
   invalidNumber as invalidNumberValidator,
+  rangeOverflow,
+  rangeUnderflow,
   required as requiredValidator,
   requiredObject as requiredObjectValidator,
 } from './lib/validators';
+
 export { default as handleSaveKeyCommand } from './lib/keyboardShortcutHandlers';
 
 // Shared registry components/functions
