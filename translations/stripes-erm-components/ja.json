@@ -120,8 +120,6 @@
     "customProperties.type.refdata": "選択リスト",
     "customProperties.type.text": "テキスト",
     "customPropertiesList.notSet": "未設定",
-    "errors.customPropertyNoteWithoutValue": "A value must be set in order to save a note",
-    "errors.customPropertyValueNotInRange": "Please enter a whole number in the range {min} to {max} to continue",
     "formCustomProperties.notSet": "未設定",
     "prop.customPropertyName": "名称",
     "prop.customPropertyValue": "値",
@@ -133,8 +131,6 @@
     "term.help.name": "契約の用語「名称」は、補足プロパティのデータを機械読取可能な形式で出力する際に使用されます。利用者（スタッフや図書館利用者）に表示することを意図したものではありません。これは、契約書の補足プロパティデータにアクセスする外部システムやプログラムで使用できるような、短いアルファベット文字列でなければなりません。キャメルケースの使用が推奨されますが、必須ではありません。契約書補完プロパティ名の変更は、契約の補足プロパティデータを使用している外部システムに影響を与えるため、関連する外部システムやソフトウェアの責任者に相談することなく変更を行うべきではありません。",
     "no": "いいえ",
     "yes": "はい",
-    "errors.customPropertyDecimalValueNotInRange": "Please enter a number in the range {min} to {max} to continue",
-    "errors.customPropertyMaxTwoDecimals": "Please enter a number with a maximum of 2 decimals places",
     "customProperty": "Custom property",
     "customProperty.lowercase": "カスタムプロパティ",
     "customProperties.supplementaryProperty.lowercase": "補足プロパティ",
@@ -142,8 +138,6 @@
     "customProperties.delete.confirmLabel": "削除",
     "customProperties.delete.confirmHeading": "Delete {custProp}",
     "customProperties.delete.confirmMessage": "{custProp} <strong>{name}</strong> will be <strong>deleted</strong>.",
-    "errors.customPropertyNoteInvalidNumber": "A valid number must be entered in order to save a note",
-    "errors.customPropertyInvalidNumber": "Please enter a valid number to continue",
     "close": "閉じる",
     "selectAll": "Select all / deselect all",
     "duplicateModal.errors.systemAdministrator": "問題が解決しない場合は、システム管理者に連絡してください。",
@@ -221,5 +215,7 @@
     "canvas.actions": "アクション",
     "dateFilter.activeFrom": "Active from",
     "dateFilter.activeTo": "Active to",
-    "new": "New"
+    "new": "New",
+    "errors.invalidNumber": "Please enter a valid number to continue",
+    "errors.decimalValueNotInRange": "Please enter a number in the range {min} to {max} to continue"
 }

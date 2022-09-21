@@ -120,8 +120,6 @@
     "customProperties.type.refdata": "Lista di selezione",
     "customProperties.type.text": "Testo",
     "customPropertiesList.notSet": "Non impostato",
-    "errors.customPropertyNoteWithoutValue": "È necessario impostare un valore per salvare una nota",
-    "errors.customPropertyValueNotInRange": "Inserisci un numero nell'intervallo da {min} a {max} per continuare",
     "formCustomProperties.notSet": "Non impostato",
     "prop.customPropertyName": "Nome",
     "prop.customPropertyValue": "Valore",
@@ -133,8 +131,6 @@
     "term.help.name": "Il \"nome\" di un termine di licenza viene utilizzato quando si inviano dati in un formato leggibile dalla macchina. Non è destinato ad essere mostrato agli utenti (personale o utenti finali). Dovrebbe essere una breve stringa alfabetica che può essere utilizzata da qualsiasi sistema o programma esterno che accede ai datisui termini della licenza. L'uso di camelCase è consigliato ma non obbligatorio. Le modifiche al nome dei termini della licenza influenzerebbero tutti i sistemi esterni che utilizzano i dati del termine di licenza e le modifiche non dovrebbero essere apportate senza consultare i responsabili dei sistemi e software esterni pertinenti.",
     "no": "No",
     "yes": "Si",
-    "errors.customPropertyDecimalValueNotInRange": "Inserisci un numero nell'intervallo da {min} a {max} per continuare",
-    "errors.customPropertyMaxTwoDecimals": "Inserisci un numero con un massimo di 2 cifre decimali",
     "customProperty": "Proprietà personalizzata",
     "customProperty.lowercase": "Proprietà personalizzata",
     "customProperties.supplementaryProperty.lowercase": "proprietà supplementare",
@@ -142,8 +138,6 @@
     "customProperties.delete.confirmLabel": "Elimina",
     "customProperties.delete.confirmHeading": "Elimina {custProp}",
     "customProperties.delete.confirmMessage": "{custProp} <strong>{name}</strong> verrà <strong>cancellato</strong>.",
-    "errors.customPropertyNoteInvalidNumber": "È necessario impostare un numero valido per salvare una nota",
-    "errors.customPropertyInvalidNumber": "Inserisci un numero per continuare",
     "close": "Chiudi",
     "selectAll": "Seleziona tutto / deseleziona tutto",
     "duplicateModal.errors.systemAdministrator": "Se il problema persiste, contattare l'amministratore di sistema.",
@@ -221,5 +215,7 @@
     "canvas.actions": "Actions",
     "dateFilter.activeFrom": "Active from",
     "dateFilter.activeTo": "Active to",
-    "new": "New"
+    "new": "New",
+    "errors.invalidNumber": "Please enter a valid number to continue",
+    "errors.decimalValueNotInRange": "Please enter a number in the range {min} to {max} to continue"
 }

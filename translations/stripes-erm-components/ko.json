@@ -120,8 +120,6 @@
     "customProperties.type.refdata": "선택 목록",
     "customProperties.type.text": "텍스트",
     "customPropertiesList.notSet": "설정되지 않음",
-    "errors.customPropertyNoteWithoutValue": "메모를 저장하려면 값을 설정해야합니다.",
-    "errors.customPropertyValueNotInRange": "계속하려면 {max} {min} 에서 {max} 의 정수를 입력하십시오.",
     "formCustomProperties.notSet": "설정되지 않음",
     "prop.customPropertyName": "이름",
     "prop.customPropertyValue": "값",
@@ -133,8 +131,6 @@
     "term.help.name": "라이센스 용어 '이름'은 용어 데이터를 기계가 읽을 수 있는 형식으로 출력 할 때 사용됩니다. 사용자 (직원 또는 고객)에게 표시하기 위한 것이 아닙니다. 라이센스 기간 데이터에 액세스하는 모든 외부 시스템 또는 프로그램에서 사용할 수있는 짧은 라틴 알파벳 문자열이어야 합니다. camelCase 사용이 권장되지만 필수는 아닙니다. 라이선스 기간 이름을 변경하면 라이선스 기간 데이터를 사용하는 모든 외부 시스템에 영향을 미치며 관련 외부 시스템 및 소프트웨어 책임자와 상의없이 변경해서는 안됩니다.",
     "no": "아니요",
     "yes": "예",
-    "errors.customPropertyDecimalValueNotInRange": "계속하려면 {max} {min} 에서 {max} 의 숫자를 입력하십시오.",
-    "errors.customPropertyMaxTwoDecimals": "소수점 이하 2 자리까지의 숫자를 입력하세요.",
     "customProperty": "사용자 지정 속성",
     "customProperty.lowercase": "사용자 지정 속성",
     "customProperties.supplementaryProperty.lowercase": "보충 속성",
@@ -142,8 +138,6 @@
     "customProperties.delete.confirmLabel": "삭제",
     "customProperties.delete.confirmHeading": "{custProp} 삭제",
     "customProperties.delete.confirmMessage": "{custProp} <strong> {name} </strong> 이 (가) <strong> 삭제됩니다 </strong> .",
-    "errors.customPropertyNoteInvalidNumber": "메모를 저장하려면 유효한 번호를 입력해야합니다.",
-    "errors.customPropertyInvalidNumber": "계속하려면 유효한 번호를 입력하세요.",
     "close": "닫기",
     "selectAll": "모두 선택 / 모두 선택 취소",
     "duplicateModal.errors.systemAdministrator": "문제가 지속되면 시스템 관리자에게 문의하십시오.",
@@ -221,5 +215,7 @@
     "canvas.actions": "작업",
     "dateFilter.activeFrom": "Active from",
     "dateFilter.activeTo": "Active to",
-    "new": "New"
+    "new": "New",
+    "errors.invalidNumber": "Please enter a valid number to continue",
+    "errors.decimalValueNotInRange": "Please enter a number in the range {min} to {max} to continue"
 }

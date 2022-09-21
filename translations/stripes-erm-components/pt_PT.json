@@ -120,8 +120,6 @@
     "customProperties.type.refdata": "Pick list",
     "customProperties.type.text": "Text",
     "customPropertiesList.notSet": "Not set",
-    "errors.customPropertyNoteWithoutValue": "A value must be set in order to save a note",
-    "errors.customPropertyValueNotInRange": "Please enter a whole number in the range {min} to {max} to continue",
     "formCustomProperties.notSet": "Not set",
     "prop.customPropertyName": "Name",
     "prop.customPropertyValue": "Value",
@@ -133,8 +131,6 @@
     "term.help.name": "A license term 'name' is used when outputting the term data in a machine readable format. It is not intended to be displayed to users (staff or patrons). It should be a short Latin alphabet string that can be used by any external systems or programs that access the license term data. Use of camelCase is suggested but not required. Changes to the license term name would affect any external systems using license term data and changes should not be made without consulting those responsible for relevant external systems and software.",
     "no": "No",
     "yes": "Yes",
-    "errors.customPropertyDecimalValueNotInRange": "Please enter a number in the range {min} to {max} to continue",
-    "errors.customPropertyMaxTwoDecimals": "Please enter a number with a maximum of 2 decimals places",
     "customProperty": "Custom property",
     "customProperty.lowercase": "custom property",
     "customProperties.supplementaryProperty.lowercase": "supplementary property",
@@ -142,8 +138,6 @@
     "customProperties.delete.confirmLabel": "Delete",
     "customProperties.delete.confirmHeading": "Delete {custProp}",
     "customProperties.delete.confirmMessage": "{custProp} <strong>{name}</strong> will be <strong>deleted</strong>.",
-    "errors.customPropertyNoteInvalidNumber": "A valid number must be entered in order to save a note",
-    "errors.customPropertyInvalidNumber": "Please enter a valid number to continue",
     "close": "Close",
     "selectAll": "Select all / deselect all",
     "duplicateModal.errors.systemAdministrator": "If the problem persists contact your system administrator.",
@@ -221,5 +215,7 @@
     "canvas.actions": "Actions",
     "dateFilter.activeFrom": "Active from",
     "dateFilter.activeTo": "Active to",
-    "new": "New"
+    "new": "New",
+    "errors.invalidNumber": "Please enter a valid number to continue",
+    "errors.decimalValueNotInRange": "Please enter a number in the range {min} to {max} to continue"
 }

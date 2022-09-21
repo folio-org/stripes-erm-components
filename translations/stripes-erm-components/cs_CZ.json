@@ -120,8 +120,6 @@
     "customProperties.type.refdata": "Výběrový seznam",
     "customProperties.type.text": "Text",
     "customPropertiesList.notSet": "Nenastaveno",
-    "errors.customPropertyNoteWithoutValue": "Pro uložení poznámky musí být nastavena hodnota.",
-    "errors.customPropertyValueNotInRange": "Pro pokračování zadejte celé číslo v rozsahu {min} až {max}",
     "formCustomProperties.notSet": "Nenastaveno",
     "prop.customPropertyName": "Jméno",
     "prop.customPropertyValue": "Hodnota",
@@ -133,8 +131,6 @@
     "term.help.name": "Licenční termín 'název' se používá při výstupu dat termínu ve strojově čitelném formátu. Není určeno k zobrazení uživatelům (zaměstnancům nebo čtenářům). Mělo by se jednat o krátký řetězec latinské abecedy, který mohou používat jakékoli externí systémy nebo programy, které přistupují k datům licenčního termínu. Použití camelCase je doporučeno, ale není vyžadováno. Změny názvu licenčního termínu by ovlivnily jakékoli externí systémy využívající data licenčních podmínek a změny by neměly být prováděny bez konzultace s osobami odpovědnými za příslušné externí systémy a software.",
     "no": "Ne",
     "yes": "Ano",
-    "errors.customPropertyDecimalValueNotInRange": "Pro pokračování prosím zadejte číslo v rozsahu {min} až {max}",
-    "errors.customPropertyMaxTwoDecimals": "Zadejte prosím číslo s maximálně 2 desetinnými místy",
     "customProperty": "Uživatelská vlastnost",
     "customProperty.lowercase": "vlastní vlastnost",
     "customProperties.supplementaryProperty.lowercase": "doplňková vlastnost",
@@ -142,8 +138,6 @@
     "customProperties.delete.confirmLabel": "Smazat",
     "customProperties.delete.confirmHeading": "Smazat {custProp}",
     "customProperties.delete.confirmMessage": "{custProp} <strong>{name}</strong> bude <strong>smazán</strong>.",
-    "errors.customPropertyNoteInvalidNumber": "Pro uložení poznámky je nutné zadat platné číslo",
-    "errors.customPropertyInvalidNumber": "Chcete-li pokračovat, zadejte prosím platné číslo",
     "close": "Zavřít",
     "selectAll": "Vybrat vše / zrušit výběr všech",
     "duplicateModal.errors.systemAdministrator": "Pokud problém přetrvává, kontaktujte správce systému.",
@@ -221,5 +215,7 @@
     "canvas.actions": "Akce",
     "dateFilter.activeFrom": "Aktivní od",
     "dateFilter.activeTo": "Aktivní do",
-    "new": "Nový"
+    "new": "Nový",
+    "errors.invalidNumber": "Chcete-li pokračovat, zadejte prosím platné číslo",
+    "errors.decimalValueNotInRange": "Pro pokračování prosím zadejte číslo v rozsahu {min} až {max}"
 }

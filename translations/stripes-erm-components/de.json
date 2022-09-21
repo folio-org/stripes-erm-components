@@ -120,8 +120,6 @@
     "customProperties.type.refdata": "Auswahlliste",
     "customProperties.type.text": "Text",
     "customPropertiesList.notSet": "Nicht belegt",
-    "errors.customPropertyNoteWithoutValue": "Ein Wert muss eingegeben werden, um Notiz zu speichern",
-    "errors.customPropertyValueNotInRange": "Ganze Zahl im Bereich von {min} bis {max} eingeben, um fortzufahren",
     "formCustomProperties.notSet": "Nicht belegt",
     "prop.customPropertyName": "Name",
     "prop.customPropertyValue": "Wert",
@@ -133,8 +131,6 @@
     "term.help.name": "Ein 'Name' der Lizenzbedingung wird verwendet, wenn die Bedingungsdaten in einem maschinenlesbaren Format ausgegeben werden. Er ist nicht dafür vorgesehen, den Personen (Mitarbeitenden oder Benutzenden) angezeigt zu werden. Es sollte eine kurze Zeichenfolge des lateinischen Alphabets sein, die von allen externen Systemen oder Programmen verwendet werden kann, die auf die Daten der Lizenzbedingung zugreifen. Die Verwendung von \"camelCase\" wird empfohlen, ist aber nicht erforderlich. Änderungen des Namens der Lizenzbedingung würden sich auf alle externen Systeme auswirken, die die Daten der Lizenzbedingung verwenden, und Änderungen sollten nicht ohne Rücksprache mit den Verantwortlichen für die entsprechenden externen Systeme und Software vorgenommen werden.",
     "no": "Nein",
     "yes": "Ja",
-    "errors.customPropertyDecimalValueNotInRange": "Zahl in einem Bereich von {min} bis {max} eingeben, um fortzufahren",
-    "errors.customPropertyMaxTwoDecimals": "Zahl mit maximal 2 Dezimalstellen eingeben",
     "customProperty": "Benutzerdefinierte Eigenschaft",
     "customProperty.lowercase": "Benutzerdefinierte Eingenschaft",
     "customProperties.supplementaryProperty.lowercase": "Ergänzende Eigenschaft",
@@ -142,8 +138,6 @@
     "customProperties.delete.confirmLabel": "Löschen",
     "customProperties.delete.confirmHeading": "{custProp} löschen",
     "customProperties.delete.confirmMessage": "{custProp} <strong>{name}</strong> wird <strong>gelöscht</strong>.",
-    "errors.customPropertyNoteInvalidNumber": "Eine gültige Nummer muss eingegeben werden, um Notiz zu speichern",
-    "errors.customPropertyInvalidNumber": "Gültige Nummer eingeben, um fortzufahren",
     "close": "Schließen",
     "selectAll": "Alle auswählen / Auswahl aufheben",
     "duplicateModal.errors.systemAdministrator": "Sollte das Problem weiterbestehen, Systemadministration kontaktieren.",
@@ -221,5 +215,7 @@
     "canvas.actions": "Aktionen",
     "dateFilter.activeFrom": "Active from",
     "dateFilter.activeTo": "Active to",
-    "new": "New"
+    "new": "New",
+    "errors.invalidNumber": "Please enter a valid number to continue",
+    "errors.decimalValueNotInRange": "Please enter a number in the range {min} to {max} to continue"
 }
