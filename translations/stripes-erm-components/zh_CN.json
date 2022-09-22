@@ -120,8 +120,6 @@
     "customProperties.type.refdata": "选取清单",
     "customProperties.type.text": "文本",
     "customPropertiesList.notSet": "未设置",
-    "errors.customPropertyNoteWithoutValue": "必须设置一个值才能保存附注",
-    "errors.customPropertyValueNotInRange": "请输入{min}至{max}范围内的整数以继续",
     "formCustomProperties.notSet": "未设置",
     "prop.customPropertyName": "名称",
     "prop.customPropertyValue": "值",
@@ -133,8 +131,6 @@
     "term.help.name": "当以机器可读格式输出条款数据时，使用许可证条款“名称”。它不打算显示给用户（员工或读者）。它应该是一个简短的拉丁字母字符串，可供访问许可证条款数据的任何外部系统或程序使用。建议使用驼峰命名法，但不是必需的。许可证条款名称的更改将影响使用许可证条款数据的任何外部系统，如果没有咨询负责相关外部系统和软件的人员，则不应进行更改。",
     "no": "否",
     "yes": "是",
-    "errors.customPropertyDecimalValueNotInRange": "请输入{min}至{max}范围内的数字以继续",
-    "errors.customPropertyMaxTwoDecimals": "请输入最多2位小数的数字",
     "customProperty": "自定义属性",
     "customProperty.lowercase": "自定义属性",
     "customProperties.supplementaryProperty.lowercase": "补充属性",
@@ -142,8 +138,6 @@
     "customProperties.delete.confirmLabel": "删除",
     "customProperties.delete.confirmHeading": "删除{custProp}",
     "customProperties.delete.confirmMessage": "{custProp} <strong> {name} </strong>将被<strong>删除</strong> 。",
-    "errors.customPropertyNoteInvalidNumber": "必须输入有效数字才能保存附注",
-    "errors.customPropertyInvalidNumber": "请输入有效数字以继续",
     "close": "关闭",
     "selectAll": "全选/取消全选",
     "duplicateModal.errors.systemAdministrator": "如果问题仍然存在，请与系统管理员联系。",
@@ -221,5 +215,7 @@
     "canvas.actions": "操作",
     "dateFilter.activeFrom": "有效自",
     "dateFilter.activeTo": "有效到",
-    "new": "New"
+    "new": "New",
+    "errors.invalidNumber": "Please enter a valid number to continue",
+    "errors.decimalValueNotInRange": "Please enter a number in the range {min} to {max} to continue"
 }

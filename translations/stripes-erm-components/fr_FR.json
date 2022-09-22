@@ -120,8 +120,6 @@
     "customProperties.type.refdata": "Liste de sélection",
     "customProperties.type.text": "Texte",
     "customPropertiesList.notSet": "Non encore défini",
-    "errors.customPropertyNoteWithoutValue": "Une valeur doit être définie pour enregistrer une note",
-    "errors.customPropertyValueNotInRange": "Veuillez saisir un nombre entier compris entre {min} et {max} pour continuer",
     "formCustomProperties.notSet": "Non encore défini",
     "prop.customPropertyName": "Nom",
     "prop.customPropertyValue": "Valeur",
@@ -133,8 +131,6 @@
     "term.help.name": "Un \"nom\" de terme de licence est utilisé lors de la sortie des données du terme dans un format lisible par machine. Il n'est pas destiné à être affiché aux utilisateurs (personnel ou utilisateurs). Il doit s'agir d'une courte chaîne d'alphabet latin qui peut être utilisée par tous les systèmes ou programmes externes accédant aux données du terme de licence. L'utilisation de camelCase est suggérée mais non requise. Les modifications apportées au nom du terme de licence affectent tous les systèmes externes utilisant des données de terme de licence et ne doivent pas être apportées sans consulter les responsables des systèmes et logiciels externes pertinents.",
     "no": "Non",
     "yes": "Oui",
-    "errors.customPropertyDecimalValueNotInRange": "Veuillez saisir un nombre compris entre {min} et {max} pour continuer",
-    "errors.customPropertyMaxTwoDecimals": "Veuillez saisir un nombre avec un maximum de 2 décimales",
     "customProperty": "Propriété personnalisée",
     "customProperty.lowercase": "propriété personnalisée",
     "customProperties.supplementaryProperty.lowercase": "propriété supplémentaire",
@@ -142,8 +138,6 @@
     "customProperties.delete.confirmLabel": "Supprimer",
     "customProperties.delete.confirmHeading": "Supprimer {custProp}",
     "customProperties.delete.confirmMessage": "{custProp} <strong>{name}</strong> sera <strong>supprimé(e)</strong>.",
-    "errors.customPropertyNoteInvalidNumber": "Un numéro valide doit être entré pour enregistrer une note",
-    "errors.customPropertyInvalidNumber": "Veuillez entrer un nombre valide pour continuer",
     "close": "Fermer",
     "selectAll": "Tout sélectionner / tout désélectionner",
     "duplicateModal.errors.systemAdministrator": "Si le problème persiste, contactez votre administrateur système.",
@@ -221,5 +215,7 @@
     "canvas.actions": "Actions",
     "dateFilter.activeFrom": "Active from",
     "dateFilter.activeTo": "Active to",
-    "new": "New"
+    "new": "New",
+    "errors.invalidNumber": "Please enter a valid number to continue",
+    "errors.decimalValueNotInRange": "Please enter a number in the range {min} to {max} to continue"
 }

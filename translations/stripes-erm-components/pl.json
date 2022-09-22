@@ -120,8 +120,6 @@
     "customProperties.type.refdata": "Lista wyboru",
     "customProperties.type.text": "Tekst",
     "customPropertiesList.notSet": "Nie ustawiono",
-    "errors.customPropertyNoteWithoutValue": "Aby zapisać notatkę, należy ustawić wartość",
-    "errors.customPropertyValueNotInRange": "Aby kontynuować, wprowadź liczbę całkowitą z zakresu od {min} do {max}",
     "formCustomProperties.notSet": "Nie ustawiono",
     "prop.customPropertyName": "Nazwa",
     "prop.customPropertyValue": "Wartość",
@@ -133,8 +131,6 @@
     "term.help.name": "Warunek licencyjny „nazwa” jest używany podczas wyprowadzania warunków danych  w formacie czytelnym dla komputera. Nie jest przeznaczone do wyświetlania użytkownikom (personelowi lub czytelnikom). Powinien to być krótki ciąg alfabetu łacińskiego, który może być używany przez dowolne zewnętrzne systemy lub programy, które mają dostęp do danych okresu licencji. Korzystanie z camelCase jest zalecane, ale nie jest wymagane. Zmiany warunków licencji wpłyną na wszelkie systemy zewnętrzne korzystające z danych okresu licencji i nie należy ich wprowadzać bez konsultacji z osobami odpowiedzialnymi za zewnętrzne systemy i oprogramowanie.",
     "no": "Nie",
     "yes": "Tak",
-    "errors.customPropertyDecimalValueNotInRange": "Proszę wprowadzić liczbę z zakresu od {min} do {max} aby kontynuować",
-    "errors.customPropertyMaxTwoDecimals": "Wprowadź liczbę z maksymalnie 2 miejscami po przecinku",
     "customProperty": "Niestandardowa właściwość",
     "customProperty.lowercase": "niestandardowa właściwość",
     "customProperties.supplementaryProperty.lowercase": "dodatkowa właściwość",
@@ -142,8 +138,6 @@
     "customProperties.delete.confirmLabel": "Usuń",
     "customProperties.delete.confirmHeading": "Usuń {custProp}",
     "customProperties.delete.confirmMessage": "{custProp} <strong>{name}</strong> zostanie <strong>usunięte</strong>.",
-    "errors.customPropertyNoteInvalidNumber": "Aby zapisać notatkę, należy wprowadzić prawidłowy numer",
-    "errors.customPropertyInvalidNumber": "Proszę wpisać prawidłowy numer, aby kontynuować",
     "close": "Zamknij",
     "selectAll": "Zaznacz wszystko / odznacz wszystko",
     "duplicateModal.errors.systemAdministrator": "Jeśli problem będzie się powtarzał, skontaktuj się z administratorem systemu.",
@@ -221,5 +215,7 @@
     "canvas.actions": "Actions",
     "dateFilter.activeFrom": "Active from",
     "dateFilter.activeTo": "Active to",
-    "new": "New"
+    "new": "New",
+    "errors.invalidNumber": "Please enter a valid number to continue",
+    "errors.decimalValueNotInRange": "Please enter a number in the range {min} to {max} to continue"
 }

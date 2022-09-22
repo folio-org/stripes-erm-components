@@ -120,8 +120,6 @@
     "customProperties.type.refdata": "قائمة الاختيار",
     "customProperties.type.text": "نص",
     "customPropertiesList.notSet": "لم يتم تعيينه",
-    "errors.customPropertyNoteWithoutValue": "يجب تعيين قيمة من أجل حفظ الملاحظة",
-    "errors.customPropertyValueNotInRange": "يرجى إدخال رقم كامل في النطاق من {min} إلى {max} للمتابعة",
     "formCustomProperties.notSet": "لم يتم تعيينه",
     "prop.customPropertyName": "الاسم",
     "prop.customPropertyValue": "القيمة",
@@ -133,8 +131,6 @@
     "term.help.name": "يستخدم مصطلح الترخيص 'الاسم' عند إخراج بيانات المصطلح بتنسيق قابل للقراءة آليًا. وليس المقصود أن يتم عرضه على المستخدمين (الموظفين أو المستفيدين). يجب أن يكون الاسم مقطعًا من أحرف أبجدية لاتينية قصيرة يمكن استخدامها من قبل أي أنظمة أو برامج خارجية يمكنها الوصول إلى بيانات مصطلح الترخيص. يقترح استخدام camelCase لكن ذلك غير مطلوب. من شأن التغييرات التي تطرأ على اسم مصطلح الترخيص أن تؤثر على أي أنظمة خارجية تستخدم بيانات مصطلح الترخيص ، ويجب عدم إجراء التغييرات دون استشارة المسؤولين عن الأنظمة والبرامج الخارجية ذات الصلة.",
     "no": "لا",
     "yes": "نعم",
-    "errors.customPropertyDecimalValueNotInRange": "يرجى إدخال رقم في النطاق من {min} إلى {max} للمتابعة",
-    "errors.customPropertyMaxTwoDecimals": "يرجى إدخال عدد برقمين عشريين فقط كحد أقصى",
     "customProperty": "خاصية مخصصة",
     "customProperty.lowercase": "خاصية مخصصة",
     "customProperties.supplementaryProperty.lowercase": "خاصية تكميلية",
@@ -142,8 +138,6 @@
     "customProperties.delete.confirmLabel": "حذف",
     "customProperties.delete.confirmHeading": "حذف {custProp}",
     "customProperties.delete.confirmMessage": "سيتم <strong>حذف</strong> {custProp} <strong>{name}</strong>",
-    "errors.customPropertyNoteInvalidNumber": "يجب إدخال رقم صالح لحفظ الملاحظة",
-    "errors.customPropertyInvalidNumber": "يرجى إدخال رقم صالح للمتابعة",
     "close": "إغلاق",
     "selectAll": "تحديد الكل / إلغاء تحديد الكل",
     "duplicateModal.errors.systemAdministrator": "إذا استمرت المشكلة، اتصل بمسؤول النظام.",
@@ -221,5 +215,7 @@
     "canvas.actions": "الإجراءات",
     "dateFilter.activeFrom": "نشط من",
     "dateFilter.activeTo": "نشط إلى",
-    "new": "جديد"
+    "new": "جديد",
+    "errors.invalidNumber": "Please enter a valid number to continue",
+    "errors.decimalValueNotInRange": "Please enter a number in the range {min} to {max} to continue"
 }

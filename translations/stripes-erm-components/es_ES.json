@@ -120,8 +120,6 @@
     "customProperties.type.refdata": "Lista de selección",
     "customProperties.type.text": "Texto",
     "customPropertiesList.notSet": "No establecido",
-    "errors.customPropertyNoteWithoutValue": "Se debe establecer un valor para guardar una nota",
-    "errors.customPropertyValueNotInRange": "Introduzca un número entero en el rango de {min} a {max} para continuar",
     "formCustomProperties.notSet": "No establecido",
     "prop.customPropertyName": "Nombre",
     "prop.customPropertyValue": "Valor",
@@ -133,8 +131,6 @@
     "term.help.name": "Se utiliza un término de licencia nombre cuando se generan los datos del término en un formato legible por máquina. No está destinado a mostrarse a los usuarios (personal o usuarios). Debe ser una cadena corta de alfabeto latino que pueda ser utilizada por cualquier sistema o programa externo que acceda a los datos del plazo de la licencia. Se sugiere el uso de camelCase, pero no es obligatorio. Los cambios en el nombre del término de la licencia afectarían a cualquier sistema externo que utilice datos del término de la licencia y no se deben realizar cambios sin consultar a los responsables de los sistemas y software externos relevantes.",
     "no": "No",
     "yes": "Sí",
-    "errors.customPropertyDecimalValueNotInRange": "Introduzca un número en el rango de {min} a {max} para continuar",
-    "errors.customPropertyMaxTwoDecimals": "Introduzca un número con un máximo de 2 decimales",
     "customProperty": "Propiedad personalizada",
     "customProperty.lowercase": "Propiedad personalizada",
     "customProperties.supplementaryProperty.lowercase": "propiedad suplementaria",
@@ -142,8 +138,6 @@
     "customProperties.delete.confirmLabel": "Eliminar",
     "customProperties.delete.confirmHeading": "Eliminar {custProp}",
     "customProperties.delete.confirmMessage": "{custProp} <strong>{name}</strong> será <strong>eliminado</strong>.",
-    "errors.customPropertyNoteInvalidNumber": "Se debe introducir un número válido para guardar una nota",
-    "errors.customPropertyInvalidNumber": "Introduzca un número válido para continuar",
     "close": "Cerrar",
     "selectAll": "Seleccionar todo",
     "duplicateModal.errors.systemAdministrator": "Si el problema persiste, comuníquese con el administrador del sistema..",
@@ -221,5 +215,7 @@
     "canvas.actions": "Acciones",
     "dateFilter.activeFrom": "Active from",
     "dateFilter.activeTo": "Active to",
-    "new": "New"
+    "new": "New",
+    "errors.invalidNumber": "Please enter a valid number to continue",
+    "errors.decimalValueNotInRange": "Please enter a number in the range {min} to {max} to continue"
 }
