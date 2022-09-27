@@ -213,9 +213,9 @@
     "orgRoles.remove": "Organisationsrolle {index} entfernen",
     "orgRoles.orgRoleIndex": "Organisationsrolle {index}",
     "canvas.actions": "Aktionen",
-    "dateFilter.activeFrom": "Active from",
-    "dateFilter.activeTo": "Active to",
-    "new": "New",
-    "errors.invalidNumber": "Please enter a valid number to continue",
-    "errors.decimalValueNotInRange": "Please enter a number in the range {min} to {max} to continue"
+    "dateFilter.activeFrom": "Aktiv ab",
+    "dateFilter.activeTo": "Aktiv bis",
+    "new": "Neu",
+    "errors.invalidNumber": "Bitte gültige Nummer eingeben, um fortzufahren",
+    "errors.decimalValueNotInRange": "Bitte Zahl in einem Bereich von {min} bis {max} eingeben, um fortzufahren"
 }
