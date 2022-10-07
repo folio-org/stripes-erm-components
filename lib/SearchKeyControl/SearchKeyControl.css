@@ -1,0 +1,14 @@
+@import "@folio/stripes-components/lib/variables.css";
+
+.searchKeyControlContainer {
+  /* Remove this top margin, only here for clarity*/
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.searchKeyControlElement {
+  width: fit-content;
+  padding: 0 var(--gutter-static-two-thirds) var(--gutter-static-two-thirds) 0;
+}
