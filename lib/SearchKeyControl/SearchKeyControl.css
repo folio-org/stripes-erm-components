@@ -2,13 +2,13 @@
 
 .searchKeyControlContainer {
   /* Remove this top margin, only here for clarity*/
-  margin-top: 20px;
+  margin: var(--gutter-static-two-thirds) 0px;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-evenly;
+  justify-content: flex-start;
 }
 
 .searchKeyControlElement {
   width: fit-content;
-  padding: 0 var(--gutter-static-two-thirds) var(--gutter-static-two-thirds) 0;
+  padding: 0 var(--gutter-static-two-thirds) 0 0;
 }
