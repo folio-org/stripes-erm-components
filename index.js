@@ -95,5 +95,6 @@ export {
 // Interactors
 export {
   HeadlineInteractor,
-  IconButtonInteractor
+  IconButtonInteractor,
+  DatepickerInteractor
 } from './test/jest/interactors';
