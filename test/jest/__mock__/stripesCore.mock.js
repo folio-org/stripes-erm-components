@@ -99,6 +99,11 @@ jest.mock('@folio/stripes/core', () => {
     TitleManager: jest.fn(({ children, ...rest }) => (
       <span {...rest}>{children}</span>
     )),
+    IfInterface: ({ children }) => {
+      return typeof children === 'function' ?
+        children({ hasInterface: true }) : <>{children}</>;
+    },
+
     HandlerManager: () => <div>HandlerManager</div>,
   };
 }, { virtual: true });
