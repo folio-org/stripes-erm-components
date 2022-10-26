@@ -1,6 +1,7 @@
 # Change history for stripes-erm-components
 
 ## 7.1.0 In progress
+* ERM-2395 Remove @folio/stripes-testing as direct dependency of stripes-erm-components
 
 ## 7.0.0 2022-10-26
 * ERM-2390 Licenses fails to add internal contact
