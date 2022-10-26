@@ -1,12 +1,22 @@
 # Change history for stripes-erm-components
 
-## 6.3.0 In progress
+## 7.0.0 2022-10-26
+* ERM-2390 Licenses fails to add internal contact
+* ERM-2366 Core documents for a License shouldn't display a category
+* ERM-2346 Related Entitlement endpoint unnecessarily hit on package view
+* ERM-2344 Add link from an Agreement to an Agreement lines search filtered by the agreement
+* ERM-2342 Responsive behaviour of Agreement search field selections
 * ERM-2329 Move `@testing-library/react` to `deps` because test helpers are exported from index
+* ERM-2315 Display all identifiers in a namespace for a resource
+* ERM-2290 Add property options to Agreements text search
+* ERM-2234 Replace withKiwtFieldArray with useKiwtFieldArray
+* ERM-2215 Migrate ui-agreements Picklist Settings
 * ERM-2133 Remove deprecations in Nolana
   * Card, CustomPropertiesConfigListFieldArray, CustomPropertiesList, CustomPropertyFilters, FormCustomProperties
   * customPropertyTypes, getOperators.js, getValueProps.js
   * remove index entries
   * remove react-final-form-html5-validation from package.json
+* ERM-2044 Ability to make custom properties deprecated
 * ERM-1343 Deprecate `withKiwtFieldArray` in preparation for removal in a future release
 * ERM-1342 Deprecate `withAsyncValidation` in preparation for removal in a future release
 * ERM-1332 Deprecate `<LoadingPane>` in preparation for removal in a future release
