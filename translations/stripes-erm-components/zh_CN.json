@@ -215,7 +215,7 @@
     "canvas.actions": "操作",
     "dateFilter.activeFrom": "有效自",
     "dateFilter.activeTo": "有效到",
-    "new": "New",
-    "errors.invalidNumber": "Please enter a valid number to continue",
-    "errors.decimalValueNotInRange": "Please enter a number in the range {min} to {max} to continue"
+    "new": "新建",
+    "errors.invalidNumber": "请输入有效数字以继续",
+    "errors.decimalValueNotInRange": "请输入{min}至{max}范围内的数字以继续"
 }
