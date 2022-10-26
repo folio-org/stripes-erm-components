@@ -1,6 +1,6 @@
 {
   "name": "@folio/stripes-erm-components",
-  "version": "7.0.0",
+  "version": "7.0.1",
   "description": "Component library for Stripes ERM applications",
   "sideEffects": [
     "*.css"
@@ -34,7 +34,7 @@
     "@folio/eslint-config-stripes": "^6.1.0",
     "@folio/stripes": "^7.3.1",
     "@folio/stripes-cli": "^2.6.1",
-    "@folio/stripes-testing": "^4.2.0",
+    "@folio/stripes-testing": "^4.3.1",
     "@formatjs/cli": "^4.2.31",
     "@interactors/html": "^1.0.0-rc1.2",
     "@testing-library/dom": "^8.16.0",
@@ -78,7 +78,6 @@
     "typescript": "^2.8.0"
   },
   "dependencies": {
-    "@folio/stripes-testing": "^4.3.1",
     "@k-int/stripes-kint-components": "^3.0.0",
     "@testing-library/react": "^12.1.5",
     "final-form": "^4.18.4",
