@@ -1,6 +1,7 @@
 import { useState } from 'react';
 
 const mockKintComponents = {
+  useIntlKeyStore:() => () => null,
   useRefdata: jest.fn().mockReturnValue([]),
   useQIndex: jest.fn(() => {
     return useState();
