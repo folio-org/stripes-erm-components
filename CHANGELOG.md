@@ -1,5 +1,7 @@
 # Change history for stripes-erm-components
 
+## 7.0.2 2022-11-01
+* Revert ERM-2395 for Nolana
 ## 7.0.1 2022-10-26
 * ERM-2395 Remove @folio/stripes-testing as direct dependency of stripes-erm-components
 
