@@ -81,20 +81,3 @@ export {
   useFileHandlers,
   useAgreement
 } from './lib/hooks';
-
-// Testing
-export {
-  Harness,
-  mockErmComponents,
-  mockKintComponents,
-  renderWithIntl,
-  TestForm,
-  translationsProperties
-} from './test/jest/helpers';
-
-// Interactors
-export {
-  HeadlineInteractor,
-  IconButtonInteractor,
-  DatepickerInteractor
-} from './test/jest/interactors';
