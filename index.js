@@ -18,7 +18,6 @@ export { default as DateFilter } from './lib/DateFilter';
 export { default as ViewOrganizationCard } from './lib/ViewOrganizationCard';
 export { default as LicenseCard } from './lib/LicenseCard';
 export { default as LicenseEndDate } from './lib/LicenseEndDate';
-export { default as LoadingPane } from './lib/LoadingPane';
 export { default as LogsList } from './lib/LogsList';
 export { default as OrganizationSelection } from './lib/OrganizationSelection';
 export { default as SerialCoverage } from './lib/SerialCoverage';
@@ -26,10 +25,6 @@ export { default as Tags } from './lib/Tags';
 export { default as TitleOnPlatformLink } from './lib/TitleOnPlatformLink';
 export { default as CustomMetaSection } from './lib/CustomMetaSection';
 export { default as SearchKeyControl } from './lib/SearchKeyControl';
-
-// HOCs
-export { default as withAsyncValidation } from './lib/withAsyncValidation';
-export { default as withKiwtFieldArray } from './lib/withKiwtFieldArray';
 
 // Functions, utilities, and misc.
 export { default as generateQueryParams } from './lib/generateQueryParams';
