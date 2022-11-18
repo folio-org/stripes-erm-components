@@ -1,5 +1,8 @@
 # Change history for stripes-erm-components
 
+## 7.0.3 2022-11-18
+* ERM-2423 Performance issues on displaying external agreement lines (Added queryParams to useAgreement hook)
+
 ## 7.0.2 2022-11-01
 * Revert ERM-2395 for Nolana
 ## 7.0.1 2022-10-26
