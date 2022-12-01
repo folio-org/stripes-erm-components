@@ -213,9 +213,9 @@
     "orgRoles.remove": "공급사 역할 {index} 제거",
     "orgRoles.orgRoleIndex": "조직 역할 {index}",
     "canvas.actions": "작업",
-    "dateFilter.activeFrom": "Active from",
-    "dateFilter.activeTo": "Active to",
-    "new": "New",
-    "errors.invalidNumber": "Please enter a valid number to continue",
-    "errors.decimalValueNotInRange": "Please enter a number in the range {min} to {max} to continue"
+    "dateFilter.activeFrom": "활성(From)",
+    "dateFilter.activeTo": "활성(To)",
+    "new": "신규",
+    "errors.invalidNumber": "계속하려면 유효한 숫자를 입력하세요.",
+    "errors.decimalValueNotInRange": "계속하려면 {min} {max} 범위의 숫자를 입력하세요."
 }
