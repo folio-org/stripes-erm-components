@@ -64,15 +64,4 @@ export { default as InfoBox } from './lib/InfoBox';
 export { default as NewBox } from './lib/NewBox';
 
 // customHooks
-export {
-  useHandleSubmitSearch,
-  useComposedRefs,
-  useTags,
-  useInfiniteFetch,
-  useBatchedFetch,
-  useUsers,
-  useTagsEnabled,
-  useAsyncValidation,
-  useFileHandlers,
-  useAgreement
-} from './lib/hooks';
+export * from './lib/hooks';
