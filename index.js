@@ -35,6 +35,7 @@ export { default as isPackage } from './lib/isPackage';
 export { default as renderUserName } from './lib/renderUserName';
 export { default as getRefdataValuesByDesc } from './lib/getRefdataValuesByDesc';
 export { default as renderDynamicRows } from './lib/renderDynamicRows';
+export { default as downloadBlob } from './lib/downloadBlob';
 
 export {
   tagsPath,
