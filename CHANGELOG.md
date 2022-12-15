@@ -1,5 +1,9 @@
 # Change history for stripes-erm-components
 
+## 6.2.2 2022-12-15
+* ERM-2538 On agreement and license view not all linked Org interfaces displaying
+* ERM-2547 On agreement and license user details do not display when more than one user linked to agreement/license as Internal contact
+
 ## 6.2.1 2022-07-29
 * ERM-2300 On loading entitlements for Agreement edit screen incorrect parameters are supplied
 
