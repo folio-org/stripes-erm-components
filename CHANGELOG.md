@@ -1,5 +1,8 @@
 # Change history for stripes-erm-components
 
+## 7.0.5 2023-01-24
+* Actually export useInterfaces hook from custom hooks. (In fact export all hooks automatically from this point forwards)
+
 # 7.0.4 2023-01-24
 * ERM-2547 On agreement and license user details do not display when more than one user linked to agreement/license as Internal contact
 * ERM-2538 On agreement and license view not all linked Org interfaces displaying
