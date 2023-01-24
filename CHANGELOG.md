@@ -6,6 +6,8 @@
   * LoadingPane
   * withAsyncValidation
   * withKiwtFieldArray
+* Upgrade `react-redux` to `v8`. Refs ERM-2616.
+
 ## 7.0.0 2022-10-26
 * ERM-2390 Licenses fails to add internal contact
 * ERM-2366 Core documents for a License shouldn't display a category
