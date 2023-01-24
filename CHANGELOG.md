@@ -1,5 +1,9 @@
 # Change history for stripes-erm-components
 
+# 7.0.4 2023-01-24
+* ERM-2547 On agreement and license user details do not display when more than one user linked to agreement/license as Internal contact
+* ERM-2538 On agreement and license view not all linked Org interfaces displaying
+
 ## 7.0.3 2022-11-18
 * ERM-2423 Performance issues on displaying external agreement lines (Added queryParams to useAgreement hook)
 
