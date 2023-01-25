@@ -217,5 +217,7 @@
     "dateFilter.activeTo": "有效到",
     "new": "新建",
     "errors.invalidNumber": "请输入有效数字以继续",
-    "errors.decimalValueNotInRange": "请输入{min}至{max}范围内的数字以继续"
+    "errors.decimalValueNotInRange": "请输入{min}至{max}范围内的数字以继续",
+    "dateFilter.cancellationDeadline": "Cancellation deadline",
+    "dateFilter.cancellationDeadlineNotSet": "Include {resourceName} with no cancellation deadline set"
 }
