@@ -217,5 +217,7 @@
     "dateFilter.activeTo": "Active to",
     "new": "New",
     "errors.invalidNumber": "Please enter a valid number to continue",
-    "errors.decimalValueNotInRange": "Please enter a number in the range {min} to {max} to continue"
+    "errors.decimalValueNotInRange": "Please enter a number in the range {min} to {max} to continue",
+    "dateFilter.cancellationDeadline": "Date limite d'annulation",
+    "dateFilter.cancellationDeadlineNotSet": "Include {resourceName} with no cancellation deadline set"
 }

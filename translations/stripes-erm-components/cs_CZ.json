@@ -51,7 +51,7 @@
     "interface.notes": "Poznámky",
     "interface.notFound": "Nebyla nalezena žádná rozhraní",
     "organizations.noOrgError": "Propojte organizaci a pokračujte",
-    "organizations.noOrganization": "Není připojena žádná organizace",
+    "organizations.noOrganization": "Není propojená žádná organizace",
     "organization": "Organizace",
     "fuf.uploading": "Počkejte prosím na nahrání souboru",
     "errors.uploadError": "Při nahrávání došlo k chybě",
@@ -209,7 +209,7 @@
     "organizations.roles": "Role",
     "organizations.addRole": "Přidat roli",
     "organizations.setAsPrimary": "Nastavit jako primární organizaci",
-    "organizations.duplicateOrgError": "<strong>Chyba:</strong> Organizace \"{orgName}\" nebyla propojena, protože je již propojena.",
+    "organizations.duplicateOrgError": "<strong>Chyba:</strong> Organizace \"{orgName}\" nebyla propojena, protože již je propojena.",
     "orgRoles.remove": "Odebrat roli organizace {index}",
     "orgRoles.orgRoleIndex": "Role organizace {index}",
     "canvas.actions": "Akce",
@@ -217,5 +217,7 @@
     "dateFilter.activeTo": "Aktivní do",
     "new": "Nový",
     "errors.invalidNumber": "Chcete-li pokračovat, zadejte prosím platné číslo",
-    "errors.decimalValueNotInRange": "Pro pokračování prosím zadejte číslo v rozsahu {min} až {max}"
+    "errors.decimalValueNotInRange": "Pro pokračování prosím zadejte číslo v rozsahu {min} až {max}",
+    "dateFilter.cancellationDeadline": "Lhůta pro zrušení",
+    "dateFilter.cancellationDeadlineNotSet": "Zahrnout {resourceName} bez nastavené lhůty pro zrušení"
 }

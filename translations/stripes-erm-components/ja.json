@@ -213,9 +213,11 @@
     "orgRoles.remove": "Remove organization role {index}",
     "orgRoles.orgRoleIndex": "Organization role {index}",
     "canvas.actions": "アクション",
-    "dateFilter.activeFrom": "Active from",
-    "dateFilter.activeTo": "Active to",
+    "dateFilter.activeFrom": "有効開始",
+    "dateFilter.activeTo": "有効終了",
     "new": "New",
     "errors.invalidNumber": "Please enter a valid number to continue",
-    "errors.decimalValueNotInRange": "Please enter a number in the range {min} to {max} to continue"
+    "errors.decimalValueNotInRange": "Please enter a number in the range {min} to {max} to continue",
+    "dateFilter.cancellationDeadline": "Cancellation deadline",
+    "dateFilter.cancellationDeadlineNotSet": "Include {resourceName} with no cancellation deadline set"
 }
