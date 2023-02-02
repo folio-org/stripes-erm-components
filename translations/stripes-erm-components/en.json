@@ -30,6 +30,7 @@
   "packageReference": "Package reference: {packageReference}",
   "rowNumber": "Row number: {rowNumber}",
   "recordNumber": "Record number: {recordNumber}",
+  "logs.title": "Title: {title}",
   "contacts.addContact": "Add internal contact",
   "contacts.contactIndex": "Internal contact {index}",
   "contacts.email": "Email address",
