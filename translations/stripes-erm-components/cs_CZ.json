@@ -219,5 +219,6 @@
     "errors.invalidNumber": "Chcete-li pokračovat, zadejte prosím platné číslo",
     "errors.decimalValueNotInRange": "Pro pokračování prosím zadejte číslo v rozsahu {min} až {max}",
     "dateFilter.cancellationDeadline": "Lhůta pro zrušení",
-    "dateFilter.cancellationDeadlineNotSet": "Zahrnout {resourceName} bez nastavené lhůty pro zrušení"
+    "dateFilter.cancellationDeadlineNotSet": "Zahrnout {resourceName} bez nastavené lhůty pro zrušení",
+    "logs.title": "Title: {title}"
 }
