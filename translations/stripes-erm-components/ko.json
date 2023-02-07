@@ -219,5 +219,6 @@
     "errors.invalidNumber": "계속하려면 유효한 숫자를 입력하세요.",
     "errors.decimalValueNotInRange": "계속하려면 {min} {max} 범위의 숫자를 입력하세요.",
     "dateFilter.cancellationDeadline": "Cancellation deadline",
-    "dateFilter.cancellationDeadlineNotSet": "Include {resourceName} with no cancellation deadline set"
+    "dateFilter.cancellationDeadlineNotSet": "Include {resourceName} with no cancellation deadline set",
+    "logs.title": "Title: {title}"
 }
