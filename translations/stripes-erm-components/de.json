@@ -220,5 +220,5 @@
     "errors.decimalValueNotInRange": "Bitte Zahl in einem Bereich von {min} bis {max} eingeben, um fortzufahren",
     "dateFilter.cancellationDeadline": "Stornierungsfrist",
     "dateFilter.cancellationDeadlineNotSet": "{resourceName} ohne Stornierungsfrist einschließen",
-    "logs.title": "Title: {title}"
+    "logs.title": "Titel: {title}"
 }
