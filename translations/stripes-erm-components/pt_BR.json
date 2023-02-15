@@ -220,5 +220,5 @@
     "errors.decimalValueNotInRange": "Favor inserir um número entre {min} e {max} para continuar",
     "dateFilter.cancellationDeadline": "Prazo de cancelamento",
     "dateFilter.cancellationDeadlineNotSet": "Incluir {resourceName} sem prazo de cancelamento definido",
-    "logs.title": "Title: {title}"
+    "logs.title": "Título: {title}"
 }
