@@ -187,7 +187,7 @@
     "days": "{count, number} {count, plural, one {dia} other {dias}}",
     "months": "{count, number} {count, plural, one {mês} other {meses}}",
     "years": "{count, number} {count, plural, one {ano} other {anos}}",
-    "infoLogNo": "Não há avisos de informação para este job.",
+    "infoLogNo": "Não há avisos de informação para este trabalho.",
     "errorLogNo": "Nenhum erro para reportar.",
     "columns.errorLogMessage": "Erro",
     "columns.infoLogMessage": "Mensagem",
