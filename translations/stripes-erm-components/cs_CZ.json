@@ -21,9 +21,9 @@
     "licenseCard.startDate": "Datum zahájení",
     "licenseCard.endDate": "Datum ukončení",
     "licenseCard.licensor": "Poskytovatel licence",
-    "tags": "Tagy",
-    "numberOfTags": "{count, number} {count, plural, one {Tag} other {Tagy}}",
-    "newTagCreated": "Byl vytvořen nový tag",
+    "tags": "Štítky",
+    "numberOfTags": "{count, number} {count, plural, one {Štítek} other {Štítků}}",
+    "newTagCreated": "Byl vytvořen nový štítek",
     "doc.category": "Kategorie",
     "placeholder.documentCategory": "Zadat kategorii",
     "contacts.addContact": "Přidat vnitřní kontakt",
@@ -220,5 +220,5 @@
     "errors.decimalValueNotInRange": "Pro pokračování prosím zadejte číslo v rozsahu {min} až {max}",
     "dateFilter.cancellationDeadline": "Lhůta pro zrušení",
     "dateFilter.cancellationDeadlineNotSet": "Zahrnout {resourceName} bez nastavené lhůty pro zrušení",
-    "logs.title": "Title: {title}"
+    "logs.title": "Název: {title}"
 }
