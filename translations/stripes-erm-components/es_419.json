@@ -218,7 +218,7 @@
     "new": "New",
     "errors.invalidNumber": "Please enter a valid number to continue",
     "errors.decimalValueNotInRange": "Please enter a number in the range {min} to {max} to continue",
-    "dateFilter.cancellationDeadline": "Cancellation deadline",
-    "dateFilter.cancellationDeadlineNotSet": "Include {resourceName} with no cancellation deadline set",
-    "logs.title": "Title: {title}"
+    "dateFilter.cancellationDeadline": "Plazo de anulación",
+    "dateFilter.cancellationDeadlineNotSet": "Incluir {resourceName} sin fecha límite de cancelación establecida",
+    "logs.title": "Título: {title}"
 }
