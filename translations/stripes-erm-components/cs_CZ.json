@@ -217,7 +217,7 @@
     "dateFilter.activeTo": "Aktivní do",
     "new": "Nový",
     "errors.invalidNumber": "Chcete-li pokračovat, zadejte prosím platné číslo",
-    "errors.decimalValueNotInRange": "Pro pokračování prosím zadejte číslo v rozsahu {min} až {max}",
+    "errors.decimalValueNotInRange": "Pro pokračování zadejte prosím číslo v rozsahu {min} až {max}",
     "dateFilter.cancellationDeadline": "Lhůta pro zrušení",
     "dateFilter.cancellationDeadlineNotSet": "Zahrnout {resourceName} bez nastavené lhůty pro zrušení",
     "logs.title": "Název: {title}"
