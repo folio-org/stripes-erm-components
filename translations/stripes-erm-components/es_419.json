@@ -216,8 +216,8 @@
     "dateFilter.activeFrom": "Active from",
     "dateFilter.activeTo": "Active to",
     "new": "New",
-    "errors.invalidNumber": "Please enter a valid number to continue",
-    "errors.decimalValueNotInRange": "Please enter a number in the range {min} to {max} to continue",
+    "errors.invalidNumber": "Introduzca un número válido para continuar",
+    "errors.decimalValueNotInRange": "Introduzca un número entre {min} y {max} para continuar",
     "dateFilter.cancellationDeadline": "Plazo de anulación",
     "dateFilter.cancellationDeadlineNotSet": "Incluir {resourceName} sin fecha límite de cancelación establecida",
     "logs.title": "Título: {title}"
