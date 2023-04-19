@@ -14,7 +14,7 @@
     "doc.noDocs": "Nenhum documento foi adicionado.",
     "doc.error.docsMustHaveLocationOrURL": "Cada documento deve especificar um arquivo, local ou URL.",
     "doc.error.invalidURL": "Por favor insira um URL válido (incluindo \"http\" ou \"https\").",
-    "licenseCard.openEnded": "Acabou de abrir",
+    "licenseCard.openEnded": "Em aberto",
     "licenseCard.notSet": "Não configurado",
     "licenseCard.type": "Tipo",
     "licenseCard.status": "Status",
