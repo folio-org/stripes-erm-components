@@ -218,6 +218,7 @@
     "new": "新建",
     "errors.invalidNumber": "请输入有效数字以继续",
     "errors.decimalValueNotInRange": "请输入{min}至{max}范围内的数字以继续",
-    "dateFilter.cancellationDeadline": "Cancellation deadline",
-    "dateFilter.cancellationDeadlineNotSet": "Include {resourceName} with no cancellation deadline set"
+    "dateFilter.cancellationDeadline": "取消截止日期",
+    "dateFilter.cancellationDeadlineNotSet": "包括未设置取消截止日期的{resourceName}",
+    "logs.title": "标题： {title}"
 }

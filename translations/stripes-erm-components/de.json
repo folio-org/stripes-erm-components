@@ -219,5 +219,6 @@
     "errors.invalidNumber": "Bitte gültige Nummer eingeben, um fortzufahren",
     "errors.decimalValueNotInRange": "Bitte Zahl in einem Bereich von {min} bis {max} eingeben, um fortzufahren",
     "dateFilter.cancellationDeadline": "Stornierungsfrist",
-    "dateFilter.cancellationDeadlineNotSet": "{resourceName} ohne Stornierungsfrist einschließen"
+    "dateFilter.cancellationDeadlineNotSet": "{resourceName} ohne Stornierungsfrist einschließen",
+    "logs.title": "Titel: {title}"
 }

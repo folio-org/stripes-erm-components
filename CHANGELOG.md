@@ -1,6 +1,28 @@
 # Change history for stripes-erm-components
 
-## 8.0.0 In progress
+## 8.1.0 In progress
+* ERM-2064 Move large file upload warning in document to a toast message
+
+## 8.0.0 2023-02-22
+* ERM-2634 If an agreement or license has >10 contacts they do not all display correctly
+* ERM-2632 Add a "copy" icon to copy the reference text used in the document type/reference MCL
+* ERM-2622 Refactor OrganizationSelection to react-query
+* ERM-2621 Refactor InternalContactSelection to react-query
+* ERM-2560 Increment stripes-erm-components to Stripes v8
+* ERM-2547 On agreement and license user details do not display when more than one user linked to agreement/license as Internal contact
+* ERM-2533 Refactor interfaces code to react-query
+* ERM-2474 Local KB admin: Info log export populates title element in additionalInfo with non-relevant data
+* ERM-2467 Change export file name and file extension in Agreements and Local KB admin
+* ERM-2463 Implement FormattedDateTime Interactor Pattern
+* ERM-2453 Switch stripes-erm-components to tests using stripes-erm-testing
+* ERM-2449 Add Cancellation date filter to Agreements search and sort
+* ERM-2423 Performance issues on displaying external agreement lines
+* ERM-2314 Managed Dashboards UI: managing available dashboards
+* ERM-2313 Managed Dashboards UI: managing users access to a dashboard
+* ERM-2292 Remove BigTest/Nightmare dependencies and tests (stripes-erm-components)
+* ERM-2289 Agreement line search and filter screen initial implementation
+* ERM-2235 Remove deprecations in Orchid
+* ERM-1304 Add test coverage for ui-plugin-find-agreement <AgreementSearch>
 * Removed all testing configuration and exports
 * Removed DEPRECATED Components
   * LoadingPane

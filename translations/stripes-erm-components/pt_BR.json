@@ -14,7 +14,7 @@
     "doc.noDocs": "Nenhum documento foi adicionado.",
     "doc.error.docsMustHaveLocationOrURL": "Cada documento deve especificar um arquivo, local ou URL.",
     "doc.error.invalidURL": "Por favor insira um URL válido (incluindo \"http\" ou \"https\").",
-    "licenseCard.openEnded": "Acabou de abrir",
+    "licenseCard.openEnded": "Em aberto",
     "licenseCard.notSet": "Não configurado",
     "licenseCard.type": "Tipo",
     "licenseCard.status": "Status",
@@ -187,7 +187,7 @@
     "days": "{count, number} {count, plural, one {dia} other {dias}}",
     "months": "{count, number} {count, plural, one {mês} other {meses}}",
     "years": "{count, number} {count, plural, one {ano} other {anos}}",
-    "infoLogNo": "Não há avisos de informação para este job.",
+    "infoLogNo": "Não há avisos de informação para este trabalho.",
     "errorLogNo": "Nenhum erro para reportar.",
     "columns.errorLogMessage": "Erro",
     "columns.infoLogMessage": "Mensagem",
@@ -219,5 +219,6 @@
     "errors.invalidNumber": "Favor inserir um número válido para continuar",
     "errors.decimalValueNotInRange": "Favor inserir um número entre {min} e {max} para continuar",
     "dateFilter.cancellationDeadline": "Prazo de cancelamento",
-    "dateFilter.cancellationDeadlineNotSet": "Incluir {resourceName} sem prazo de cancelamento definido"
+    "dateFilter.cancellationDeadlineNotSet": "Incluir {resourceName} sem prazo de cancelamento definido",
+    "logs.title": "Título: {title}"
 }
