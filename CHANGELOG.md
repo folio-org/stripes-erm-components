@@ -1,5 +1,8 @@
 # Change history for stripes-erm-components
 
+## 8.0.1 2023-05-26
+* ERM-2929 InternalContactSelection gets stuck in fetch loop
+
 ## 8.0.0 2023-02-22
 * ERM-2634 If an agreement or license has >10 contacts they do not all display correctly
 * ERM-2632 Add a "copy" icon to copy the reference text used in the document type/reference MCL
