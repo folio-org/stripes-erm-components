@@ -1,5 +1,8 @@
 # Change history for stripes-erm-components
 
+## 7.0.6 2023-05-26
+* ERM-2929 InternalContactSelection gets stuck in fetch loop
+
 ## 7.0.5 2023-01-24
 * Actually export useInterfaces hook from custom hooks. (In fact export all hooks automatically from this point forwards)
 
