@@ -2,6 +2,7 @@
 
 ## 8.1.0 In progress
 * ERM-2064 Move large file upload warning in document to a toast message
+* ERM-2938 Return undefined, not null, from functions passed to useEffect
 
 ## 8.0.0 2023-02-22
 * ERM-2634 If an agreement or license has >10 contacts they do not all display correctly
