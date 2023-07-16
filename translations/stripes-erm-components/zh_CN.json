@@ -220,5 +220,6 @@
     "errors.decimalValueNotInRange": "请输入{min}至{max}范围内的数字以继续",
     "dateFilter.cancellationDeadline": "取消截止日期",
     "dateFilter.cancellationDeadlineNotSet": "包括未设置取消截止日期的{resourceName}",
-    "logs.title": "标题： {title}"
+    "logs.title": "标题： {title}",
+    "doc.error.invalidSize": "URL may only be {size} characters long"
 }

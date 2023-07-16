@@ -220,5 +220,6 @@
     "errors.decimalValueNotInRange": "계속하려면 {min} {max} 범위의 숫자를 입력하세요.",
     "dateFilter.cancellationDeadline": "Cancellation deadline",
     "dateFilter.cancellationDeadlineNotSet": "Include {resourceName} with no cancellation deadline set",
-    "logs.title": "Title: {title}"
+    "logs.title": "Title: {title}",
+    "doc.error.invalidSize": "URL may only be {size} characters long"
 }

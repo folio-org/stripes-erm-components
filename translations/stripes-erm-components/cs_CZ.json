@@ -220,5 +220,6 @@
     "errors.decimalValueNotInRange": "Pro pokračování zadejte prosím číslo v rozsahu {min} až {max}",
     "dateFilter.cancellationDeadline": "Lhůta pro zrušení",
     "dateFilter.cancellationDeadlineNotSet": "Zahrnout {resourceName} bez nastavené lhůty pro zrušení",
-    "logs.title": "Název: {title}"
+    "logs.title": "Název: {title}",
+    "doc.error.invalidSize": "URL může mít pouze {size} znaků"
 }
