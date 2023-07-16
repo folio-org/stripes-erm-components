@@ -220,5 +220,6 @@
     "errors.decimalValueNotInRange": "Bitte Zahl in einem Bereich von {min} bis {max} eingeben, um fortzufahren",
     "dateFilter.cancellationDeadline": "Stornierungsfrist",
     "dateFilter.cancellationDeadlineNotSet": "{resourceName} ohne Stornierungsfrist einschließen",
-    "logs.title": "Titel: {title}"
+    "logs.title": "Titel: {title}",
+    "doc.error.invalidSize": "URL may only be {size} characters long"
 }

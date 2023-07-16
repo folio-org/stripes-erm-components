@@ -220,5 +220,6 @@
     "errors.decimalValueNotInRange": "Please enter a number in the range {min} to {max} to continue",
     "dateFilter.cancellationDeadline": "Termine di cancellazione",
     "dateFilter.cancellationDeadlineNotSet": "Includi {resourceName} senza termine di cancellazione configurato",
-    "logs.title": "Title: {title}"
+    "logs.title": "Title: {title}",
+    "doc.error.invalidSize": "URL may only be {size} characters long"
 }
