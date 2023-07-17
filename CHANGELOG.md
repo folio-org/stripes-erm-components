@@ -6,6 +6,10 @@
 * Added useParallelBatchFetch hook
   * For batch fetching KIWT resources
   * API more in line with useChunkedCQLFetch -- and in parallel
+* ERM-2973 Replace naive fetch hooks with parallelised ones (and deprecate)
+  * ERM-2974 DEPRECATED useBatchedFetch
+  * ERM-2975 DEPRECATED useUsers
+  * ERM-2976 InternalContactsSelection now uses useParallelBatchFetch
 
 ## 8.0.0 2023-02-22
 * ERM-2634 If an agreement or license has >10 contacts they do not all display correctly
