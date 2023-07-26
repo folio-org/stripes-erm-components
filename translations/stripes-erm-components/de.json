@@ -221,5 +221,5 @@
     "dateFilter.cancellationDeadline": "Stornierungsfrist",
     "dateFilter.cancellationDeadlineNotSet": "{resourceName} ohne Stornierungsfrist einschließen",
     "logs.title": "Titel: {title}",
-    "doc.error.invalidSize": "URL may only be {size} characters long"
+    "doc.error.invalidSize": "URL darf nur {size} Zeichen lang sein"
 }
