@@ -1,6 +1,6 @@
 {
   "name": "@folio/stripes-erm-components",
-  "version": "8.1.0",
+  "version": "9.0.0",
   "description": "Component library for Stripes ERM applications",
   "sideEffects": [
     "*.css"
@@ -60,7 +60,7 @@
     "typescript": "^2.8.0"
   },
   "dependencies": {
-    "@k-int/stripes-kint-components": "^4.0.0",
+    "@k-int/stripes-kint-components": "^5.0.0",
     "final-form": "^4.18.4",
     "final-form-arrays": "^3.0.1",
     "lodash": "^4.17.4",
