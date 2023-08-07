@@ -1,15 +1,17 @@
 # Change history for stripes-erm-components
 
-## 8.1.0 In progress
+## 9.0.0 In progress
 * ERM-2064 Move large file upload warning in document to a toast message
 * ERM-2938 Return undefined, not null, from functions passed to useEffect
 * Added useParallelBatchFetch hook
   * For batch fetching KIWT resources
   * API more in line with useChunkedCQLFetch -- and in parallel
 * ERM-2973 Replace naive fetch hooks with parallelised ones (and deprecate)
-  * ERM-2974 DEPRECATED useBatchedFetch
-  * ERM-2975 DEPRECATED useUsers
+  * ERM-2974 Removed useBatchedFetch
+  * ERM-2975 Removed useUsers
   * ERM-2976 InternalContactsSelection now uses useParallelBatchFetch
+  * STRIPES-870 BREAKING upgrade react to v18
+    * ERM-2989 Upgrade stripes-erm-components React to v18
 
 ## 8.0.0 2023-02-22
 * ERM-2634 If an agreement or license has >10 contacts they do not all display correctly

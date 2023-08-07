@@ -14,9 +14,12 @@
     "jest-dom/prefer-to-have-attribute": "error"
   },
   "env": {
-    "jest/globals": true
+    "jest": true
   },
-  "plugins": ["babel", "jest", "testing-library", "jest-dom"],
+  "plugins": [
+    "testing-library",
+    "jest-dom"
+  ],
   "overrides": [
     {
       "files": ["lib/**/*.test.js", "test/**"],
