@@ -67,3 +67,6 @@ export { default as NewBox } from './lib/NewBox';
 
 // customHooks
 export * from './lib/hooks';
+
+// constants
+export * from './lib/constants';
