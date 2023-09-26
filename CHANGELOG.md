@@ -13,6 +13,7 @@
   * STRIPES-870 BREAKING upgrade react to v18
     * ERM-2989 Upgrade stripes-erm-components React to v18
   * Deprecated useChunkedCQLFetch -- can import from stripes/core now
+* Added selectifyRefdata utility for using refdata within select fields 
 
 ## 8.0.0 2023-02-22
 * ERM-2634 If an agreement or license has >10 contacts they do not all display correctly

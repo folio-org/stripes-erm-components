@@ -37,6 +37,7 @@ export { default as getRefdataValuesByDesc } from './lib/getRefdataValuesByDesc'
 export { default as renderDynamicRows } from './lib/renderDynamicRows';
 export { default as downloadBlob } from './lib/downloadBlob';
 export { default as recursiveUrlDecoding } from './lib/recursiveUrlDecoding';
+export { default as selectifyRefdata } from './lib/selectifyRefdata';
 
 export {
   tagsPath,
