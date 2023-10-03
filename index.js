@@ -19,6 +19,7 @@ export { default as ViewOrganizationCard } from './lib/ViewOrganizationCard';
 export { default as LicenseCard } from './lib/LicenseCard';
 export { default as LicenseEndDate } from './lib/LicenseEndDate';
 export { default as LogsList } from './lib/LogsList';
+export { default as Logs } from './lib/Logs';
 export { default as OrganizationSelection } from './lib/OrganizationSelection';
 export { default as SerialCoverage } from './lib/SerialCoverage';
 export { default as Tags } from './lib/Tags';
