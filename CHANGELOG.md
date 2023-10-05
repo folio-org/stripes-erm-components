@@ -1,6 +1,9 @@
 # Change history for stripes-erm-components
 
 ## 9.0.0 In progress
+* ERM-3045 Swap Logs component to prev-next pagination
+  * Set up centralised Log component for use in other modules
+  * Swapped to prev-next pagination for logs
 * ERM-2064 Move large file upload warning in document to a toast message
 * ERM-2938 Return undefined, not null, from functions passed to useEffect
 * Added useParallelBatchFetch hook

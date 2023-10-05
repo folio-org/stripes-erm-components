@@ -41,7 +41,8 @@
     "regenerator-runtime": "^0.13.3",
     "rxjs": "^6.6.3",
     "testing-library-selector": "^0.2.1",
-    "typescript": "^2.8.0"
+    "typescript": "^2.8.0",
+    "zustand": "^4.4.0"
   },
   "dependencies": {
     "@k-int/stripes-kint-components": "^5.0.0",
@@ -61,7 +62,8 @@
     "react-intl": "^6.4.4",
     "react-query": "^3.9.0",
     "react-redux": "^8.0.5",
-    "react-router-dom": "^5.2.0"
+    "react-router-dom": "^5.2.0",
+    "zustand": "^4.4.0"
   },
   "stripes": {
     "actsAs": [
