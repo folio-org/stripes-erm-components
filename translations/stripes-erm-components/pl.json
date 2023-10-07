@@ -213,13 +213,16 @@
     "orgRoles.remove": "Remove organization role {index}",
     "orgRoles.orgRoleIndex": "Organization role {index}",
     "canvas.actions": "Actions",
-    "dateFilter.activeFrom": "Active from",
-    "dateFilter.activeTo": "Active to",
+    "dateFilter.activeFrom": "Aktywne od",
+    "dateFilter.activeTo": "Aktywne do",
     "new": "New",
     "errors.invalidNumber": "Please enter a valid number to continue",
     "errors.decimalValueNotInRange": "Please enter a number in the range {min} to {max} to continue",
-    "dateFilter.cancellationDeadline": "Cancellation deadline",
+    "dateFilter.cancellationDeadline": "Termin anulowania",
     "dateFilter.cancellationDeadlineNotSet": "Include {resourceName} with no cancellation deadline set",
     "logs.title": "Title: {title}",
-    "doc.error.invalidSize": "URL may only be {size} characters long"
+    "doc.error.invalidSize": "URL may only be {size} characters long",
+    "export": "Eksport",
+    "errorLog": "Dziennik błędów",
+    "infoLog": "Info log"
 }

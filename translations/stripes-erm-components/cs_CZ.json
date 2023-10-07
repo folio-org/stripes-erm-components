@@ -221,5 +221,8 @@
     "dateFilter.cancellationDeadline": "Lhůta pro zrušení",
     "dateFilter.cancellationDeadlineNotSet": "Zahrnout {resourceName} bez nastavené lhůty pro zrušení",
     "logs.title": "Název: {title}",
-    "doc.error.invalidSize": "URL může mít pouze {size} znaků"
+    "doc.error.invalidSize": "URL může mít pouze {size} znaků",
+    "export": "Export",
+    "errorLog": "Error log",
+    "infoLog": "Info log"
 }

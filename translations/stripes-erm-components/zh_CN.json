@@ -221,5 +221,8 @@
     "dateFilter.cancellationDeadline": "取消截止日期",
     "dateFilter.cancellationDeadlineNotSet": "包括未设置取消截止日期的{resourceName}",
     "logs.title": "标题： {title}",
-    "doc.error.invalidSize": "URL 长度只能为 {size} 字符"
+    "doc.error.invalidSize": "URL 长度只能为 {size} 字符",
+    "export": "Export",
+    "errorLog": "Error log",
+    "infoLog": "Info log"
 }
