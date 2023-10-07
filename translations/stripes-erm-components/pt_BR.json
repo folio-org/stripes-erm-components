@@ -221,5 +221,8 @@
     "dateFilter.cancellationDeadline": "Prazo de cancelamento",
     "dateFilter.cancellationDeadlineNotSet": "Incluir {resourceName} sem prazo de cancelamento definido",
     "logs.title": "Título: {title}",
-    "doc.error.invalidSize": "O URL só pode ter {size} caracteres"
+    "doc.error.invalidSize": "O URL só pode ter {size} caracteres",
+    "export": "Exportar",
+    "errorLog": "Log de erros",
+    "infoLog": "Log de informações"
 }
