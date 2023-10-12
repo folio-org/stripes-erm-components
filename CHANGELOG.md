@@ -1,5 +1,7 @@
 # Change history for stripes-erm-components
 
+## 9.1.0 In progress
+
 ## 9.0.0 2023-10-12
 * Added useParallelBatchFetch hook
   * For batch fetching KIWT resources
