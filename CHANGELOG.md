@@ -1,14 +1,17 @@
 # Change history for stripes-erm-components
 
-## 9.0.0 In progress
-* ERM-3045 Swap Logs component to prev-next pagination
-  * Set up centralised Log component for use in other modules
-  * Swapped to prev-next pagination for logs
-* ERM-2064 Move large file upload warning in document to a toast message
-* ERM-2938 Return undefined, not null, from functions passed to useEffect
+## 9.0.0 2023-10-12
 * Added useParallelBatchFetch hook
   * For batch fetching KIWT resources
   * API more in line with useChunkedCQLFetch -- and in parallel
+* Added selectifyRefdata utility for using refdata within select fields
+* Added usePrevious hook for use within RolesFieldArray
+* ERM-3045 Swap Logs component to prev-next pagination
+  * Set up centralised Log component for use in other modules
+  * Swapped to prev-next pagination for logs
+* ERM-3040 Dashboard: "New" badge is wrapping onto two lines
+* ERM-3001 Update Node.js to v18 in GitHub Actions
+* ERM-2978 Edition, volume, issue render on new line 
 * ERM-2973 Replace naive fetch hooks with parallelised ones (and deprecate)
   * ERM-2974 Removed useBatchedFetch
   * ERM-2975 Removed useUsers
@@ -16,8 +19,16 @@
   * STRIPES-870 BREAKING upgrade react to v18
     * ERM-2989 Upgrade stripes-erm-components React to v18
   * Deprecated useChunkedCQLFetch -- can import from stripes/core now
-* ERM-3034 *BREAKING* bump `react-intl` to `v6.4.4`
-* Added selectifyRefdata utility for using refdata within select fields 
+* ERM-2961 Extend length of document URL to 2048 chars
+* ERM-2938 Return undefined, not null, from functions passed to useEffect
+* ERM-2937 Added usePrevNextPagination hook
+* ERM-2929 InternalContactSelection gets stuck in fetch loop
+* ERM-2064 Move large file upload warning in document to a toast message
+* STRIPES-868 *BREAKING* bump `react-intl` to `v6.4.4`
+  * ERM-3034 Upgrade `react-intl` to `v6.4.4`
+* STRIPES-870 *BREAKING* upgrade react to v18
+  * ERM-2989 Upgrade stripes-erm-components React to v18
+* SI-24 Avoid double encoding of user entered URLs in simple search widget
 
 ## 8.0.0 2023-02-22
 * ERM-2634 If an agreement or license has >10 contacts they do not all display correctly
