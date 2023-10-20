@@ -1,5 +1,8 @@
 # Change history for stripes-erm-components
 
+## 9.0.1 2023-10-22
+* ERM-2989 Fixed react peer dep
+
 ## 9.0.0 2023-10-12
 * Added useParallelBatchFetch hook
   * For batch fetching KIWT resources
