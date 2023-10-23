@@ -222,7 +222,7 @@
     "dateFilter.cancellationDeadlineNotSet": "Include {resourceName} with no cancellation deadline set",
     "logs.title": "Title: {title}",
     "doc.error.invalidSize": "URL may only be {size} characters long",
-    "export": "Export",
+    "export": "Exporter",
     "errorLog": "Error log",
     "infoLog": "Info log"
 }
