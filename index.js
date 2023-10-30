@@ -2,6 +2,7 @@
 export { default as ActionMenu } from './lib/ActionMenu';
 export { default as AlternativeNamesFieldArray } from './lib/AlternativeNamesFieldArray';
 export { default as DocumentCard } from './lib/DocumentCard';
+export { default as DocumentFilter } from './lib/DocumentFilter';
 export { default as DocumentsFieldArray } from './lib/DocumentsFieldArray';
 export { default as DuplicateModal } from './lib/DuplicateModal';
 export { default as EditCard } from './lib/EditCard';
