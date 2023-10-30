@@ -224,5 +224,21 @@
     "doc.error.invalidSize": "O URL só pode ter {size} caracteres",
     "export": "Exportar",
     "errorLog": "Log de erros",
-    "infoLog": "Log de informações"
+    "infoLog": "Log de informações",
+    "documentFilter.documents": "Core documents",
+    "documentFilter.supplementaryDocuments": "Supplementary documents",
+    "documentFilter.filtersApplied": "{filtersLength} document filters applied",
+    "documentFilter.editDocumentFilters": "Edit document filters",
+    "documentFilter.supplementaryDocumentFilterBuilder": "Supplementary document filter builder",
+    "documentFilter.coreDocumentFilterBuilder": "Core document filter builder",
+    "documentFilter.deleteFilterIndex": "Delete filter {number}",
+    "documentFilter.documentFilterIndex": "Document filter {number}",
+    "documentFilter.addFilter": "Add filter",
+    "documentFilter.attribute": "Attribute",
+    "documentFilter.comparator": "Comparator",
+    "documentFilter.addRule": "Add rule",
+    "documentFilter.removeRule": "Remove rule {number}",
+    "comparator": "Operator",
+    "value": "Value",
+    "contentType": "Content type"
 }
