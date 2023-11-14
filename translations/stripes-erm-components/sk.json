@@ -147,7 +147,7 @@
     "apply": "Apply",
     "cancel": "Cancel",
     "OR": "OR",
-    "AND": "AND",
+    "AND": "A",
     "customProperty.filters.addRule": "Add rule",
     "customProperty.filters.comparator": "Comparator",
     "customProperty.filters.removeRule": "Remove rule {index}",
