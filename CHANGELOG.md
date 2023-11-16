@@ -1,6 +1,7 @@
 # Change history for stripes-erm-components
 
 ## 9.1.0 In progress
+* usePrevNextPagination null safety (yarn test warnings)
 
 ## 9.0.0 2023-10-12
 * Added useParallelBatchFetch hook
