@@ -2,6 +2,7 @@
 
 ## 9.1.0 In progress
 * usePrevNextPagination null safety (yarn test warnings)
+* Refactor to move utilities tp dedicated directory
 
 ## 9.0.0 2023-10-12
 * Added useParallelBatchFetch hook
