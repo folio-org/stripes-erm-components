@@ -13,7 +13,6 @@
     "doc.name": "이름",
     "doc.noDocs": "문서가 추가되지 않았습니다.",
     "doc.error.docsMustHaveLocationOrURL": "각 문서는 파일, 위치 또는 URL을 지정해야합니다.",
-    "doc.error.invalidURL": "유효한 URL ( \"http\"또는 \"https\"포함)을 입력하십시오.",
     "licenseCard.openEnded": "기한없음",
     "licenseCard.notSet": "설정되지 않음",
     "licenseCard.type": "유형",
@@ -221,7 +220,6 @@
     "dateFilter.cancellationDeadline": "취소 기한",
     "dateFilter.cancellationDeadlineNotSet": "취소 기한이 설정되지 않은 {resourceName} 포함",
     "logs.title": "Title: {title}",
-    "doc.error.invalidSize": "URL may only be {size} characters long",
     "export": "Export",
     "errorLog": "Error log",
     "infoLog": "Info log",
@@ -240,5 +238,7 @@
     "documentFilter.removeRule": "Remove rule {number}",
     "comparator": "Operator",
     "value": "Value",
-    "contentType": "Content type"
+    "contentType": "Content type",
+    "url.error.invalidURL": "Please enter a valid URL (including \"http\" or \"https\").",
+    "url.error.invalidSize": "The URL may only be {size} characters long"
 }
