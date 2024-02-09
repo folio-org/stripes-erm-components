@@ -13,7 +13,6 @@
     "doc.name": "Nombre",
     "doc.noDocs": "No se han agregado documentos.",
     "doc.error.docsMustHaveLocationOrURL": "Cada documento debe especificar un archivo, ubicación o URL.",
-    "doc.error.invalidURL": "Por favor, introduzca una URL válida (incluyendo \"http\" o \"https\").",
     "licenseCard.openEnded": "Final abierto",
     "licenseCard.notSet": "No establecido",
     "licenseCard.type": "Tipo",
@@ -221,7 +220,6 @@
     "dateFilter.cancellationDeadline": "Cancellation deadline",
     "dateFilter.cancellationDeadlineNotSet": "Include {resourceName} with no cancellation deadline set",
     "logs.title": "Title: {title}",
-    "doc.error.invalidSize": "URL may only be {size} characters long",
     "export": "Exportar",
     "errorLog": "Log del error",
     "infoLog": "Info log",
@@ -240,5 +238,7 @@
     "documentFilter.removeRule": "Remove rule {number}",
     "comparator": "Operator",
     "value": "Value",
-    "contentType": "Content type"
+    "contentType": "Content type",
+    "url.error.invalidURL": "Please enter a valid URL (including \"http\" or \"https\").",
+    "url.error.invalidSize": "The URL may only be {size} characters long"
 }

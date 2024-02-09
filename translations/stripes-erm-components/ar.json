@@ -13,7 +13,6 @@
     "doc.name": "الاسم",
     "doc.noDocs": "لم تتم إضافة أي وثائق.",
     "doc.error.docsMustHaveLocationOrURL": "يجب على كل وثيقة تحديد الملف أو الموقع أو عنوان URL",
-    "doc.error.invalidURL": "يرجى إدخال عنوان URL صالح (متضمنًا \"http\" أو\"https\") ",
     "licenseCard.openEnded": "فتح المنتهي",
     "licenseCard.notSet": "لم يتم تعيينه",
     "licenseCard.type": "النوع",
@@ -221,7 +220,6 @@
     "dateFilter.cancellationDeadline": "Cancellation deadline",
     "dateFilter.cancellationDeadlineNotSet": "Include {resourceName} with no cancellation deadline set",
     "logs.title": "Title: {title}",
-    "doc.error.invalidSize": "URL may only be {size} characters long",
     "export": "Export",
     "errorLog": "Error log",
     "infoLog": "Info log",
@@ -240,5 +238,7 @@
     "documentFilter.removeRule": "Remove rule {number}",
     "comparator": "Operator",
     "value": "Value",
-    "contentType": "Content type"
+    "contentType": "Content type",
+    "url.error.invalidURL": "Please enter a valid URL (including \"http\" or \"https\").",
+    "url.error.invalidSize": "The URL may only be {size} characters long"
 }

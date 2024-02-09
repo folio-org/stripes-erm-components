@@ -13,7 +13,6 @@
     "doc.name": "名稱",
     "doc.noDocs": "未添加文档。",
     "doc.error.docsMustHaveLocationOrURL": "每个文档都必须指定文件、馆藏地或URL。",
-    "doc.error.invalidURL": "請輸入有效的網址（包含 http 或 https）。",
     "licenseCard.openEnded": "開放式結束",
     "licenseCard.notSet": "未設定",
     "licenseCard.type": "類型",
@@ -221,7 +220,6 @@
     "dateFilter.cancellationDeadline": "Cancellation deadline",
     "dateFilter.cancellationDeadlineNotSet": "Include {resourceName} with no cancellation deadline set",
     "logs.title": "Title: {title}",
-    "doc.error.invalidSize": "URL may only be {size} characters long",
     "export": "Export",
     "errorLog": "Error log",
     "infoLog": "Info log",
@@ -240,5 +238,7 @@
     "documentFilter.removeRule": "Remove rule {number}",
     "comparator": "Operator",
     "value": "Value",
-    "contentType": "Content type"
+    "contentType": "Content type",
+    "url.error.invalidURL": "Please enter a valid URL (including \"http\" or \"https\").",
+    "url.error.invalidSize": "The URL may only be {size} characters long"
 }
