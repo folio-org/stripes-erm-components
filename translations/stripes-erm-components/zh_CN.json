@@ -13,7 +13,6 @@
     "doc.name": "名称",
     "doc.noDocs": "未添加文档。",
     "doc.error.docsMustHaveLocationOrURL": "每个文档都必须指定一个文件、馆藏地或URL。",
-    "doc.error.invalidURL": "请输入有效的URL（包括“http”或“https”）。",
     "licenseCard.openEnded": "开放式",
     "licenseCard.notSet": "未设置",
     "licenseCard.type": "类型",
@@ -221,7 +220,6 @@
     "dateFilter.cancellationDeadline": "取消截止日期",
     "dateFilter.cancellationDeadlineNotSet": "包括未设置取消截止日期的{resourceName}",
     "logs.title": "标题： {title}",
-    "doc.error.invalidSize": "URL 长度只能为 {size} 字符",
     "export": "导出",
     "errorLog": "错误日志",
     "infoLog": "信息日志",
@@ -240,5 +238,7 @@
     "documentFilter.removeRule": "移除规则{number}",
     "comparator": "布尔算符",
     "value": "值",
-    "contentType": "内容类型"
+    "contentType": "内容类型",
+    "url.error.invalidURL": "请输入有效的URL（包括“http”或“https”）。",
+    "url.error.invalidSize": "URL 的长度只能是{size}个字符"
 }
