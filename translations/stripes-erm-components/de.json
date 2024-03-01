@@ -239,6 +239,6 @@
     "comparator": "Operator",
     "value": "Wert",
     "contentType": "Inhaltstyp",
-    "url.error.invalidURL": "Please enter a valid URL (including \"http\" or \"https\").",
-    "url.error.invalidSize": "The URL may only be {size} characters long"
+    "url.error.invalidURL": "Bitte gültige URL (einschließlich \"http\" oder \"https\") eingeben",
+    "url.error.invalidSize": "URL darf nur {size} Zeichen lang sein"
 }
