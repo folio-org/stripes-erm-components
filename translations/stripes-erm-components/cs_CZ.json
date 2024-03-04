@@ -239,6 +239,6 @@
     "comparator": "Operátor",
     "value": "Hodnota",
     "contentType": "Typ obsahu",
-    "url.error.invalidURL": "Please enter a valid URL (including \"http\" or \"https\").",
-    "url.error.invalidSize": "The URL may only be {size} characters long"
+    "url.error.invalidURL": "Zadejte prosím platnou URL (včetně \"http\" nebo \"https\").",
+    "url.error.invalidSize": "URL může mít pouze {size} znaků"
 }
