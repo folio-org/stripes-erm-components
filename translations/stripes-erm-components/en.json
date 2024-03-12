@@ -240,5 +240,10 @@
   "numberOfTags": "{count, number} {count, plural, one {Tag} other {Tags}}",
   "newTagCreated": "New tag created",
   "no": "No",
-  "yes": "Yes"
+  "yes": "Yes",
+  "unsavedChanges": "There are unsaved changes",
+  "areYouSure": "Are you sure?",
+  "saveChanges": "Save Changes",
+  "closeWithoutSaving": "Close without saving",
+  "keepEditing": "Keep editing"
 }
