@@ -240,5 +240,10 @@
     "value": "Valor",
     "contentType": "Tipo de conteúdo",
     "url.error.invalidURL": "Por favor insira uma URL válido (incluindo \"http\" ou \"https\").",
-    "url.error.invalidSize": "A URL só pode ter {size} caracteres"
+    "url.error.invalidSize": "A URL só pode ter {size} caracteres",
+    "unsavedChanges": "Existem alterações não salvas",
+    "areYouSure": "Você tem certeza?",
+    "saveChanges": "Salvar alterações",
+    "closeWithoutSaving": "Fechar sem salvar",
+    "keepEditing": "Continuar editando"
 }

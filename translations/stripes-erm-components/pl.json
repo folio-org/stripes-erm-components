@@ -237,8 +237,13 @@
     "documentFilter.addRule": "Add rule",
     "documentFilter.removeRule": "Remove rule {number}",
     "comparator": "Operator",
-    "value": "Value",
+    "value": "Wartość",
     "contentType": "Content type",
     "url.error.invalidURL": "Please enter a valid URL (including \"http\" or \"https\").",
-    "url.error.invalidSize": "The URL may only be {size} characters long"
+    "url.error.invalidSize": "The URL may only be {size} characters long",
+    "unsavedChanges": "There are unsaved changes",
+    "areYouSure": "Are you sure?",
+    "saveChanges": "Save Changes",
+    "closeWithoutSaving": "Close without saving",
+    "keepEditing": "Keep editing"
 }

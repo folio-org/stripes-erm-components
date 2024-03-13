@@ -240,5 +240,10 @@
     "value": "Hodnota",
     "contentType": "Typ obsahu",
     "url.error.invalidURL": "Zadejte prosím platnou URL (včetně \"http\" nebo \"https\").",
-    "url.error.invalidSize": "URL může mít pouze {size} znaků"
+    "url.error.invalidSize": "URL může mít pouze {size} znaků",
+    "unsavedChanges": "There are unsaved changes",
+    "areYouSure": "Are you sure?",
+    "saveChanges": "Save Changes",
+    "closeWithoutSaving": "Close without saving",
+    "keepEditing": "Keep editing"
 }
