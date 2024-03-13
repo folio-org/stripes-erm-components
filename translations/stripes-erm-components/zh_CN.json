@@ -240,5 +240,10 @@
     "value": "值",
     "contentType": "内容类型",
     "url.error.invalidURL": "请输入有效的URL（包括“http”或“https”）。",
-    "url.error.invalidSize": "URL 的长度只能是{size}个字符"
+    "url.error.invalidSize": "URL 的长度只能是{size}个字符",
+    "unsavedChanges": "There are unsaved changes",
+    "areYouSure": "Are you sure?",
+    "saveChanges": "Save Changes",
+    "closeWithoutSaving": "Close without saving",
+    "keepEditing": "Keep editing"
 }
