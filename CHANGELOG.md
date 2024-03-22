@@ -1,5 +1,7 @@
 # Change history for stripes-erm-components
 
+## 9.2.0 In progress
+
 ## 9.1.0 2024-03-22
 * ERM-3129 Remove explicit typescript version
 * ERM-3126 Misleading tailing comma in OrganizationsArrayDisplay
