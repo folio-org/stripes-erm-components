@@ -1,19 +1,19 @@
 # Change history for stripes-erm-components
 
-## 9.1.0 In progress
+## 9.1.0 2024-03-22
+* ERM-3129 Remove explicit typescript version
+* ERM-3126 Misleading tailing comma in OrganizationsArrayDisplay
+* ERM-3119 Add Organisation status to organisation card display
+* ERM-3062 Add has/has not filter in Licenses and amendments
+* ERM-3059 Filter for supplementary documents in License amendments
+* ERM-3058 Filter for supplementary documents in Licenses
+* ERM-3057 Filter for core documents in License amendments
+* ERM-3056 Filter for core documents in Licenses
+* ERM-3041 Dashboard: the "unsaved changes" confirmation modal is missing
+* ERM-2981 Standardise use of external url validator library across ERM apps
 * usePrevNextPagination null safety (yarn test warnings)
 * Refactor to move utilities tp dedicated directory
 * feat: getIdsFromUrl #654
-* ERM-2981 Standardise use of external url validator library across ERM apps
-* ERM-3041 Dashboard: the "unsaved changes" confirmation modal is missing
-* ERM-3056 Filter for core documents in Licenses
-* ERM-3057 Filter for core documents in License amendments
-* ERM-3058 Filter for supplementary documents in Licenses
-* ERM-3059 Filter for supplementary documents in License amendments
-* ERM-3062 Add has/has not filter in Licenses and amendments
-* ERM-3119 Add Organisation status to organisation card display
-* ERM-3126 Misleading tailing comma in OrganizationsArrayDisplay
-* ERM-3129 Remove explicit typescript version
 
 ## 9.0.0 2023-10-12
 * Added useParallelBatchFetch hook
