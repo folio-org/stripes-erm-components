@@ -241,9 +241,9 @@
     "contentType": "Content type",
     "url.error.invalidURL": "Please enter a valid URL (including \"http\" or \"https\").",
     "url.error.invalidSize": "The URL may only be {size} characters long",
-    "unsavedChanges": "There are unsaved changes",
-    "areYouSure": "Are you sure?",
-    "saveChanges": "Save Changes",
-    "closeWithoutSaving": "Close without saving",
-    "keepEditing": "Keep editing"
+    "unsavedChanges": "保存されていない変更があります",
+    "areYouSure": "本当にいいですか？",
+    "saveChanges": "変更を保存",
+    "closeWithoutSaving": "保存せずに閉じる",
+    "keepEditing": "編集を続ける"
 }
