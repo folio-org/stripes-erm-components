@@ -15,7 +15,7 @@
   "infoLogNo": "No information notices for this job.",
   "errorLogNo": "No errors to report.",
   "canvas.actions": "Actions",
-  "error": "Error",
+  "defaultErrorHeader": "Error",
   "errorNumber": "Error number",
   "errorMessage": "Error message",
   "columns.errorLogMessage": "Error",
