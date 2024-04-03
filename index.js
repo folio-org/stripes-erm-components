@@ -9,6 +9,7 @@ export { default as DocumentsFieldArray } from './lib/DocumentsFieldArray';
 export { default as DuplicateModal } from './lib/DuplicateModal';
 export { default as EditCard } from './lib/EditCard';
 export { default as ERMForm } from './lib/ERMForm';
+export { default as ErrorCard } from './lib/ErrorCard';
 export { default as Embargo } from './lib/Embargo';
 export { default as EResourceType } from './lib/EResourceType';
 export { default as FileUploader } from './lib/FileUploader';
