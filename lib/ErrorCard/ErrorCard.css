@@ -1,0 +1,36 @@
+@import "@folio/stripes-components/lib/variables.css";
+
+.titleWrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+h1.title {
+  font-size: var(--font-size-large);
+  text-align: center;
+  padding: 15px;
+  line-height: 125%;
+}
+
+h3.title {
+  font-size: var(--font-size-medium);
+  text-align: center;
+}
+
+@media screen and (width <= 900px) {
+  h1.title {
+    font-size: var(--font-size-medium);
+  }
+
+  h3.title {
+    font-size: var(--font-size-small);
+  }
+}
+
+.fadeIcon {
+  opacity: 0.5;
+  transition: opacity 0.3s ease;
+}

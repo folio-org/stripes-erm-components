@@ -241,9 +241,9 @@
     "contentType": "Inhaltstyp",
     "url.error.invalidURL": "Bitte gültige URL (einschließlich \"http\" oder \"https\") eingeben",
     "url.error.invalidSize": "URL darf nur {size} Zeichen lang sein",
-    "unsavedChanges": "There are unsaved changes",
-    "areYouSure": "Are you sure?",
-    "saveChanges": "Save Changes",
-    "closeWithoutSaving": "Close without saving",
-    "keepEditing": "Keep editing"
+    "unsavedChanges": "Es gibt nicht gespeicherte Änderungen",
+    "areYouSure": "Sicher?",
+    "saveChanges": "Änderungen speichern",
+    "closeWithoutSaving": "Schließen ohne Speichern",
+    "keepEditing": "Weiter bearbeiten"
 }
