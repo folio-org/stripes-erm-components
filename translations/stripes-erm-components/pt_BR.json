@@ -245,5 +245,9 @@
     "areYouSure": "Você tem certeza?",
     "saveChanges": "Salvar alterações",
     "closeWithoutSaving": "Fechar sem salvar",
-    "keepEditing": "Continuar editando"
+    "keepEditing": "Continuar editando",
+    "errors.errorCard.defaultErrorHeader": "Erro",
+    "errors.errorCard.title": "Erro {number}: {message}",
+    "errors.errorCard.defaultTitle": "Algo deu errado.",
+    "errors.errorCard.text": "Atualize a página. Se o problema persistir, entre em contato com o administrador."
 }
