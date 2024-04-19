@@ -2,6 +2,17 @@
 
 ## 9.2.0 In progress
 
+## 9.1.1 2024-04-19
+  * ERM-3186 Change default search options for LocalKB titles to exclude identifiers
+    * Added defaultSearchKey to useSASQQIndex, allowing for differing behaviour of default qIndex and default search (With no qIndex specified)
+  * ERM-3172 The failure of reference object when displaying agreement line should be handled elegantly
+    * New ErrorCard components
+  * formatJS dependency updated
+  * Translations
+  * Added number field utilities
+    * preventMinusKey -- prevent typing of `-` key in number text field
+    * preventPasteNegative -- prevent pasting of negative number in number text field
+
 ## 9.1.0 2024-03-22
 * ERM-3129 Remove explicit typescript version
 * ERM-3126 Misleading tailing comma in OrganizationsArrayDisplay
