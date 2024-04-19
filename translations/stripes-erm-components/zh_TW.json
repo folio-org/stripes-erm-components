@@ -245,5 +245,9 @@
     "areYouSure": "Are you sure?",
     "saveChanges": "Save Changes",
     "closeWithoutSaving": "Close without saving",
-    "keepEditing": "Keep editing"
+    "keepEditing": "Keep editing",
+    "errors.errorCard.defaultErrorHeader": "Error",
+    "errors.errorCard.title": "Error {number}: {message}",
+    "errors.errorCard.defaultTitle": "Something went wrong.",
+    "errors.errorCard.text": "Refresh the page. If the problem persists contact your administrator."
 }

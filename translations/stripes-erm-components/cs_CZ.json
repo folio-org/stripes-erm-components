@@ -124,7 +124,7 @@
     "prop.customPropertyValue": "Hodnota",
     "prop.customPropertyVisibility": "Viditelnost",
     "errors.hasNonAlphaName": "Název může obsahovat pouze latinské abecední znaky (a-z) a neprovádové číselné znaky.",
-    "supplementaryProperty.help.label": "Termín dohody \"štítek\" se používá při zobrazování doplňkové vlastnosti uživatelům v rámci Folio a v jakýchkoli jiných systémech, které zobrazují doplňkové vlastnosti dohody uživatelům. Měl by to být krátký textový řetězec, který jasně sděluje, jaké informace jsou v doplňkové vlastnosti zaznamenány. Popis by se měl použít v případě, že je pro zobrazení uživatelům nutné další vysvětlení doplňkové vlastnosti.",
+    "supplementaryProperty.help.label": "Termín dohody \"štítek\" se používá při zobrazování doplňkové vlastnosti uživatelům v rámci FOLIO a v jakýchkoli jiných systémech, které zobrazují doplňkové vlastnosti dohody uživatelům. Měl by to být krátký textový řetězec, který jasně sděluje, jaké informace jsou v doplňkové vlastnosti zaznamenány. Popis by se měl použít v případě, že je pro zobrazení uživatelům nutné další vysvětlení doplňkové vlastnosti.",
     "supplementaryProperty.help.name": "Při výstupu doplňkových dat vlastností ve strojově čitelném formátu se používá smluvní termín 'název'. Není určeno k zobrazení uživatelům (zaměstnancům nebo čtenářům). Mělo by se jednat o krátký řetězec latinské abecedy, který mohou používat jakékoli externí systémy nebo programy, které přistupují k doplňkovým údajům o vlastnictví smlouvy. Využití camelCase je doporučeno, ale není vyžadováno. Změny názvu doplňkového majetku smlouvy by ovlivnily jakékoli externí systémy využívající doplňková data vlastnictví smlouvy a změny by neměly být prováděny bez konzultace s osobami odpovědnými za příslušné externí systémy a software.",
     "term.help.label": "\"Štítek\" licenční podmínky se používá při zobrazování podmínky uživatelům ve FOLIO a v jakýchkoli jiných systémech, které uživatelům zobrazují licenční podmínky. Měl by to být krátký textový řetězec, který jasně sděluje, jaké informace jsou v dané podmínce zaznamenány. Popis by měl být použit tam, kde je pro zobrazení uživatelům vyžadováno další vysvětlení pojmu.",
     "term.help.name": "Licenční termín 'název' se používá při výstupu dat termínu ve strojově čitelném formátu. Není určeno k zobrazení uživatelům (zaměstnancům nebo čtenářům). Mělo by se jednat o krátký řetězec latinské abecedy, který mohou používat jakékoli externí systémy nebo programy, které přistupují k datům licenčního termínu. Využití camelCase je doporučeno, ale není vyžadováno. Změny názvu licenčního termínu by ovlivnily jakékoli externí systémy využívající data licenčních podmínek a změny by neměly být prováděny bez konzultace s osobami odpovědnými za příslušné externí systémy a software.",
@@ -241,9 +241,13 @@
     "contentType": "Typ obsahu",
     "url.error.invalidURL": "Zadejte prosím platnou URL (včetně \"http\" nebo \"https\").",
     "url.error.invalidSize": "URL může mít pouze {size} znaků",
-    "unsavedChanges": "There are unsaved changes",
-    "areYouSure": "Are you sure?",
-    "saveChanges": "Save Changes",
-    "closeWithoutSaving": "Close without saving",
-    "keepEditing": "Keep editing"
+    "unsavedChanges": "Existují neuložené změny",
+    "areYouSure": "Opravdu?",
+    "saveChanges": "Uložit změny",
+    "closeWithoutSaving": "Zavřít bez uložení",
+    "keepEditing": "Pokračovat v úpravách",
+    "errors.errorCard.defaultErrorHeader": "Chyba",
+    "errors.errorCard.title": "Chyba {number}: {message}",
+    "errors.errorCard.defaultTitle": "Něco se pokazilo.",
+    "errors.errorCard.text": "Obnovte stránku. Pokud problém přetrvává, kontaktujte svého správce."
 }

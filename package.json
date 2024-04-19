@@ -1,6 +1,6 @@
 {
   "name": "@folio/stripes-erm-components",
-  "version": "9.1.0",
+  "version": "9.1.1",
   "description": "Component library for Stripes ERM applications",
   "sideEffects": [
     "*.css"
@@ -23,7 +23,7 @@
     "@folio/stripes": "^9.1.0",
     "@folio/stripes-cli": "^3.1.0",
     "@folio/stripes-erm-testing": "^2.1.0",
-    "@formatjs/cli": "^4.2.31",
+    "@formatjs/cli": "^6.1.3",
     "classnames": ">=2.2.6",
     "core-js": "^3.6.1",
     "eslint": "^7.32.0",
