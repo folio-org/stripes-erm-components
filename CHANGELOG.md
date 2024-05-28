@@ -1,5 +1,11 @@
 # Change history for stripes-erm-components
 
+## 9.1.2 2924-05-28
+  * ERM-3220 Update pagination mechanisms for MCLs to work without stats
+    * useFetchMultiplePages hook
+    * usePrevNextPagination hook prop "hasNextPage"
+  * Translations
+
 ## 9.1.1 2024-04-19
   * ERM-3186 Change default search options for LocalKB titles to exclude identifiers
     * Added defaultSearchKey to useSASQQIndex, allowing for differing behaviour of default qIndex and default search (With no qIndex specified)
