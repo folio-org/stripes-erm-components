@@ -13,15 +13,17 @@
 
 
 name: buildNPM Snapshot
-on: [push, pull_request]
-
+on: 
+  pull_request:
+  push:
+    branches: [master]
 jobs:
   github-actions-ci:
     env:
       YARN_TEST_OPTIONS: ''
-      SQ_ROOT_DIR: './lib'
+      SQ_ROOT_DIR: './src'
       COMPILE_TRANSLATION_FILES: 'true'
-      PUBLISH_MOD_DESCRIPTOR: 'false'
+      PUBLISH_MOD_DESCRIPTOR: 'true'
       FOLIO_NPM_REGISTRY: 'https://repository.folio.org/repository/npm-folioci/'
       FOLIO_NPM_REGISTRY_AUTH: '//repository.folio.org/repository/npm-folioci/'
       FOLIO_MD_REGISTRY: 'https://folio-registry.dev.folio.org'
@@ -66,7 +68,7 @@ jobs:
       - name: Run yarn lint
         run: yarn lint
         continue-on-error: true
-        
+      
       - name: Get number of CPU cores
         id: cpu-cores
         uses: SimenB/github-actions-cpu-cores@v1
@@ -155,7 +157,7 @@ jobs:
           echo ".github" >> .npmignore
           echo ".scannerwork" >> .npmignore
           cat .npmignore
-
+          
       - name: Publish NPM
         if: ${{ github.ref == 'refs/heads/master' || github.ref  == 'refs/heads/main' }}
         run: npm publish
@@ -180,5 +182,4 @@ jobs:
           customHeaders: '{ "Accept": "application/json; charset=utf-8" }'
           data: ${{ steps.moduleDescriptor.outputs.content }}
           username: ${{ secrets.FOLIO_REGISTRY_USERNAME }}
-          password: ${{ secrets.FOLIO_REGISTRY_PASSWORD }}
-
+          password: ${{ secrets.FOLIO_REGISTRY_PASSWORD }} 
