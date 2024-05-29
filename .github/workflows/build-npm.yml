@@ -13,8 +13,10 @@
 
 
 name: buildNPM Snapshot
-on: [push, pull_request]
-
+on: 
+  pull_request:
+  push:
+    branches: [master]
 jobs:
   github-actions-ci:
     env:
@@ -181,4 +183,3 @@ jobs:
           data: ${{ steps.moduleDescriptor.outputs.content }}
           username: ${{ secrets.FOLIO_REGISTRY_USERNAME }}
           password: ${{ secrets.FOLIO_REGISTRY_PASSWORD }}
-
