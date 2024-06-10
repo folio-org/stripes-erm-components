@@ -196,7 +196,7 @@
     "packageSource": "Paketquelle: {packageSource}",
     "packageReference": "Paketreferenz: {packageReference}",
     "rowNumber": "Zeilennummer: {rowNumber}",
-    "recordNumber": "Datensatznummer: {recordnumber}",
+    "recordNumber": "Datensatznummer: {recordNumber}",
     "dateFilter.startDate": "Startdatum",
     "dateFilter.endDate": "Enddatum",
     "dateFilter.onOrAfter": "Am oder nach",
