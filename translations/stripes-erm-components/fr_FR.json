@@ -81,7 +81,7 @@
     "organizations.replaceOrganization": "Remplacer l'organisation",
     "interface.noCredentialsPermission": "Vous ne disposez pas des autorisations appropriées pour afficher les informations d'identification de la plateforme.",
     "viewOrg.name": "Nom",
-    "organizations.noOrgPlugin": "Aucun plugin \"trouver l'organisation\" n'est installé",
+    "organizations.noOrgPlugin": "Aucun plugin \"rechercher-organisation\" n'est installé",
     "errors.uploadError.1": "<strong> Erreur: </strong> le fichier n'a pas été téléchargé car la connexion a été interrompue.",
     "errors.uploadError.2": "Veuillez vérifier que la taille du fichier soit inférieure ou égale à <strong> {number} Mo </strong> et réessayer.",
     "errors.uploadError.3": "Si le problème persiste, contactez votre administrateur système.",
