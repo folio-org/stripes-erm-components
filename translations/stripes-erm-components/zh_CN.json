@@ -246,8 +246,8 @@
     "saveChanges": "保存更改",
     "closeWithoutSaving": "关闭而不保存",
     "keepEditing": "继续编辑",
-    "errors.errorCard.defaultErrorHeader": "Error",
-    "errors.errorCard.title": "Error {number}: {message}",
-    "errors.errorCard.defaultTitle": "Something went wrong.",
-    "errors.errorCard.text": "Refresh the page. If the problem persists contact your administrator."
+    "errors.errorCard.defaultErrorHeader": "错误",
+    "errors.errorCard.title": "错误{number} ： {message}",
+    "errors.errorCard.defaultTitle": "出了些问题。",
+    "errors.errorCard.text": "刷新页面。如果问题仍然存在，请联系管理员。"
 }
