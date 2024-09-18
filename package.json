@@ -45,6 +45,7 @@
   },
   "dependencies": {
     "@k-int/stripes-kint-components": "^5.5.1",
+    "dayjs": "^1.11.13",
     "final-form": "^4.18.4",
     "final-form-arrays": "^3.0.1",
     "final-form-focus": "^1.1.2",
