@@ -11,7 +11,7 @@
   "license": "Apache-2.0",
   "scripts": {
     "test": "yarn run test:jest",
-    "test:jest": "jest --ci --coverage",
+    "test:jest": "jest --ci --coverage --maxWorkers=50%",
     "lint": "eslint lib test",
     "formatjs-compile": "formatjs compile-folder --ast --format simple ./translations/stripes-erm-components ./translations/stripes-erm-components/compiled"
   },
