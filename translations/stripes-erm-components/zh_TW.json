@@ -249,5 +249,6 @@
     "errors.errorCard.defaultErrorHeader": "錯誤",
     "errors.errorCard.title": "錯誤{number} ： {message}",
     "errors.errorCard.defaultTitle": "發生了一些問題 !",
-    "errors.errorCard.text": "請重新整理頁面，如果問題仍然存在，請聯繫您的系統管理員。"
+    "errors.errorCard.text": "請重新整理頁面，如果問題仍然存在，請聯繫您的系統管理員。",
+    "errors.invalidDate": "Please enter a valid date to continue"
 }

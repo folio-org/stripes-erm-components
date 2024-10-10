@@ -204,10 +204,10 @@
     "dateFilter.startDateNotSet": "Inclui {resourceName} sem data de início definida",
     "dateFilter.endDateNotSet": "Inclui {resourceName} sem data de término definida",
     "dateFilter.errors.OnOrAfterGreaterThanOnOrBefore": "A data Em ou após a data não deve ser posterior à data de Em ou antes",
-    "licenseCard.primaryOrg": "Organização primária",
+    "licenseCard.primaryOrg": "Organização principal",
     "organizations.roles": "Funções",
     "organizations.addRole": "Adicionar função",
-    "organizations.setAsPrimary": "Definir como organização primária",
+    "organizations.setAsPrimary": "Definir como organização principal",
     "organizations.duplicateOrgError": "<strong>Erro:</strong> Organização \"{orgName}\" não foi vinculada porque já está vinculada.",
     "orgRoles.remove": "Remover função da organização {index}",
     "orgRoles.orgRoleIndex": "Função da organização {index}",
@@ -249,5 +249,6 @@
     "errors.errorCard.defaultErrorHeader": "Erro",
     "errors.errorCard.title": "Erro {number}: {message}",
     "errors.errorCard.defaultTitle": "Algo deu errado.",
-    "errors.errorCard.text": "Atualize a página. Se o problema persistir, entre em contato com o administrador."
+    "errors.errorCard.text": "Atualize a página. Se o problema persistir, entre em contato com o administrador.",
+    "errors.invalidDate": "Insira uma data válida para continuar"
 }
