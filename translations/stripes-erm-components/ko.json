@@ -75,7 +75,7 @@
     "contacts.linkUser": "사용자 링크",
     "contacts.linkUserToStart": "시작하기 위해 사용자 링크",
     "contacts.noUserLinked": "연결된 사용자 없음",
-    "contacts.replaceUser": "사용자 {user} 바꾸기",
+    "contacts.replaceUser": "Replace user",
     "organizations.linkOrganization": "공급사 링크",
     "organizations.linkOrganizationToStart": "시작하기 위해 공급사 링크",
     "organizations.replaceOrganization": "공급사 바꾸기",
@@ -249,5 +249,6 @@
     "errors.errorCard.defaultErrorHeader": "Error",
     "errors.errorCard.title": "Error {number}: {message}",
     "errors.errorCard.defaultTitle": "Something went wrong.",
-    "errors.errorCard.text": "Refresh the page. If the problem persists contact your administrator."
+    "errors.errorCard.text": "Refresh the page. If the problem persists contact your administrator.",
+    "errors.invalidDate": "Please enter a valid date to continue"
 }
