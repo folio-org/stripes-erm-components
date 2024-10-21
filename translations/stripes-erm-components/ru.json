@@ -249,5 +249,6 @@
     "errors.errorCard.defaultErrorHeader": "Error",
     "errors.errorCard.title": "Error {number}: {message}",
     "errors.errorCard.defaultTitle": "Something went wrong.",
-    "errors.errorCard.text": "Refresh the page. If the problem persists contact your administrator."
+    "errors.errorCard.text": "Refresh the page. If the problem persists contact your administrator.",
+    "errors.invalidDate": "Please enter a valid date to continue"
 }
