@@ -11,7 +11,7 @@
   "license": "Apache-2.0",
   "scripts": {
     "test": "yarn run test:jest",
-    "test:jest": "jest --ci --coverage",
+    "test:jest": "jest --ci --coverage --maxWorkers=50%",
     "lint": "eslint lib test",
     "formatjs-compile": "formatjs compile-folder --ast --format simple ./translations/stripes-erm-components ./translations/stripes-erm-components/compiled"
   },
@@ -45,6 +45,7 @@
   },
   "dependencies": {
     "@k-int/stripes-kint-components": "^5.5.1",
+    "dayjs": "^1.11.13",
     "final-form": "^4.18.4",
     "final-form-arrays": "^3.0.1",
     "final-form-focus": "^1.1.2",
