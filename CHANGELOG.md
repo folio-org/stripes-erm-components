@@ -1,8 +1,14 @@
 # Change history for stripes-erm-components
 
-## 9.2.0 In progress
+## 9.2.0 2024-10-31
+  * ERM-3373 Update module license and guidance for stripes-erm-components
+  * ERM-3344 Move GitHub actions to shared workflows
+  * ERM-3332 Add documents filter to agreement line search
+  * ERM-3297 Block save on invalid date in agreement edit
+  * ERM-3273 React v19: refactor stripes-erm-components away from default props for functional components
+  * ERM-3249 Upgrade useFetchMultiplePages to allow an arbitrary selection of pages to be fetched at once
 
-## 9.1.2 2924-05-28
+## 9.1.2 2024-05-28
   * ERM-3220 Update pagination mechanisms for MCLs to work without stats
     * useFetchMultiplePages hook
     * usePrevNextPagination hook prop "hasNextPage"

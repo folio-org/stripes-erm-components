@@ -10,6 +10,8 @@ jobs:
     uses: folio-org/.github/.github/workflows/ui.yml@v1
     with:
       sonar-sources: ./lib
+      generate-module-descriptor: false # Shared libraries do not need module descriptors, they're an okapi thing
+      publish-module-descriptor: false
     # Only handle push events from the main branch, to decrease noise
-    if: github.ref_name == github.event.repository.default_branch || github.event_name != 'push'
+    if: github.ref_name == github.event.repository.default_branch || github.event_name != 'push' || github.ref_type == 'tag'
     secrets: inherit
