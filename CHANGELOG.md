@@ -1,5 +1,7 @@
 # Change history for stripes-erm-components
 
+## 9.3.0 IN PROGRESS
+
 ## 9.2.0 2024-10-31
   * ERM-3373 Update module license and guidance for stripes-erm-components
   * ERM-3344 Move GitHub actions to shared workflows
