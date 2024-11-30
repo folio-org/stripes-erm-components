@@ -224,11 +224,8 @@
     "errorLog": "錯誤日誌紀錄",
     "infoLog": "資訊日誌紀錄",
     "documentFilter.documents": "核心檔案",
-    "documentFilter.supplementaryDocuments": "補充檔案",
     "documentFilter.filtersApplied": "應用了{filtersLength}檔案篩選器",
     "documentFilter.editDocumentFilters": "編輯檔案篩選器",
-    "documentFilter.supplementaryDocumentFilterBuilder": "補充檔案篩選產生器",
-    "documentFilter.coreDocumentFilterBuilder": "核心檔案篩選產生器",
     "documentFilter.deleteFilterIndex": "刪除篩選{number}",
     "documentFilter.documentFilterIndex": "檔案篩選器",
     "documentFilter.addFilter": "新增篩選器",
@@ -249,5 +246,11 @@
     "errors.errorCard.defaultErrorHeader": "錯誤",
     "errors.errorCard.title": "錯誤{number} ： {message}",
     "errors.errorCard.defaultTitle": "發生了一些問題 !",
-    "errors.errorCard.text": "請重新整理頁面，如果問題仍然存在，請聯繫您的系統管理員。"
+    "errors.errorCard.text": "請重新整理頁面，如果問題仍然存在，請聯繫您的系統管理員。",
+    "errors.invalidDate": "Please enter a valid date to continue",
+    "documentFilter.filterName.coreDocuments": "Core documents",
+    "documentFilter.filterName.supplementaryDocuments": "Supplementary documents",
+    "documentFilter.filterBuilder.coreDocuments": "Core document filter builder",
+    "documentFilter.filterBuilder.supplementaryDocuments": "Supplementary document filter builder",
+    "documentFilter.documentFilterBuilder": "Document filter builder"
 }

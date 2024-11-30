@@ -223,12 +223,9 @@
     "export": "Exporter",
     "errorLog": "Error log",
     "infoLog": "Info log",
-    "documentFilter.documents": "Core documents",
-    "documentFilter.supplementaryDocuments": "Documents complémentaires",
+    "documentFilter.documents": "Documents",
     "documentFilter.filtersApplied": "{filtersLength} document filters applied",
     "documentFilter.editDocumentFilters": "Edit document filters",
-    "documentFilter.supplementaryDocumentFilterBuilder": "Générateur des filtres de document complémentaire",
-    "documentFilter.coreDocumentFilterBuilder": "Core document filter builder",
     "documentFilter.deleteFilterIndex": "Delete filter {number}",
     "documentFilter.documentFilterIndex": "Document filter {number}",
     "documentFilter.addFilter": "Add filter",
@@ -249,5 +246,11 @@
     "errors.errorCard.defaultErrorHeader": "Error",
     "errors.errorCard.title": "Error {number}: {message}",
     "errors.errorCard.defaultTitle": "Something went wrong.",
-    "errors.errorCard.text": "Refresh the page. If the problem persists contact your administrator."
+    "errors.errorCard.text": "Refresh the page. If the problem persists contact your administrator.",
+    "errors.invalidDate": "Please enter a valid date to continue",
+    "documentFilter.filterName.coreDocuments": "Core documents",
+    "documentFilter.filterName.supplementaryDocuments": "Supplementary documents",
+    "documentFilter.filterBuilder.coreDocuments": "Core document filter builder",
+    "documentFilter.filterBuilder.supplementaryDocuments": "Supplementary document filter builder",
+    "documentFilter.documentFilterBuilder": "Document filter builder"
 }
