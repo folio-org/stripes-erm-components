@@ -224,11 +224,8 @@
     "errorLog": "错误日志",
     "infoLog": "信息日志",
     "documentFilter.documents": "核心文档",
-    "documentFilter.supplementaryDocuments": "补充文档",
     "documentFilter.filtersApplied": "已应用{filtersLength}文档筛选",
     "documentFilter.editDocumentFilters": "编辑文档筛选",
-    "documentFilter.supplementaryDocumentFilterBuilder": "补充文档筛选生成器",
-    "documentFilter.coreDocumentFilterBuilder": "核心文档筛选构建器",
     "documentFilter.deleteFilterIndex": "删除筛选{number}",
     "documentFilter.documentFilterIndex": "文档筛选{number}",
     "documentFilter.addFilter": "添加筛选",
@@ -249,5 +246,11 @@
     "errors.errorCard.defaultErrorHeader": "错误",
     "errors.errorCard.title": "错误{number} ： {message}",
     "errors.errorCard.defaultTitle": "出了些问题。",
-    "errors.errorCard.text": "刷新页面。如果问题仍然存在，请联系管理员。"
+    "errors.errorCard.text": "刷新页面。如果问题仍然存在，请联系管理员。",
+    "errors.invalidDate": "请输入有效日期以继续",
+    "documentFilter.filterName.coreDocuments": "Core documents",
+    "documentFilter.filterName.supplementaryDocuments": "Supplementary documents",
+    "documentFilter.filterBuilder.coreDocuments": "Core document filter builder",
+    "documentFilter.filterBuilder.supplementaryDocuments": "Supplementary document filter builder",
+    "documentFilter.documentFilterBuilder": "Document filter builder"
 }

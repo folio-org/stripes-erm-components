@@ -224,11 +224,8 @@
     "errorLog": "Fehlerprotokoll",
     "infoLog": "Infoprotokoll",
     "documentFilter.documents": "Hauptdokumente",
-    "documentFilter.supplementaryDocuments": "Ergänzende Dokumente",
     "documentFilter.filtersApplied": "{filtersLength} Dokumentfilter angewendet",
     "documentFilter.editDocumentFilters": "Dokumentfilter bearbeiten",
-    "documentFilter.supplementaryDocumentFilterBuilder": "Ergänzende Dokumentfilter-Baukasten",
-    "documentFilter.coreDocumentFilterBuilder": "Hauptdokumentfilter-Baukasten",
     "documentFilter.deleteFilterIndex": "Filter {number} löschen",
     "documentFilter.documentFilterIndex": "Dokumentfilter {number}",
     "documentFilter.addFilter": "Filter hinzufügen",
@@ -249,5 +246,11 @@
     "errors.errorCard.defaultErrorHeader": "Fehler",
     "errors.errorCard.title": "Fehler {number}: {message}",
     "errors.errorCard.defaultTitle": "Fehler ist aufgetreten",
-    "errors.errorCard.text": "Bitte Seite aktualisieren. Sollte das Problem weiterbestehen, Systemadministration kontaktieren."
+    "errors.errorCard.text": "Bitte Seite aktualisieren. Sollte das Problem weiterbestehen, Systemadministration kontaktieren.",
+    "errors.invalidDate": "Bitte gültiges Datum eingeben, um fortzufahren",
+    "documentFilter.filterName.coreDocuments": "Hauptdokumente",
+    "documentFilter.filterName.supplementaryDocuments": "Ergänzende Dokumente",
+    "documentFilter.filterBuilder.coreDocuments": "Hauptdokumentfilter-Baukasten",
+    "documentFilter.filterBuilder.supplementaryDocuments": "Ergänzende Dokumentfilter-Baukasten",
+    "documentFilter.documentFilterBuilder": "Dokumentfilter-Baukasten"
 }
