@@ -33,6 +33,7 @@ export { default as SerialCoverage } from './lib/SerialCoverage';
 export { default as Tags } from './lib/Tags';
 export { default as TitleOnPlatformLink } from './lib/TitleOnPlatformLink';
 export { default as ViewOrganizationCard } from './lib/ViewOrganizationCard';
+export { default as RefdataSelect } from './lib/RefdataSelect';
 
 // Shared registry components/functions
 export { default as InternalContactsArrayDisplay } from './lib/InternalContactsArrayDisplay';
