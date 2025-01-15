@@ -229,7 +229,7 @@
     "documentFilter.deleteFilterIndex": "Delete filter {number}",
     "documentFilter.documentFilterIndex": "Document filter {number}",
     "documentFilter.addFilter": "Add filter",
-    "documentFilter.attribute": "Attribute",
+    "documentFilter.attribute": "Atrybut",
     "documentFilter.comparator": "Comparator",
     "documentFilter.addRule": "Add rule",
     "documentFilter.removeRule": "Remove rule {number}",
