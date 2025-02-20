@@ -253,6 +253,6 @@
     "documentFilter.filterBuilder.coreDocuments": "Core document filter builder",
     "documentFilter.filterBuilder.supplementaryDocuments": "Supplementary document filter builder",
     "documentFilter.documentFilterBuilder": "Document filter builder",
-    "documentFilter.has": "Has",
-    "documentFilter.hasNot": "Has not"
+    "documentFilter.has": "Має",
+    "documentFilter.hasNot": "Не має"
 }

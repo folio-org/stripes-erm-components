@@ -252,5 +252,7 @@
     "documentFilter.filterName.supplementaryDocuments": "Ergänzende Dokumente",
     "documentFilter.filterBuilder.coreDocuments": "Hauptdokumentfilter-Baukasten",
     "documentFilter.filterBuilder.supplementaryDocuments": "Ergänzende Dokumentfilter-Baukasten",
-    "documentFilter.documentFilterBuilder": "Dokumentfilter-Baukasten"
+    "documentFilter.documentFilterBuilder": "Dokumentfilter-Baukasten",
+    "documentFilter.has": "Hat",
+    "documentFilter.hasNot": "Hat nicht"
 }

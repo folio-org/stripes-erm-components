@@ -252,5 +252,7 @@
     "documentFilter.filterName.supplementaryDocuments": "Dokumenty uzupełniające",
     "documentFilter.filterBuilder.coreDocuments": "Core document filter builder",
     "documentFilter.filterBuilder.supplementaryDocuments": "Supplementary document filter builder",
-    "documentFilter.documentFilterBuilder": "Document filter builder"
+    "documentFilter.documentFilterBuilder": "Document filter builder",
+    "documentFilter.has": "Ma",
+    "documentFilter.hasNot": "Nie ma"
 }
