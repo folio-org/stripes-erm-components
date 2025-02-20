@@ -252,5 +252,7 @@
     "documentFilter.filterName.supplementaryDocuments": "Documentos suplementares",
     "documentFilter.filterBuilder.coreDocuments": "Construtor de filtro de documento principal",
     "documentFilter.filterBuilder.supplementaryDocuments": "Construtor de filtro de documento suplementar",
-    "documentFilter.documentFilterBuilder": "Criador de filtros de documentos"
+    "documentFilter.documentFilterBuilder": "Criador de filtros de documentos",
+    "documentFilter.has": "Tem",
+    "documentFilter.hasNot": "Não tem"
 }
