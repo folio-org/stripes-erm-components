@@ -1,5 +1,6 @@
 # Change history for stripes-erm-components
 
+
 ## 10.0.0 2025-03-13
   * ERM-3606 *BREAKING* Stripes v10 dependencies update
     * Updated all stripes-* dependencies for the stripes v10 upgrade along with react-intl and formatjs/cli
