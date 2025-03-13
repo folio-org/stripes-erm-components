@@ -1,6 +1,11 @@
 # Change history for stripes-erm-components
 
-## 9.3.0 IN PROGRESS
+## 10.0.0 2025-03-13
+  * ERM-3606 *BREAKING* Stripes v10 dependencies update
+    * Updated all stripes-* dependencies for the stripes v10 upgrade along with react-intl and formatjs/cli
+  * ERM-3452 Centralise content filter array used in Licenses and Agreements
+  * ERM-3429 Set up RefdataSelect component 
+  * UISER-185 Change to paginated display in the serials and piece sets search and sort results
 
 ## 9.2.1 2024-11-27
   * ERM-3431 License Export as CSV does not result in file download
