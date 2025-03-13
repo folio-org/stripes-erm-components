@@ -1,5 +1,6 @@
 # Change history for stripes-erm-components
 
+## 10.1.0 IN PROGRESS
 
 ## 10.0.0 2025-03-13
   * ERM-3606 *BREAKING* Stripes v10 dependencies update
