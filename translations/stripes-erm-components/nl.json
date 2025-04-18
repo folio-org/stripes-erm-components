@@ -247,12 +247,12 @@
     "errors.errorCard.title": "Fout {number}: {message}",
     "errors.errorCard.defaultTitle": "Er ging iets mis.",
     "errors.errorCard.text": "Vernieuw de pagina. Neem contact op met uw FOLIO-systeembeheerder als het probleem zich blijft voordoen.",
-    "errors.invalidDate": "Please enter a valid date to continue",
-    "documentFilter.filterName.coreDocuments": "Core documents",
-    "documentFilter.filterName.supplementaryDocuments": "Supplementary documents",
-    "documentFilter.filterBuilder.coreDocuments": "Core document filter builder",
-    "documentFilter.filterBuilder.supplementaryDocuments": "Supplementary document filter builder",
-    "documentFilter.documentFilterBuilder": "Document filter builder",
-    "documentFilter.has": "Has",
-    "documentFilter.hasNot": "Has not"
+    "errors.invalidDate": "Voer een geldige datum in om verder te gaan",
+    "documentFilter.filterName.coreDocuments": "Centrale documenten",
+    "documentFilter.filterName.supplementaryDocuments": "Aanvullende documenten",
+    "documentFilter.filterBuilder.coreDocuments": "Bouwer van filter voor centrale documenten",
+    "documentFilter.filterBuilder.supplementaryDocuments": "Bouwer van aanvullende documentfilters",
+    "documentFilter.documentFilterBuilder": "Bouwer documentfilter",
+    "documentFilter.has": "Heeft",
+    "documentFilter.hasNot": "Heeft niet"
 }
