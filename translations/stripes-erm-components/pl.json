@@ -247,7 +247,7 @@
     "errors.errorCard.title": "Error {number}: {message}",
     "errors.errorCard.defaultTitle": "Something went wrong.",
     "errors.errorCard.text": "Refresh the page. If the problem persists contact your administrator.",
-    "errors.invalidDate": "Please enter a valid date to continue",
+    "errors.invalidDate": "Proszę wprowadzić prawidłową datę, aby kontynuować",
     "documentFilter.filterName.coreDocuments": "Core documents",
     "documentFilter.filterName.supplementaryDocuments": "Dokumenty uzupełniające",
     "documentFilter.filterBuilder.coreDocuments": "Core document filter builder",
