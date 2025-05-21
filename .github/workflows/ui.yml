@@ -7,7 +7,7 @@ on:
 jobs:
   ui:
     # Use the shared workflow from https://github.com/folio-org/.github
-    uses: folio-org/.github/.github/workflows/ui.yml@v1.6
+    uses: folio-org/.github/.github/workflows/ui.yml@v1
     with:
       sonar-sources: ./lib
       generate-module-descriptor: false # Shared libraries do not need module descriptors, they're an okapi thing
