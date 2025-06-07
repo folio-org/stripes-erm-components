@@ -248,11 +248,12 @@
     "errors.errorCard.defaultTitle": "Something went wrong.",
     "errors.errorCard.text": "Refresh the page. If the problem persists contact your administrator.",
     "errors.invalidDate": "Proszę wprowadzić prawidłową datę, aby kontynuować",
-    "documentFilter.filterName.coreDocuments": "Core documents",
+    "documentFilter.filterName.coreDocuments": "Dokumenty podstawowe",
     "documentFilter.filterName.supplementaryDocuments": "Dokumenty uzupełniające",
     "documentFilter.filterBuilder.coreDocuments": "Core document filter builder",
     "documentFilter.filterBuilder.supplementaryDocuments": "Supplementary document filter builder",
     "documentFilter.documentFilterBuilder": "Document filter builder",
     "documentFilter.has": "Ma",
-    "documentFilter.hasNot": "Nie ma"
+    "documentFilter.hasNot": "Nie ma",
+    "showTags": "Pokaż tagi"
 }

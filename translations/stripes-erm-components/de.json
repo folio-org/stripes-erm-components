@@ -254,5 +254,6 @@
     "documentFilter.filterBuilder.supplementaryDocuments": "Ergänzende Dokumentfilter-Baukasten",
     "documentFilter.documentFilterBuilder": "Dokumentfilter-Baukasten",
     "documentFilter.has": "Hat",
-    "documentFilter.hasNot": "Hat nicht"
+    "documentFilter.hasNot": "Hat nicht",
+    "showTags": "Show tags"
 }
