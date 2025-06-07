@@ -254,5 +254,6 @@
     "documentFilter.filterBuilder.supplementaryDocuments": "Bouwer van aanvullende documentfilters",
     "documentFilter.documentFilterBuilder": "Bouwer documentfilter",
     "documentFilter.has": "Heeft",
-    "documentFilter.hasNot": "Heeft niet"
+    "documentFilter.hasNot": "Heeft niet",
+    "showTags": "Tags tonen"
 }

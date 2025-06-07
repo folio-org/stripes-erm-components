@@ -254,5 +254,6 @@
     "documentFilter.filterBuilder.supplementaryDocuments": "Construtor de filtro de documento suplementar",
     "documentFilter.documentFilterBuilder": "Criador de filtros de documentos",
     "documentFilter.has": "Tem",
-    "documentFilter.hasNot": "Não tem"
+    "documentFilter.hasNot": "Não tem",
+    "showTags": "Mostrar tags"
 }

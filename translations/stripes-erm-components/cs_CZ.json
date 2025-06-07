@@ -254,5 +254,6 @@
     "documentFilter.filterBuilder.supplementaryDocuments": "Tvůrce doplňkového filtru dokumentů",
     "documentFilter.documentFilterBuilder": "Tvůrce filtru dokumentů",
     "documentFilter.has": "Má",
-    "documentFilter.hasNot": "Nemá"
+    "documentFilter.hasNot": "Nemá",
+    "showTags": "Zobrazit štítky"
 }

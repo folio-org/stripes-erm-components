@@ -254,5 +254,6 @@
     "documentFilter.filterBuilder.supplementaryDocuments": "منشئ منقح المستندات التكميلية",
     "documentFilter.documentFilterBuilder": "منشئ منقح المستندات",
     "documentFilter.has": "به",
-    "documentFilter.hasNot": "ليس به"
+    "documentFilter.hasNot": "ليس به",
+    "showTags": "Show tags"
 }

@@ -254,5 +254,6 @@
     "documentFilter.filterBuilder.supplementaryDocuments": "补充文档筛选生成器",
     "documentFilter.documentFilterBuilder": "文档筛选生成器",
     "documentFilter.has": "有",
-    "documentFilter.hasNot": "没有"
+    "documentFilter.hasNot": "没有",
+    "showTags": "显示标签"
 }
