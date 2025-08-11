@@ -48,3 +48,6 @@ export * from './lib/constants';
 
 // utility functions
 export * from './lib/utils';
+
+// Access control components
+export * from './lib/AccessControl';
