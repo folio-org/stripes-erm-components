@@ -24,6 +24,10 @@
     "@folio/stripes-cli": "^4.0.0",
     "@folio/stripes-erm-testing": "^3.0.0",
     "@formatjs/cli": "^6.6.0",
+    "@types/jest": "^29.5.5",
+    "@types/react": "^18.2.0",
+    "@typescript-eslint/eslint-plugin": "^6.7.2",
+    "@typescript-eslint/parser": "^6.7.2",
     "classnames": ">=2.2.6",
     "core-js": "^3.6.1",
     "eslint": "^7.32.0",
@@ -32,15 +36,14 @@
     "react-dom": "^18.2.0",
     "react-intl": "^7.1.5",
     "react-query": "^3.6.0",
-    "react-redux": "^8.0.5",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
-    "redux": "^4.0.0",
     "redux-observable": "^1.2.0",
     "regenerator-runtime": "^0.13.3",
     "rxjs": "^6.6.3",
     "testing-library-selector": "^0.2.1",
-    "zustand": "^4.4.0"
+    "zustand": "^4.4.0",
+    "ts-jest": "^29.1.1"
   },
   "dependencies": {
     "@k-int/stripes-kint-components": "^5.19.1",
@@ -62,7 +65,6 @@
     "react": "^18.2.0",
     "react-intl": "^7.1.5",
     "react-query": "^3.9.0",
-    "react-redux": "^8.0.5",
     "react-router-dom": "^5.2.0",
     "zustand": "^4.4.0"
   },
@@ -70,5 +72,8 @@
     "actsAs": [
       ""
     ]
+  },
+  "resolutions": {
+    "@types/react": "^18.2.0"
   }
 }

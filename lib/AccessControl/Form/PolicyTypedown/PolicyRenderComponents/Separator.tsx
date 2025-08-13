@@ -1,5 +1,9 @@
+// FIXME THIS CAN BE REMOVED IF
+//  https://github.com/folio-org/stripes-webpack/pull/167
+//  is merged
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
+import React from 'react';
 import { FormattedMessage } from 'react-intl';
-import PropTypes from 'prop-types';
 
 import { Layout } from '@folio/stripes/components';
 
@@ -9,10 +13,13 @@ import css from '../Styles.css';
 
 // CSS Components
 const cssLayoutItem = `display-flex ${css.itemMargin}`;
-const cssLayoutGreyItem = (isSelected) => { return isSelected ? cssLayoutItem : `${cssLayoutItem} ${css.greyItem}`; };
+const cssLayoutGreyItem = (isSelected: boolean) => { return isSelected ? cssLayoutItem : `${cssLayoutItem} ${css.greyItem}`; };
 const cssLayoutBoldItem = `${cssLayoutItem} ${css.boldItem}`;
 
-const Separator = ({ bold = false, isSelected = false }) => (
+const Separator = ({
+  bold = false,
+  isSelected = false
+}) => (
   <Layout
     className={bold ? cssLayoutBoldItem : cssLayoutGreyItem(isSelected)}
   >
@@ -20,8 +27,4 @@ const Separator = ({ bold = false, isSelected = false }) => (
   </Layout>
 );
 
-Separator.propTypes = {
-  bold: PropTypes.bool,
-  isSelected: PropTypes.bool
-};
 export default Separator;
