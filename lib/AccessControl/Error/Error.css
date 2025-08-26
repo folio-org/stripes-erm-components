@@ -1,0 +1,10 @@
+.errorBox {
+    color: var(--color-text-p2);
+    background: var(--error-fill);
+    min-height: 250px;
+    border-radius: var(--radius);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
