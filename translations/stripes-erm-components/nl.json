@@ -255,5 +255,18 @@
     "documentFilter.documentFilterBuilder": "Bouwer documentfilter",
     "documentFilter.has": "Heeft",
     "documentFilter.hasNot": "Heeft niet",
-    "showTags": "Tags tonen"
+    "showTags": "Tags tonen",
+    "separator": "·",
+    "accesscontrol.label": "Acquisition units",
+    "accesscontrol.typedown.label": "Add acquisition unit",
+    "accesscontrol.name": "Name",
+    "accesscontrol.description": "Description",
+    "accesscontrol.restrictions": "Access",
+    "accesscontrol.remove": "Remove",
+    "accesscontrol.acquisitionunits.protectRead": "View",
+    "accesscontrol.acquisitionunits.protectUpdate": "Edit",
+    "accesscontrol.acquisitionunits.protectCreate": "Create",
+    "accesscontrol.acquisitionunits.protectDelete": "Delete",
+    "accesscontrol.error.pane.title": "Access control error",
+    "accesscontrol.error.noAccess": "Access to this resource is restricted, please speak to your system administrator"
 }
