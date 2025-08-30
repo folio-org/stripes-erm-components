@@ -255,5 +255,18 @@
     "documentFilter.documentFilterBuilder": "Criador de filtros de documentos",
     "documentFilter.has": "Tem",
     "documentFilter.hasNot": "Não tem",
-    "showTags": "Mostrar tags"
+    "showTags": "Mostrar tags",
+    "separator": "·",
+    "accesscontrol.label": "Unidades de aquisição",
+    "accesscontrol.typedown.label": "Adicionar unidade de aquisição",
+    "accesscontrol.name": "Nome",
+    "accesscontrol.description": "Descrição",
+    "accesscontrol.restrictions": "Acesso",
+    "accesscontrol.remove": "Remover",
+    "accesscontrol.acquisitionunits.protectRead": "Visualizar",
+    "accesscontrol.acquisitionunits.protectUpdate": "Editar",
+    "accesscontrol.acquisitionunits.protectCreate": "Criar",
+    "accesscontrol.acquisitionunits.protectDelete": "Excluir",
+    "accesscontrol.error.pane.title": "Erro de controle de acesso",
+    "accesscontrol.error.noAccess": "O acesso a este recurso é restrito, fale com o administrador do sistema"
 }
