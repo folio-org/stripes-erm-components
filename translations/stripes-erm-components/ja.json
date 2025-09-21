@@ -262,11 +262,11 @@
     "accesscontrol.name": "Name",
     "accesscontrol.description": "Description",
     "accesscontrol.restrictions": "Access",
-    "accesscontrol.remove": "Remove",
-    "accesscontrol.acquisitionunits.protectRead": "View",
-    "accesscontrol.acquisitionunits.protectUpdate": "Edit",
-    "accesscontrol.acquisitionunits.protectCreate": "Create",
-    "accesscontrol.acquisitionunits.protectDelete": "Delete",
+    "accesscontrol.remove": "削除",
+    "accesscontrol.acquisitionunits.protectRead": "表示",
+    "accesscontrol.acquisitionunits.protectUpdate": "編集",
+    "accesscontrol.acquisitionunits.protectCreate": "作成",
+    "accesscontrol.acquisitionunits.protectDelete": "削除",
     "accesscontrol.error.pane.title": "Access control error",
-    "accesscontrol.error.noAccess": "Access to this resource is restricted, please speak to your system administrator"
+    "accesscontrol.error.noAccess": "このリソースへのアクセスは制限されています。システム管理者にお問い合わせください"
 }
