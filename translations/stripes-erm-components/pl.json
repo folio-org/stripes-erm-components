@@ -262,7 +262,7 @@
     "accesscontrol.name": "Name",
     "accesscontrol.description": "Description",
     "accesscontrol.restrictions": "Access",
-    "accesscontrol.remove": "Remove",
+    "accesscontrol.remove": "Usuń",
     "accesscontrol.acquisitionunits.protectRead": "View",
     "accesscontrol.acquisitionunits.protectUpdate": "Edit",
     "accesscontrol.acquisitionunits.protectCreate": "Create",
