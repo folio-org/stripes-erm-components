@@ -268,5 +268,6 @@
     "accesscontrol.acquisitionunits.protectCreate": "作成",
     "accesscontrol.acquisitionunits.protectDelete": "削除",
     "accesscontrol.error.pane.title": "Access control error",
-    "accesscontrol.error.noAccess": "このリソースへのアクセスは制限されています。システム管理者にお問い合わせください"
+    "accesscontrol.error.noAccess": "このリソースへのアクセスは制限されています。システム管理者にお問い合わせください",
+    "accesscontrol.removeAcqUnit": "Remove \"{acqUnitName}\""
 }

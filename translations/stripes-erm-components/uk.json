@@ -268,5 +268,6 @@
     "accesscontrol.acquisitionunits.protectCreate": "Створити",
     "accesscontrol.acquisitionunits.protectDelete": "Видалити",
     "accesscontrol.error.pane.title": "Помилка контролю доступу",
-    "accesscontrol.error.noAccess": "Доступ до цього ресурсу обмежений, зверніться до вашого системного адміністратора"
+    "accesscontrol.error.noAccess": "Доступ до цього ресурсу обмежений, зверніться до вашого системного адміністратора",
+    "accesscontrol.removeAcqUnit": "Вилучити \" {acqUnitName} \""
 }

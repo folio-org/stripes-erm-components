@@ -268,5 +268,6 @@
     "accesscontrol.acquisitionunits.protectCreate": "Criar",
     "accesscontrol.acquisitionunits.protectDelete": "Excluir",
     "accesscontrol.error.pane.title": "Erro de controle de acesso",
-    "accesscontrol.error.noAccess": "O acesso a este recurso é restrito, fale com o administrador do sistema"
+    "accesscontrol.error.noAccess": "O acesso a este recurso é restrito, fale com o administrador do sistema",
+    "accesscontrol.removeAcqUnit": "Remover \"{acqUnitName}\""
 }
