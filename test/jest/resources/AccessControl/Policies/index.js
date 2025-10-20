@@ -2,10 +2,9 @@ import {
   ACQUISITION_UNIT_MEMBER_NON_RESTRICTIVE,
   ACQUISITION_UNIT_MEMBER_RESTRICTIVE,
   ACQUISITION_UNIT_NON_MEMBER_NON_RESTRICTIVE,
-  ACQUISITION_UNIT_POLICY_TYPE
+  ACQUISITION_UNIT_POLICY_TYPE,
+  policiesFlattener,
 } from '../../../../../lib/AccessControl';
-
-import { policiesFlattener, useRestrictionPolicies } from '../../../../../lib/AccessControl/hooks';
 
 import {
   AUPolicyMain,
