@@ -2,9 +2,9 @@ import {
   ACQUISITION_UNIT_MEMBER_NON_RESTRICTIVE,
   ACQUISITION_UNIT_MEMBER_RESTRICTIVE,
   ACQUISITION_UNIT_NON_MEMBER_NON_RESTRICTIVE,
-  ACQUISITION_UNIT_POLICY_TYPE
+  ACQUISITION_UNIT_POLICY_TYPE,
+  policiesFlattener
 } from '../../../../../lib/AccessControl';
-import { claimFlattener } from '../../../../../lib/AccessControl/hooks/useClaimPolicies';
 
 import {
   AUPolicyMain,
@@ -90,4 +90,4 @@ export const claimPolicies = {
 };
 
 // I don't like that I've had to do this in the test resources file too
-export const flattenedPolicies = claimFlattener(claimPolicies.claimPolicies);
+export const flattenedPolicies = policiesFlattener(claimPolicies.claimPolicies);
