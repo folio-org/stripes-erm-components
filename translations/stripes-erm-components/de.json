@@ -268,5 +268,6 @@
     "accesscontrol.acquisitionunits.protectCreate": "Erstellen",
     "accesscontrol.acquisitionunits.protectDelete": "Löschen",
     "accesscontrol.error.pane.title": "Fehler bei Zugriffskontrolle",
-    "accesscontrol.error.noAccess": "Zugriff auf diese Ressource ist eingeschränkt, bitte an Systemadministration wenden"
+    "accesscontrol.error.noAccess": "Zugriff auf diese Ressource ist eingeschränkt, bitte an Systemadministration wenden",
+    "accesscontrol.removeAcqUnit": "\"{acqUnitName}\" entfernen"
 }

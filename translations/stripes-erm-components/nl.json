@@ -268,5 +268,6 @@
     "accesscontrol.acquisitionunits.protectCreate": "Aanmaken",
     "accesscontrol.acquisitionunits.protectDelete": "Verwijder",
     "accesscontrol.error.pane.title": "Fout bij toegangscontrole",
-    "accesscontrol.error.noAccess": "De toegang tot deze bron is Beperkt, neem contact op met uw systeembeheerder"
+    "accesscontrol.error.noAccess": "De toegang tot deze bron is Beperkt, neem contact op met uw systeembeheerder",
+    "accesscontrol.removeAcqUnit": "Remove \"{acqUnitName}\""
 }
