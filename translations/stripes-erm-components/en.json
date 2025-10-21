@@ -269,5 +269,7 @@
   "accesscontrol.acquisitionunits.protectCreate": "Create",
   "accesscontrol.acquisitionunits.protectDelete": "Delete",
   "accesscontrol.error.pane.title": "Access control error",
-  "accesscontrol.error.noAccess": "Access to this resource is restricted, please speak to your system administrator"
+  "accesscontrol.error.noAccess": "Access to this resource is restricted, please speak to your system administrator",
+  "accesscontrol.filter.simple.label": "Acquisition unit",
+  "accesscontrol.filter.simple.noPolicy": "No acquisition unit"
 }
