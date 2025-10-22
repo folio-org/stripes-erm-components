@@ -268,5 +268,6 @@
     "accesscontrol.acquisitionunits.protectCreate": "创建",
     "accesscontrol.acquisitionunits.protectDelete": "删除",
     "accesscontrol.error.pane.title": "访问控制错误",
-    "accesscontrol.error.noAccess": "此资源的访问受到限制，请与系统管理员联系。"
+    "accesscontrol.error.noAccess": "此资源的访问受到限制，请与系统管理员联系。",
+    "accesscontrol.removeAcqUnit": "Remove \"{acqUnitName}\""
 }
