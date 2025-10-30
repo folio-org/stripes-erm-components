@@ -269,5 +269,7 @@
     "accesscontrol.acquisitionunits.protectDelete": "Verwijder",
     "accesscontrol.error.pane.title": "Fout bij toegangscontrole",
     "accesscontrol.error.noAccess": "De toegang tot deze bron is Beperkt, neem contact op met uw systeembeheerder",
-    "accesscontrol.removeAcqUnit": "Remove \"{acqUnitName}\""
+    "accesscontrol.removeAcqUnit": "Verwijderen \"{acqUnitName}\"",
+    "accesscontrol.filter.simple.label": "Acquisition unit",
+    "accesscontrol.filter.simple.noPolicy": "No acquisition unit"
 }

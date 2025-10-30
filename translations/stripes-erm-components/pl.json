@@ -5,7 +5,7 @@
     "orgSelect.selectOrg": "Wybierz organizację",
     "orgSelect.typeToSearch": "Rozpocznij wpisywanie, aby wyszukać organizację",
     "doc.type": "Rodzaj",
-    "doc.reference": "Odniesienie",
+    "doc.reference": "Odsyłacz",
     "doc.location": "Lokalizacja fizyczna",
     "doc.url": "URL",
     "doc.note": "Uwaga",
@@ -62,7 +62,7 @@
     "contacts.noUserPlugin": "Nie zainstalowano wtyczki \"znajdź użytkownika\"",
     "contacts.phone": "Telefon",
     "contacts.user": "Użytkownika",
-    "interface.showCredentials": "Pokaż dane uwierzytelniające",
+    "interface.showCredentials": "Pokaż dane logowania",
     "interface.hideCredentials": "Ukryj dane uwierzytelniające",
     "contactSelect.selectContact": "Wybierz kontakt wewnętrzny",
     "contactSelect.typeToSearch": "Rozpocznij wpisywanie, aby wyszukać kontakt",
@@ -79,7 +79,7 @@
     "organizations.linkOrganization": "Połącz organizację",
     "organizations.linkOrganizationToStart": "Połącz organizację, aby rozpocząć",
     "organizations.replaceOrganization": "Zastąp organizację",
-    "interface.noCredentialsPermission": "Nie masz odpowiednich uprawnień, aby zobaczyć dane uwierzytelniające platformy",
+    "interface.noCredentialsPermission": "Nie masz odpowiednich uprawnień, aby zobaczyć dane logowania platformy",
     "viewOrg.name": "Nazwa",
     "organizations.noOrgPlugin": "Nie zainstalowano wtyczki \"znajdź organizację\"",
     "errors.uploadError.1": "<strong>Błąd:</strong> Plik nie został przesłany, ponieważ połączenie zostało przerwane",
@@ -269,5 +269,7 @@
     "accesscontrol.acquisitionunits.protectDelete": "Usuń",
     "accesscontrol.error.pane.title": "Access control error",
     "accesscontrol.error.noAccess": "Access to this resource is restricted, please speak to your system administrator",
-    "accesscontrol.removeAcqUnit": "Remove \"{acqUnitName}\""
+    "accesscontrol.removeAcqUnit": "Usuń „{acqUnitName}”",
+    "accesscontrol.filter.simple.label": "Acquisition unit",
+    "accesscontrol.filter.simple.noPolicy": "No acquisition unit"
 }
