@@ -269,5 +269,7 @@
     "accesscontrol.acquisitionunits.protectDelete": "Видалити",
     "accesscontrol.error.pane.title": "Помилка контролю доступу",
     "accesscontrol.error.noAccess": "Доступ до цього ресурсу обмежений, зверніться до вашого системного адміністратора",
-    "accesscontrol.removeAcqUnit": "Вилучити \" {acqUnitName} \""
+    "accesscontrol.removeAcqUnit": "Вилучити \" {acqUnitName} \"",
+    "accesscontrol.filter.simple.label": "Підрозділи для придбання/комплектування",
+    "accesscontrol.filter.simple.noPolicy": "Підрозділи для придбання/комплектування відсутні"
 }
