@@ -20,8 +20,13 @@ import {
   AUPolicyRestrictDeleteNonMember
 } from './AcquisitionUnits';
 
+import {
+  otherTypePolicies
+} from './OtherTypes';
+
 // Re-export everything from the units
 export * from './AcquisitionUnits';
+export * from './OtherTypes';
 
 export const readPolicies = {
   readPolicies: [
@@ -92,3 +97,13 @@ export const claimPolicies = {
 // I don't like that I've had to do this in the test resources file too
 export const flattenedClaimPolicies = policiesFlattener(claimPolicies.claimPolicies);
 export const flattenedReadPolicies = policiesFlattener(readPolicies.readPolicies);
+
+export const flattenedOtherTypePolicies = policiesFlattener(otherTypePolicies);
+
+export const mixedPolicies = [
+  ...claimPolicies.claimPolicies,
+  ...readPolicies.readPolicies,
+  ...otherTypePolicies
+];
+
+export const flattenedMixedPolicies = policiesFlattener(mixedPolicies);
