@@ -270,6 +270,6 @@
     "accesscontrol.error.pane.title": "Chyba řízení přístupu",
     "accesscontrol.error.noAccess": "Přístup k tomuto zdroji je omezen, obraťte se prosím na správce systému.",
     "accesscontrol.removeAcqUnit": "Odebrat „{acqUnitName}“",
-    "accesscontrol.filter.simple.label": "Acquisition unit",
+    "accesscontrol.filter.simple.label": "Akviziční jednotka",
     "accesscontrol.filter.simple.noPolicy": "No acquisition unit"
 }
