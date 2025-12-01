@@ -270,6 +270,6 @@
     "accesscontrol.error.pane.title": "Fout bij toegangscontrole",
     "accesscontrol.error.noAccess": "De toegang tot deze bron is Beperkt, neem contact op met uw systeembeheerder",
     "accesscontrol.removeAcqUnit": "Verwijderen \"{acqUnitName}\"",
-    "accesscontrol.filter.simple.label": "Acquisition unit",
-    "accesscontrol.filter.simple.noPolicy": "No acquisition unit"
+    "accesscontrol.filter.simple.label": "Acquisitie-afdeling",
+    "accesscontrol.filter.simple.noPolicy": "Geen Acquisitie-afdeling"
 }

@@ -270,6 +270,6 @@
     "accesscontrol.error.pane.title": "Fehler bei Zugriffskontrolle",
     "accesscontrol.error.noAccess": "Zugriff auf diese Ressource ist eingeschränkt, bitte an Systemadministration wenden",
     "accesscontrol.removeAcqUnit": "\"{acqUnitName}\" entfernen",
-    "accesscontrol.filter.simple.label": "Acquisition unit",
-    "accesscontrol.filter.simple.noPolicy": "No acquisition unit"
+    "accesscontrol.filter.simple.label": "Erwerbungsteam",
+    "accesscontrol.filter.simple.noPolicy": "Kein Erwerbungsteam"
 }
