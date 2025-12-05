@@ -107,3 +107,29 @@ export const mixedPolicies = [
 ];
 
 export const flattenedMixedPolicies = policiesFlattener(mixedPolicies);
+
+// The response from /erm/entitlement/{id}/policies, specifically... for use in testing usePolicies
+// This is currently unused, as we are directly mocking usePolicies returning lists of
+// policies instead of the more nuanced owner shape below, which is fine as currently usePolicies returns "rootPolicies"
+// in place of the policies list in its entirety.
+export const policiesForResource = [
+  {
+    ownerLevel: 0,
+    resourceClass: 'org.olf.erm.Entitlement',
+    ownerId: '4e2dec23-e288-492f-aadc-53a2741b614e', // For now this is a made up value
+    policies: []
+  },
+  {
+    ownerLevel: 1,
+    resourceClass: 'org.olf.erm.SubscriptionAgreement',
+    ownerId: '8e6d0838-14f8-4a74-b8c5-28c17af70230', // For now this is a made up value
+    policies: [
+      {
+        id: '1126f660-162d-4598-b6b3-53dbaa84b304', // This corresponds to AccessControlEntity, but that
+        policy: AUPolicyRestrictUpdateMember,
+        type: ACQUISITION_UNIT_POLICY_TYPE,
+        description: 'Restricts edit (and is member)'
+      }
+    ]
+  }
+];
