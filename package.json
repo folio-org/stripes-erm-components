@@ -43,7 +43,7 @@
     "zustand": "^4.4.0"
   },
   "dependencies": {
-    "@k-int/stripes-kint-components": "^5.19.1",
+    "@k-int/stripes-kint-components": "^5.30.0",
     "dayjs": "^1.11.13",
     "final-form": "^4.18.4",
     "final-form-arrays": "^3.0.1",
