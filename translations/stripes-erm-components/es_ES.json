@@ -270,6 +270,6 @@
     "accesscontrol.error.pane.title": "Access control error",
     "accesscontrol.error.noAccess": "Access to this resource is restricted, please speak to your system administrator",
     "accesscontrol.removeAcqUnit": "Remove \"{acqUnitName}\"",
-    "accesscontrol.filter.simple.label": "Acquisition unit",
-    "accesscontrol.filter.simple.noPolicy": "No acquisition unit"
+    "accesscontrol.filter.simple.label": "Unidad de adquisición",
+    "accesscontrol.filter.simple.noPolicy": "Sin unidad de adquisición"
 }
