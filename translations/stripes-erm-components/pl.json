@@ -265,7 +265,7 @@
     "accesscontrol.remove": "Usuń",
     "accesscontrol.acquisitionunits.protectRead": "Podgląd",
     "accesscontrol.acquisitionunits.protectUpdate": "Edytuj",
-    "accesscontrol.acquisitionunits.protectCreate": "Create",
+    "accesscontrol.acquisitionunits.protectCreate": "Utwórz",
     "accesscontrol.acquisitionunits.protectDelete": "Usuń",
     "accesscontrol.error.pane.title": "Access control error",
     "accesscontrol.error.noAccess": "Access to this resource is restricted, please speak to your system administrator",
