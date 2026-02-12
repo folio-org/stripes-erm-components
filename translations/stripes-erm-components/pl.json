@@ -259,7 +259,7 @@
     "separator": "·",
     "accesscontrol.label": "Jednostki gromadzenia",
     "accesscontrol.typedown.label": "Add acquisition unit",
-    "accesscontrol.name": "Name",
+    "accesscontrol.name": "Nazwa",
     "accesscontrol.description": "Description",
     "accesscontrol.restrictions": "Access",
     "accesscontrol.remove": "Usuń",
