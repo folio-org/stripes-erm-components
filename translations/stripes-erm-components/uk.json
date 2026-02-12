@@ -270,6 +270,6 @@
     "accesscontrol.error.pane.title": "Помилка контролю доступу",
     "accesscontrol.error.noAccess": "Доступ до цього ресурсу обмежений, зверніться до вашого системного адміністратора",
     "accesscontrol.removeAcqUnit": "Вилучити \" {acqUnitName} \"",
-    "accesscontrol.filter.simple.label": "Підрозділи для придбання/комплектування",
-    "accesscontrol.filter.simple.noPolicy": "Підрозділи для придбання/комплектування відсутні"
+    "accesscontrol.filter.simple.label": "Підрозділ для придбання/комплектування",
+    "accesscontrol.filter.simple.noPolicy": "Підрозділ для придбання/комплектування відсутній"
 }
