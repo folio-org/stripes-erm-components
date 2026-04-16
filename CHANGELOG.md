@@ -1,6 +1,21 @@
 # Change history for stripes-erm-components
 
-## 10.1.0 IN PROGRESS
+## 10.1.0 2026-04-16
+  * ERM-3953: Add deprecated warning to useParallelBatchFetch
+  * ERM-3944: Form elements must have labels within 'Agreement Content' dropdown
+  * ERM-3932: AcquisitionsUnits filter has issue filtering "NONE" option
+  * ERM-3896: Move focus to attribue when adding filter
+  * ERM-3862: Resource access policies on agreements do not correctly interact with agreement lines
+  * ERM-3867: Switch to using mod-settings to check tags enabled
+  * ERM-3850: Sort list of acquisition units in agreements edit/create screen
+  * ERM-3849: Sort list of acquisition units in filter
+  * ERM-3820: On creating/editing an agreement, do not POST a `claim` for access policies unless there are changes
+  * ERM-3805: Trashcan on Acq Unit list in Agreement edit view should include a tooltip
+  * ERM-3780: Add sortability to PoliciesTable
+  * ERM-3783: Add Acquisition Units filter to Agreement search
+  * ERM-3719: Replace deprecated components from erm-components
+  * ERM-3704: Hide tags icon when tags are disabled
+  * ERM-3693: Unclamp workflow dependency
 
 ## 10.0.0 2025-03-13
   * ERM-3606 *BREAKING* Stripes v10 dependencies update
