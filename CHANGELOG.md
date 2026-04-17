@@ -1,5 +1,7 @@
 # Change history for stripes-erm-components
 
+## 10.2.0 IN PROGRESS
+
 ## 10.1.0 2026-04-16
   * ERM-3953: Add deprecated warning to useParallelBatchFetch
   * ERM-3944: Form elements must have labels within 'Agreement Content' dropdown
