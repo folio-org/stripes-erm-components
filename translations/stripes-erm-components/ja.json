@@ -259,7 +259,7 @@
     "separator": "·",
     "accesscontrol.label": "収集ユニット",
     "accesscontrol.typedown.label": "収集ユニットを追加",
-    "accesscontrol.name": "Name",
+    "accesscontrol.name": "名称",
     "accesscontrol.description": "説明",
     "accesscontrol.restrictions": "アクセス",
     "accesscontrol.remove": "削除",
