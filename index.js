@@ -32,6 +32,7 @@ export { default as OrganizationSelection } from './lib/OrganizationSelection';
 export { default as SearchKeyControl } from './lib/SearchKeyControl';
 export { default as SerialCoverage } from './lib/SerialCoverage';
 export { default as Tags } from './lib/Tags';
+export { default as TagsFilter } from './lib/TagsFilter';
 export { default as TitleOnPlatformLink } from './lib/TitleOnPlatformLink';
 export { default as ViewOrganizationCard } from './lib/ViewOrganizationCard';
 export { default as RefdataSelect } from './lib/RefdataSelect';
