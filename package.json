@@ -1,6 +1,6 @@
 {
   "name": "@folio/stripes-erm-components",
-  "version": "10.1.0",
+  "version": "10.1.1",
   "description": "Component library for Stripes ERM applications",
   "sideEffects": [
     "*.css"
@@ -18,11 +18,11 @@
   "devDependencies": {
     "@babel/core": "^7.18.9",
     "@babel/eslint-parser": "^7.15.0",
-    "@folio/eslint-config-stripes": "^8.0.0",
-    "@folio/jest-config-stripes": "^3.0.0",
-    "@folio/stripes": "^10.0.0",
-    "@folio/stripes-cli": "^4.0.0",
-    "@folio/stripes-erm-testing": "^3.0.0",
+    "@folio/eslint-config-stripes": "^9.0.0",
+    "@folio/jest-config-stripes": "^3.1.0",
+    "@folio/stripes": "^10.1.0",
+    "@folio/stripes-cli": "^5.0.0",
+    "@folio/stripes-erm-testing": "^3.1.0",
     "@formatjs/cli": "^6.6.0",
     "classnames": ">=2.2.6",
     "core-js": "^3.6.1",
@@ -43,7 +43,7 @@
     "zustand": "^4.4.0"
   },
   "dependencies": {
-    "@k-int/stripes-kint-components": "^5.30.0",
+    "@k-int/stripes-kint-components": "^5.37.0",
     "dayjs": "^1.11.13",
     "final-form": "^4.18.4",
     "final-form-arrays": "^3.0.1",
@@ -58,7 +58,7 @@
     "validator": "^13.11.0"
   },
   "peerDependencies": {
-    "@folio/stripes": "^10.0.0",
+    "@folio/stripes": "^10.1.0",
     "react": "^18.2.0",
     "react-intl": "^7.1.5",
     "react-query": "^3.9.0",
