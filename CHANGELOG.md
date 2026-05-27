@@ -1,6 +1,9 @@
 # Change history for stripes-erm-components
 
-## 10.2.0 IN PROGRESS
+## 10.1.1 2026-05-27
+  * ERM-3994 Add TagFilter shared component
+  * Updated Trillium dependencies
+  * Comment explicitly deprecating useChunkedCQLFetch in stripes-erm-components
 
 ## 10.1.0 2026-04-16
   * ERM-3953: Add deprecated warning to useParallelBatchFetch
