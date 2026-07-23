@@ -14,7 +14,7 @@ to a record.
 
 - **Backend Support**: Assumes the backend provides an endpoint for the requested restriction type (e.g.,
   `endpoint/claimPolicies` or `endpoint/readPolicies`).
-- **doAccessControl**: This hook makes a call to enabledEngines to automatically turn off the useRestrictionPolicies
-  calls when accessControl is not enabled.
+- **doAccessControl**: This hook does NOT restrict access automatically to policies based on access control. To wire
+  this up use queryOptions.enabled = !doAccessControlLoading && doAccessControl.
 - **Data Shape**: Expects the backend to return an object where the key matches the restriction policies string (e.g.,
   `{ claimPolicies: [...] }`).
